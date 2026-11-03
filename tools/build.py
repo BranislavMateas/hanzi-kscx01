@@ -49,7 +49,7 @@ for z,_,_ in wds:
         if '一'<=ch<='鿿' and ch not in have and ch not in need:need.append(ch)
 print('missing mnemonic',[c for c in need if c not in tab],'extra',[c for c in tab if c not in need])
 base=len(data['lessons'])
-names={'t3':'L3: Dátum a čas','c1':'Cesta: prežitie','c2':'Cesta: jedlo','c3':'Cesta: nákupy','c4':'Cesta: doprava','c5':'Cesta: hotel','c6':'Cesta: výlety','c7':'Cesta: rozhovor','c8':'Cesta: núdza','c9':'Najčastejšie vzory'}
+names={'t3':'L3: Dátum a čas','c1':'Cesta: prežitie','c2':'Cesta: jedlo','c3':'Cesta: nákupy','c4':'Cesta: doprava','c5':'Cesta: hotel','c6':'Cesta: výlety','c7':'Cesta: rozhovor','c8':'Cesta: núdza','c9':'Najčastejšie vzory','x1':'Slang'}
 order=list(names);first={}
 for it in items:
     for tok in it['t']:

@@ -13,7 +13,8 @@ async def one(a,t):
     async with sem:
         for k in range(4):
             try:
-                await edge_tts.Communicate(t,'zh-CN-XiaoxiaoNeural').save(f'newaudio/{a}.tmp');os.replace(f'newaudio/{a}.tmp',f'newaudio/{a}');return
+                # the voice reads 操 as cāo; 肏 gives the slang reading cào
+                await edge_tts.Communicate(t.replace('操','肏'),'zh-CN-XiaoxiaoNeural').save(f'newaudio/{a}.tmp');os.replace(f'newaudio/{a}.tmp',f'newaudio/{a}');return
             except Exception as e:
                 await asyncio.sleep(2+2*k)
         fails.append((a,t))

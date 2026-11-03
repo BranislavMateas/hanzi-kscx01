@@ -531,3 +531,6 @@ G c9|Najčastejšie vzory|🧠|trip
 对不起 ， 我 错 了 。|Duìbuqǐ, wǒ cuò le.|Prepáčte, pomýlil som sa.
 我 七 点 起床 。|Wǒ qī diǎn qǐchuáng.|Vstávam o siedmej.
 还 有 吗 ？|Hái yǒu ma?|Ešte máte?
+G x1|Slang (pozor, vulgárne!)|🤬|trip
+操 ！|Cào!|Ku*va! (doslova „jebať“)
+我操 ！|Wǒ cào!|Do riti! / Čo to, do pr*ele?!
