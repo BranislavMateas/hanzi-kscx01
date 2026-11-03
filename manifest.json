@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "汉字 KSCX01",
+  "version": "1.0",
+  "description": "Čínske znaky z tvojho Anki decku – na každej novej karte.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmp8CfaJ3mM/dazuu8LGl02BGh5wjG508WAemw5lfbU/0Y8aen1LiwnQuJxQ3DuPDtjkoXKA9rJBJlv+iyZIfn0mQ5ypICP7OUVBv+4YIwTAdMPSTez5MS22uCfKxqploaCjsfZRsygC4aDjIsgEKicFEbUX1crgKjGAccxLiV2v3/GWqsyTYMK0bT3hbmUDpOZaTK6LRp88O431N/Mr1DvhGUlBqaZm3nMv2ANP4SfMtxODNdsuxd2G4dmr7OC4twhIy8yEWqVV0WtZ0asbuyNPLgKLMV1vffq0jYlOXNXBOitJdR+xfDTerdZviMlWd44rOvKi+ocIGF3MJANj69QIDAQAB",
+  "chrome_url_overrides": {"newtab": "index.html"},
+  "icons": {"128": "icon.png"}
+}

@@ -1,0 +1,9 @@
+# osobný postup a lokálne ID
+restore.js
+.id
+# výstupy skriptov v tools/
+tools/data.js
+tools/sentences.js
+tools/strokes.js
+tools/newaudio/
+tools/__pycache__/

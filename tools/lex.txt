@@ -1,0 +1,403 @@
+你好|nǐ hǎo|ahoj
+老师|lǎoshī|učiteľ
+好|hǎo|dobrý; dobre
+大家|dàjiā|všetci
+早上|zǎoshang|ráno
+下午|xiàwǔ|popoludnie
+欢迎|huānyíng|vitajte
+上课|shàng kè|začať hodinu
+下课|xià kè|skončiť hodinu
+打开|dǎkāi|otvoriť
+书|shū|kniha
+我|wǒ|ja
+说|shuō|hovoriť
+你们|nǐmen|vy
+听|tīng|počúvať
+看|kàn|pozerať; čítať
+黑板|hēibǎn|tabuľa
+对|duì|správny
+不|bù|nie
+很|hěn|veľmi
+请|qǐng|prosím; pozvať
+跟|gēn|s; po (niekom)
+再|zài|znova
+一遍|yí biàn|raz (od začiatku)
+你|nǐ|ty
+懂|dǒng|rozumieť
+了|le|(zmena / hotovo)
+对不起|duìbuqǐ|prepáč
+谢谢|xièxie|ďakujem
+这|zhè|toto
+是|shì|byť
+什么|shénme|čo; aký
+这个|zhège|tento
+中文|Zhōngwén|čínština
+怎么|zěnme|ako
+意思|yìsi|význam
+告诉|gàosu|povedať (komu)
+再见|zàijiàn|dovidenia
+斯洛伐克|Sīluòfákè|Slovensko
+人|rén|človek
+来自|láizì|pochádzať z
+知道|zhīdào|vedieť
+饿|è|hladný
+吃|chī|jesť
+吗|ma|(otázka áno/nie)
+请问|qǐngwèn|prepáčte, môžem sa spýtať
+贵姓|guìxìng|vaše ctené priezvisko
+姓|xìng|mať priezvisko
+李|Lǐ|Li (priezvisko)
+呢|ne|a ty? (otázka)
+王|Wáng|Wang (priezvisko)
+小姐|xiǎojiě|slečna
+叫|jiào|volať sa
+名字|míngzi|meno
+李友|Lǐ Yǒu|Li You (meno)
+先生|xiānsheng|pán
+王朋|Wáng Péng|Wang Peng (meno)
+学生|xuésheng|študent
+也|yě|tiež
+中国|Zhōngguó|Čína
+北京|Běijīng|Peking
+美国|Měiguó|Amerika
+纽约|Niǔyuē|New York
+高文中|Gāo Wénzhōng|Gao Wenzhong (meno)
+那|nà|tamto
+的|de|(privlastnenie)
+照片|zhàopiàn|fotka
+爸爸|bàba|otec
+妈妈|māma|mama
+女孩子|nǚ háizi|dievča
+谁|shéi|kto
+她|tā|ona
+姐姐|jiějie|staršia sestra
+男孩子|nán háizi|chlapec
+弟弟|dìdi|mladší brat
+他|tā|on
+大哥|dàgē|najstarší brat
+儿子|érzi|syn
+有|yǒu|mať; je tu
+女儿|nǚ'ér|dcéra
+没有|méiyǒu|nemať; nie je
+白英爱|Bái Yīng'ài|Bai Ying'ai (meno)
+家|jiā|rodina; domov
+几|jǐ|koľko
+口|kǒu|(počítadlo členov rodiny)
+六|liù|šesť
+一|yī|jeden
+个|ge|(počítadlo)
+哥哥|gēge|starší brat
+两|liǎng|dva
+妹妹|mèimei|mladšia sestra
+和|hé|a
+五|wǔ|päť
+大姐|dàjiě|najstaršia sestra
+二姐|èrjiě|druhá sestra
+做|zuò|robiť
+工作|gōngzuò|práca
+律师|lǜshī|právnik
+英文|Yīngwén|angličtina
+都|dōu|všetci; obaja
+大学生|dàxuéshēng|vysokoškolák
+医生|yīshēng|lekár
+孩子|háizi|dieťa
+那个|nàge|tamten
+三|sān|tri
+小高|Xiǎo Gāo|Malý Gao (meno)
+他们|tāmen|oni
+四|sì|štyri
+爷爷|yéye|starý otec
+奶奶|nǎinai|stará mama
+九月|jiǔyuè|september
+十二|shí'èr|dvanásť
+号|hào|(deň v mesiaci)
+星期几|xīngqījǐ|aký deň v týždni
+星期四|xīngqīsì|štvrtok
+天|tiān|deň
+生日|shēngrì|narodeniny
+今年|jīnnián|tento rok
+多|duō|veľa; koľko
+大|dà|veľký; starý
+十八|shíbā|osemnásť
+岁|suì|rok (veku)
+吃饭|chī fàn|jesť (jedlo)
+怎么样|zěnmeyàng|čo ty na to?
+太|tài|príliš
+喜欢|xǐhuan|mať rád
+菜|cài|jedlo (kuchyňa)
+还是|háishi|alebo (v otázke)
+英国|Yīngguó|Británia
+可是|kěshì|ale
+我们|wǒmen|my
+点|diǎn|hodina (čas)
+七|qī|sedem
+半|bàn|pol
+晚上|wǎnshang|večer
+见|jiàn|vidieť (sa)
+二月|èryuè|február
+钟|zhōng|hodiny (presne)
+十一|shíyī|jedenásť
+四十|sìshí|štyridsať
+分|fēn|minúta
+零|líng|nula
+二十|èrshí|dvadsať
+八|bā|osem
+五十|wǔshí|päťdesiat
+刻|kè|štvrťhodina
+九|jiǔ|deväť
+十|shí|desať
+明天|míngtiān|zajtra
+今天|jīntiān|dnes
+三月|sānyuè|marec
+二十一|èrshíyī|dvadsaťjeden
+星期三|xīngqīsān|streda
+月|yuè|mesiac
+高|gāo|vysoký; Gao
+星期五|xīngqīwǔ|piatok
+星期六|xīngqīliù|sobota
+祝|zhù|priať
+快乐|kuàilè|šťastný
+现在|xiànzài|teraz
+事儿|shìr|vec; niečo na práci
+忙|máng|zaneprázdnený
+晚饭|wǎnfàn|večera
+为什么|wèishénme|prečo
+因为|yīnwèi|pretože
+还|hái|ešte
+听不懂|tīng bu dǒng|nerozumieť (sluchom)
+慢|màn|pomalý
+一点|yìdiǎn|trochu
+会|huì|vedieť (naučené)
+客气|kèqi|zdvorilý; robiť si okolky
+没|méi|ne- (minulosť)
+关系|guānxi|vzťah; „to nič“
+不好意思|bù hǎoyìsi|prepáčte
+可以|kěyǐ|môcť; dá sa
+等|děng|čakať
+一下|yíxià|na chvíľu
+要|yào|chcieť; dať si
+帮|bāng|pomôcť
+写|xiě|písať
+问题|wèntí|problém; otázka
+真的|zhēn de|naozaj
+用|yòng|použiť
+手机|shǒujī|mobil
+翻译|fānyì|prekladať
+位|wèi|(počítadlo ľudí, zdvorilé)
+这儿|zhèr|tu
+给|gěi|dať; pre
+菜单|càidān|jedálny lístok
+好吃|hǎochī|chutný
+辣|là|pikantný
+肉|ròu|mäso
+能|néng|môcť (byť schopný)
+碗|wǎn|miska
+米饭|mǐfàn|ryža (varená)
+面条|miàntiáo|rezance
+饺子|jiǎozi|knedličky
+想|xiǎng|chcieť; myslieť
+烤鸭|kǎoyā|pečená kačica
+喝|hē|piť
+水|shuǐ|voda
+杯|bēi|šálka; pohár
+茶|chá|čaj
+咖啡|kāfēi|káva
+瓶|píng|fľaša
+啤酒|píjiǔ|pivo
+来|lái|prísť; dať si
+渴|kě|smädný
+吃饱|chī bǎo|najesť sa
+服务员|fúwùyuán|čašník
+买单|mǎi dān|zaplatiť účet
+打包|dǎbāo|zabaliť so sebou
+干杯|gānbēi|na zdravie
+多少|duōshao|koľko
+钱|qián|peniaze
+一共|yígòng|spolu
+贵|guì|drahý
+便宜|piányi|lacný
+块|kuài|juan (hovorovo)
+一百|yìbǎi|sto
+买|mǎi|kúpiť
+看看|kànkan|pozrieť sa
+小|xiǎo|malý
+微信|Wēixìn|WeChat
+支付宝|Zhīfùbǎo|Alipay
+刷卡|shuā kǎ|platiť kartou
+现金|xiànjīn|hotovosť
+扫|sǎo|skenovať
+付|fù|platiť
+袋子|dàizi|taška
+超市|chāoshì|supermarket
+在|zài|byť (niekde); v; práve
+哪儿|nǎr|kde
+商店|shāngdiàn|obchod
+东西|dōngxi|veci
+件|jiàn|(počítadlo oblečenia)
+衣服|yīfu|oblečenie
+水果|shuǐguǒ|ovocie
+苹果|píngguǒ|jablko
+斤|jīn|pol kila
+地铁站|dìtiězhàn|stanica metra
+洗手间|xǐshǒujiān|toaleta
+厕所|cèsuǒ|záchod
+去|qù|ísť (niekam)
+机场|jīchǎng|letisko
+火车站|huǒchēzhàn|vlaková stanica
+酒店|jiǔdiàn|hotel
+师傅|shīfu|majster; pán (vodič)
+外滩|Wàitān|Bund (Šanghaj)
+到|dào|prísť; do
+停|tíng|zastaviť
+往|wǎng|smerom
+前|qián|vpredu
+走|zǒu|kráčať; odísť
+左|zuǒ|ľavý
+右|yòu|pravý
+远|yuǎn|ďaleko
+近|jìn|blízko
+走路|zǒulù|ísť pešo
+长|cháng|dlhý
+时间|shíjiān|čas
+迷路|mílù|stratiť sa
+张|zhāng|(počítadlo: lístky, fotky)
+票|piào|lístok
+高铁|gāotiě|rýchlovlak
+开|kāi|odísť (vlak); otvoriť
+车|chē|auto; spoj
+下车|xià chē|vystúpiť
+坐|zuò|sedieť; ísť (dopravou)
+地铁|dìtiě|metro
+飞机|fēijī|lietadlo
+上海|Shànghǎi|Šanghaj
+打车|dǎ chē|vziať si taxík
+吧|ba|(návrh: poďme)
+出租车|chūzūchē|taxík
+预订|yùdìng|rezervácia
+护照|hùzhào|pas
+房间|fángjiān|izba
+住|zhù|bývať
+Wi-Fi|wi-fi|Wi-Fi
+密码|mìmǎ|heslo
+早饭|zǎofàn|raňajky
+楼|lóu|poschodie
+空调|kōngtiáo|klimatizácia
+坏|huài|pokazený
+热水|rèshuǐ|teplá voda
+退房|tuì fáng|odhlásiť sa z hotela
+放|fàng|položiť; nechať
+行李|xíngli|batožina
+电|diàn|elektrina; batéria
+充电|chōng diàn|nabíjať
+睡觉|shuìjiào|spať
+长城|Chángchéng|Veľký múr
+漂亮|piàoliang|krásny
+故宫|Gùgōng|Zakázané mesto
+门票|ménpiào|vstupenka
+樱花|yīnghuā|sakura
+真|zhēn|naozaj
+拍照|pāizhào|fotiť
+拍|pāi|odfotiť
+开门|kāi mén|otvárať
+关门|guān mén|zatvárať
+天气|tiānqì|počasie
+冷|lěng|chladno
+热|rè|teplo
+下雨|xià yǔ|pršať
+累|lèi|unavený
+高兴|gāoxìng|rád; potešený
+认识|rènshi|poznať (sa)
+哪|nǎ|ktorý
+国|guó|krajina
+旅游|lǚyóu|cestovať
+第一|dì-yī|prvý
+次|cì|raz
+学|xué|učiť sa
+每天|měitiān|každý deň
+星期一|xīngqīyī|pondelok
+课|kè|hodina (v škole)
+哪里|nǎlǐ|ale kdeže; kde
+去过|qùguo|už byť niekde
+欧洲|Ōuzhōu|Európa
+加|jiā|pridať
+慢走|màn zǒu|opatrne (rozlúčka)
+帮帮|bāngbang|pomôcť
+舒服|shūfu|pohodlný; cítiť sa dobre
+头疼|tóu téng|bolí hlava
+肚子|dùzi|brucho
+疼|téng|bolieť
+医院|yīyuàn|nemocnica
+药店|yàodiàn|lekáreň
+不见|bú jiàn|stratiť sa
+钱包|qiánbāo|peňaženka
+警察|jǐngchá|polícia
+找不到|zhǎo bu dào|nevedieť nájsť
+找|zhǎo|hľadať
+打|dǎ|(telefonovať)
+电话|diànhuà|telefón
+比|bǐ|v porovnaní s
+昨天|zuótiān|včera
+一起|yìqǐ|spolu
+所以|suǒyǐ|takže
+觉得|juéde|myslieť si
+时候|shíhou|čas; kedy
+爱|ài|ľúbiť
+只|zhī|(počítadlo zvierat)
+猫|māo|mačka
+狗|gǒu|pes
+电影|diànyǐng|film
+电视|diànshì|televízia
+电脑|diànnǎo|počítač
+学校|xuéxiào|škola
+桌子|zhuōzi|stôl
+上|shàng|na
+本|běn|(počítadlo kníh)
+椅子|yǐzi|stolička
+下面|xiàmiàn|pod
+朋友|péngyou|kamarát
+前面|qiánmiàn|vpredu
+回|huí|vrátiť sa
+明年|míngnián|budúci rok
+看见|kànjiàn|uvidieť
+读|dú|čítať
+字|zì|znak
+少|shǎo|málo
+杯子|bēizi|pohár
+饭馆|fànguǎn|reštaurácia
+分钟|fēnzhōng|minúta
+学习|xuéxí|učiť sa
+汉语|Hànyǔ|čínština
+后面|hòumiàn|vzadu
+上午|shàngwǔ|dopoludnie
+中午|zhōngwǔ|obed (čas)
+说话|shuōhuà|hovoriť
+同学|tóngxué|spolužiak
+喂|wéi|haló
+一些|yìxiē|nejaké
+您|nín|vy (zdvorilo)
+别|bié|neodchádzaj; ne-
+从|cóng|z; od
+但是|dànshì|ale
+非常|fēicháng|veľmi
+就|jiù|práve; hneď
+最|zuì|naj-
+已经|yǐjīng|už
+小时|xiǎoshí|hodina (trvanie)
+休息|xiūxi|oddychovať
+鱼|yú|ryba
+牛奶|niúnǎi|mlieko
+鸡蛋|jīdàn|vajce
+新|xīn|nový
+红|hóng|červený
+开始|kāishǐ|začať
+玩|wán|hrať sa; zabávať sa
+卖|mài|predávať
+旁边|pángbiān|vedľa
+左边|zuǒbian|vľavo
+右边|yòubian|vpravo
+希望|xīwàng|dúfať
+身体|shēntǐ|telo; zdravie
+生病|shēngbìng|ochorieť
+进|jìn|vojsť
+错|cuò|chybný; mýliť sa
+起床|qǐchuáng|vstať z postele

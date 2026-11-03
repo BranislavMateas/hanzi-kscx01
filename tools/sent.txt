@@ -1,0 +1,533 @@
+# G id | title | icon | kind(book/trip)
+# tokens (space separated, punctuation as own token) | pinyin | slovak | page
+G t0|Trieda a prvé frázy|🏫|book
+你好 ！|Nǐ hǎo!|Ahoj! / Dobrý deň!|s. 20
+老师 好 ！|Lǎoshī hǎo!|Dobrý deň, pani učiteľka!|s. 16
+大家 好 ！|Dàjiā hǎo!|Ahojte všetci!
+早上 好 ！|Zǎoshang hǎo!|Dobré ráno!
+下午 好 ！|Xiàwǔ hǎo!|Dobrý deň! (popoludní)
+欢迎 ！|Huānyíng!|Vitajte!
+上课 。|Shàng kè.|Začíname hodinu.|s. 16
+下课 ！|Xià kè!|Koniec hodiny!
+打开 书 。|Dǎkāi shū.|Otvorte knihu.|s. 16
+我 说 ， 你们 听 。|Wǒ shuō, nǐmen tīng.|Ja hovorím, vy počúvajte.|s. 16
+看 黑板 。|Kàn hēibǎn.|Pozrite sa na tabuľu.|s. 16
+对 不 对 ？|Duì bu duì?|Je to správne?|s. 16
+对 ！|Duì!|Správne!|s. 16
+很 好 ！|Hěn hǎo!|Veľmi dobre!|s. 16
+请 跟 我 说 。|Qǐng gēn wǒ shuō.|Opakujte po mne, prosím.|s. 16
+再 说 一遍 。|Zài shuō yí biàn.|Povedz to ešte raz.|s. 16
+请 再 说 一遍 。|Qǐng zài shuō yí biàn.|Povedzte to, prosím, ešte raz.|s. 17
+你 懂 不 懂 ？|Nǐ dǒng bu dǒng?|Rozumieš?
+我 懂 了 。|Wǒ dǒng le.|Už rozumiem.|s. 16
+我 不 懂 。|Wǒ bù dǒng.|Nerozumiem.
+对不起 ！|Duìbuqǐ!|Prepáč!|s. 17
+谢谢 ！|Xièxie!|Ďakujem!|s. 17
+这 是 什么 ？|Zhè shì shénme?|Čo je toto?|s. 17
+这个 中文 怎么 说 ？|Zhège Zhōngwén zěnme shuō?|Ako sa toto povie po čínsky?|s. 17
+这 是 什么 意思 ？|Zhè shì shénme yìsi?|Čo to znamená?|s. 17
+请 你 告诉 我 。|Qǐng nǐ gàosu wǒ.|Povedz mi to, prosím.|s. 17
+再见 ！|Zàijiàn!|Dovidenia!
+我 是 斯洛伐克 人 。|Wǒ shì Sīluòfákè rén.|Som zo Slovenska.
+我 来自 斯洛伐克 。|Wǒ láizì Sīluòfákè.|Pochádzam zo Slovenska.
+我 不 知道 。|Wǒ bù zhīdào.|Neviem.
+知道 了 。|Zhīdào le.|Jasné, rozumiem.
+我 饿 了 。|Wǒ è le.|Som hladný.
+吃 了 吗 ？|Chī le ma?|Už si jedol?
+
+G t1|L1 · Pozdravy|📗|book
+请问 ， 你 贵姓 ？|Qǐngwèn, nǐ guìxìng?|Prepáčte, aké je vaše priezvisko?|s. 20
+我 姓 李 。 你 呢 ？|Wǒ xìng Lǐ. Nǐ ne?|Moje priezvisko je Li. A vaše?|s. 20
+我 姓 王 。|Wǒ xìng Wáng.|Moje priezvisko je Wang.|s. 20
+李 小姐 ， 你 叫 什么 名字 ？|Lǐ xiǎojiě, nǐ jiào shénme míngzi?|Slečna Li, ako sa voláte?|s. 20
+我 叫 李友 。|Wǒ jiào Lǐ Yǒu.|Volám sa Li You.|s. 20
+王 先生 ， 你 叫 什么 名字 ？|Wáng xiānsheng, nǐ jiào shénme míngzi?|Pán Wang, ako sa voláte?|s. 20
+我 叫 王朋 。|Wǒ jiào Wáng Péng.|Volám sa Wang Peng.|s. 20
+你 叫 什么 名字 ？|Nǐ jiào shénme míngzi?|Ako sa voláš?|s. 20
+王 先生 ， 你 是 老师 吗 ？|Wáng xiānsheng, nǐ shì lǎoshī ma?|Pán Wang, ste učiteľ?|s. 27
+我 不 是 老师 ， 我 是 学生 。|Wǒ bú shì lǎoshī, wǒ shì xuésheng.|Nie som učiteľ, som študent.|s. 27
+李友 ， 你 呢 ？|Lǐ Yǒu, nǐ ne?|Li You, a ty?|s. 27
+我 也 是 学生 。|Wǒ yě shì xuésheng.|Aj ja som študent.|s. 27
+你 是 中国 人 吗 ？|Nǐ shì Zhōngguó rén ma?|Si Číňan?|s. 27
+是 ， 我 是 北京 人 。|Shì, wǒ shì Běijīng rén.|Áno, som z Pekingu.|s. 27
+你 是 美国 人 吗 ？|Nǐ shì Měiguó rén ma?|Si Američan?|s. 27
+是 ， 我 是 纽约 人 。|Shì, wǒ shì Niǔyuē rén.|Áno, som z New Yorku.|s. 27
+你 是 老师 吗 ？|Nǐ shì lǎoshī ma?|Si učiteľ?|s. 29
+我 是 老师 。|Wǒ shì lǎoshī.|Som učiteľ.|s. 29
+李友 是 学生 。|Lǐ Yǒu shì xuésheng.|Li You je študentka.|s. 29
+王朋 不 是 美国 人 。|Wáng Péng bú shì Měiguó rén.|Wang Peng nie je Američan.|s. 29
+你 姓 王 吗 ？|Nǐ xìng Wáng ma?|Voláš sa Wang (priezvisko)?|s. 30
+我 不 姓 王 。|Wǒ bú xìng Wáng.|Moje priezvisko nie je Wang.|s. 30
+我 不 是 北京 人 。|Wǒ bú shì Běijīng rén.|Nie som z Pekingu.|s. 31
+李友 不 是 中国 人 。|Lǐ Yǒu bú shì Zhōngguó rén.|Li You nie je Číňanka.|s. 31
+老师 不 姓 王 。|Lǎoshī bú xìng Wáng.|Učiteľ sa nevolá Wang.|s. 31
+王朋 是 学生 ， 李友 也 是 学生 。|Wáng Péng shì xuésheng, Lǐ Yǒu yě shì xuésheng.|Wang Peng je študent a Li You tiež.|s. 31
+你 是 中国 人 ， 我 也 是 中国 人 。|Nǐ shì Zhōngguó rén, wǒ yě shì Zhōngguó rén.|Ty si Číňan a ja tiež.|s. 32
+王朋 不 是 老师 ， 李友 也 不 是 老师 。|Wáng Péng bú shì lǎoshī, Lǐ Yǒu yě bú shì lǎoshī.|Wang Peng nie je učiteľ a Li You tiež nie.|s. 32
+你 不 是 纽约 人 ， 我 也 不 是 纽约 人 。|Nǐ bú shì Niǔyuē rén, wǒ yě bú shì Niǔyuē rén.|Ty nie si z New Yorku a ja tiež nie.|s. 32
+
+G t2|L2 · Rodina|📘|book
+高文中 ， 那 是 你 的 照片 吗 ？|Gāo Wénzhōng, nà shì nǐ de zhàopiàn ma?|Gao Wenzhong, je to tvoja fotka?|s. 42
+是 。 这 是 我 爸爸 ， 这 是 我 妈妈 。|Shì. Zhè shì wǒ bàba, zhè shì wǒ māma.|Áno. Toto je môj otec a toto moja mama.|s. 42
+这个 女孩子 是 谁 ？|Zhège nǚ háizi shì shéi?|Kto je toto dievča?|s. 42
+她 是 我 姐姐 。|Tā shì wǒ jiějie.|To je moja staršia sestra.|s. 42
+这个 男孩子 是 你 弟弟 吗 ？|Zhège nán háizi shì nǐ dìdi ma?|Je tento chlapec tvoj mladší brat?|s. 42
+不 是 ， 他 是 我 大哥 的 儿子 。|Bú shì, tā shì wǒ dàgē de érzi.|Nie, to je syn môjho najstaršieho brata.|s. 43
+你 大哥 有 女儿 吗 ？|Nǐ dàgē yǒu nǚ'ér ma?|Má tvoj najstarší brat dcéru?|s. 43
+他 没有 女儿 。|Tā méiyǒu nǚ'ér.|Nemá dcéru.|s. 43
+白英爱 ， 你 家 有 几 口 人 ？|Bái Yīng'ài, nǐ jiā yǒu jǐ kǒu rén?|Bai Ying'ai, koľko ľudí máte v rodine?|s. 50
+我 家 有 六 口 人 。|Wǒ jiā yǒu liù kǒu rén.|V rodine nás je šesť.|s. 50
+我 爸爸 、 我 妈妈 、 一 个 哥哥 、 两 个 妹妹 和 我 。|Wǒ bàba, wǒ māma, yí ge gēge, liǎng ge mèimei hé wǒ.|Môj otec, moja mama, starší brat, dve mladšie sestry a ja.|s. 50
+李友 ， 你 家 有 几 口 人 ？|Lǐ Yǒu, nǐ jiā yǒu jǐ kǒu rén?|Li You, koľko ľudí máte v rodine?|s. 50
+我 家 有 五 口 人 。|Wǒ jiā yǒu wǔ kǒu rén.|V rodine nás je päť.|s. 50
+爸爸 、 妈妈 、 大姐 、 二姐 和 我 。|Bàba, māma, dàjiě, èrjiě hé wǒ.|Otec, mama, najstaršia sestra, druhá sestra a ja.|s. 50
+你 爸爸 妈妈 做 什么 工作 ？|Nǐ bàba māma zuò shénme gōngzuò?|Čo robia tvoji rodičia?|s. 50
+我 爸爸 是 律师 ， 妈妈 是 英文 老师 。|Wǒ bàba shì lǜshī, māma shì Yīngwén lǎoshī.|Môj otec je právnik, mama je učiteľka angličtiny.|s. 51
+哥哥 、 妹妹 都 是 大学生 。|Gēge, mèimei dōu shì dàxuéshēng.|Brat aj sestra sú vysokoškoláci.|s. 51
+我 妈妈 也 是 老师 ， 我 爸爸 是 医生 。|Wǒ māma yě shì lǎoshī, wǒ bàba shì yīshēng.|Moja mama je tiež učiteľka, otec je lekár.|s. 51
+一 个 老师|Yí ge lǎoshī|jeden učiteľ|s. 45
+这个 孩子|Zhège háizi|toto dieťa|s. 46
+那个 女孩子 是 李友 。|Nàge nǚ háizi shì Lǐ Yǒu.|To dievča je Li You.|s. 46
+谁 是 李友 ？|Shéi shì Lǐ Yǒu?|Kto je Li You?|s. 46
+那个 女孩子 是 谁 ？|Nàge nǚ háizi shì shéi?|Kto je to dievča?|s. 46
+谁 是 老师 ？|Shéi shì lǎoshī?|Kto je učiteľ?|s. 47
+李 先生 是 老师 。|Lǐ xiānsheng shì lǎoshī.|Pán Li je učiteľ.|s. 47
+那个 女孩子 姓 什么 ？|Nàge nǚ háizi xìng shénme?|Aké priezvisko má to dievča?|s. 47
+那个 女孩子 姓 王 。|Nàge nǚ háizi xìng Wáng.|To dievča sa volá Wang.|s. 47
+谁 有 姐姐 ？|Shéi yǒu jiějie?|Kto má staršiu sestru?|s. 47
+高文中 有 姐姐 。|Gāo Wénzhōng yǒu jiějie.|Gao Wenzhong má staršiu sestru.|s. 47
+王 先生 有 弟弟 吗 ？|Wáng xiānsheng yǒu dìdi ma?|Má pán Wang mladšieho brata?|s. 47
+王 先生 没有 弟弟 。|Wáng xiānsheng méiyǒu dìdi.|Pán Wang nemá mladšieho brata.|s. 48
+我 有 三 个 姐姐 ， 你 呢 ？|Wǒ yǒu sān ge jiějie, nǐ ne?|Mám tri staršie sestry, a ty?|s. 48
+我 没有 姐姐 。|Wǒ méiyǒu jiějie.|Nemám staršiu sestru.|s. 48
+我 家 有 五 个 人 。|Wǒ jiā yǒu wǔ ge rén.|V rodine nás je päť.|s. 53
+小高 家 有 两 个 大学生 。|Xiǎo Gāo jiā yǒu liǎng ge dàxuéshēng.|V rodine Malého Gaoa sú dvaja vysokoškoláci.|s. 53
+王朋 、 李友 和 高文中 都 是 学生 。|Wáng Péng, Lǐ Yǒu hé Gāo Wénzhōng dōu shì xuésheng.|Wang Peng, Li You a Gao Wenzhong sú všetci študenti.|s. 54
+王朋 和 李友 都 不 是 律师 。|Wáng Péng hé Lǐ Yǒu dōu bú shì lǜshī.|Wang Peng ani Li You nie sú právnici.|s. 54
+王朋 和 白英爱 都 有 妹妹 。|Wáng Péng hé Bái Yīng'ài dōu yǒu mèimei.|Wang Peng aj Bai Ying'ai majú mladšie sestry.|s. 54
+高文中 和 李友 都 没有 弟弟 。|Gāo Wénzhōng hé Lǐ Yǒu dōu méiyǒu dìdi.|Gao Wenzhong ani Li You nemajú mladšieho brata.|s. 54
+他们 不 都 是 中国 人 。|Tāmen bù dōu shì Zhōngguó rén.|Nie všetci z nich sú Číňania.|s. 54
+他们 都 不 是 中国 人 。|Tāmen dōu bú shì Zhōngguó rén.|Nikto z nich nie je Číňan.|s. 54
+他们 不 都 有 弟弟 。|Tāmen bù dōu yǒu dìdi.|Nie všetci z nich majú mladšieho brata.|s. 54
+他们 都 没有 弟弟 。|Tāmen dōu méiyǒu dìdi.|Nikto z nich nemá mladšieho brata.|s. 54
+请问 ， 你 家 有 几 口 人 ？|Qǐngwèn, nǐ jiā yǒu jǐ kǒu rén?|Prepáčte, koľko ľudí máte v rodine?|s. 55
+我 家 有 四 口 人 。|Wǒ jiā yǒu sì kǒu rén.|V rodine nás je štyri.|s. 55
+这 是 谁 ？|Zhè shì shéi?|Kto je to?|s. 55
+这 是 王朋 。|Zhè shì Wáng Péng.|To je Wang Peng.|s. 55
+高文中 的 大哥 有 儿子 。|Gāo Wénzhōng de dàgē yǒu érzi.|Najstarší brat Gao Wenzhonga má syna.|s. 55
+这 是 我 爷爷 和 奶奶 。|Zhè shì wǒ yéye hé nǎinai.|Toto sú môj starý otec a stará mama.|s. 59
+
+G t3|L3 · Dátum a čas (po s. 83)|📕|book
+白英爱 ， 九月 十二 号 是 星期几 ？|Bái Yīng'ài, jiǔyuè shí'èr hào shì xīngqījǐ?|Bai Ying'ai, aký deň je 12. septembra?|s. 66
+是 星期四 。|Shì xīngqīsì.|Štvrtok.|s. 66
+那 天 是 我 的 生日 。|Nà tiān shì wǒ de shēngrì.|V ten deň mám narodeniny.|s. 66
+是 吗 ？ 你 今年 多 大 ？|Shì ma? Nǐ jīnnián duō dà?|Naozaj? Koľko máš rokov?|s. 66
+十八 岁 。|Shíbā suì.|Osemnásť.|s. 66
+我 星期四 请 你 吃饭 ， 怎么样 ？|Wǒ xīngqīsì qǐng nǐ chī fàn, zěnmeyàng?|Vo štvrtok ťa pozývam na jedlo, čo ty na to?|s. 66
+太 好 了 。 谢谢 ， 谢谢 。|Tài hǎo le. Xièxie, xièxie.|To je super. Ďakujem pekne.|s. 66
+你 喜欢 吃 中国 菜 还是 美国 菜 ？|Nǐ xǐhuan chī Zhōngguó cài háishi Měiguó cài?|Máš radšej čínske, alebo americké jedlo?|s. 67
+我 是 英国 人 ， 可是 我 喜欢 吃 中国 菜 。|Wǒ shì Yīngguó rén, kěshì wǒ xǐhuan chī Zhōngguó cài.|Som Brit, ale mám rád čínske jedlo.|s. 67
+好 ， 我们 吃 中国 菜 。|Hǎo, wǒmen chī Zhōngguó cài.|Dobre, dáme si čínske.|s. 67
+星期四 几 点 ？|Xīngqīsì jǐ diǎn?|Vo štvrtok o koľkej?|s. 67
+七 点 半 怎么样 ？|Qī diǎn bàn zěnmeyàng?|Čo tak o pol ôsmej?|s. 67
+好 ， 星期四 晚上 见 。|Hǎo, xīngqīsì wǎnshang jiàn.|Dobre, vidíme sa vo štvrtok večer.|s. 67
+二月 五 号|Èryuè wǔ hào|5. február|s. 73
+北京 几 点 ？ 纽约 几 点 ？|Běijīng jǐ diǎn? Niǔyuē jǐ diǎn?|Koľko je hodín v Pekingu? A v New Yorku?|s. 75
+两 点 钟|Liǎng diǎn zhōng|dve hodiny|s. 74
+十一 点 钟|Shíyī diǎn zhōng|jedenásť hodín|s. 74
+十二 点 四十 分|Shí'èr diǎn sìshí fēn|12:40|s. 74
+两 点 零 五 分|Liǎng diǎn líng wǔ fēn|2:05|s. 74
+五 点 二十 分|Wǔ diǎn èrshí fēn|5:20|s. 74
+八 点 五十 分|Bā diǎn wǔshí fēn|8:50|s. 74
+两 点 一 刻|Liǎng diǎn yí kè|štvrť na tri (2:15)|s. 75
+十一 点 三 刻|Shíyī diǎn sān kè|trištvrte na dvanásť (11:45)|s. 75
+两 点 半|Liǎng diǎn bàn|pol tretej (2:30)|s. 75
+十二 点 半|Shí'èr diǎn bàn|pol jednej (12:30)|s. 75
+晚上 七 点|Wǎnshang qī diǎn|sedem večer|s. 75
+晚上 八 点 零 五 分|Wǎnshang bā diǎn líng wǔ fēn|20:05|s. 75
+晚上 九 点 一 刻|Wǎnshang jiǔ diǎn yí kè|21:15|s. 75
+晚上 十 点 半|Wǎnshang shí diǎn bàn|22:30|s. 75
+明天 李 先生 请 你 吃 中国 菜 。|Míngtiān Lǐ xiānsheng qǐng nǐ chī Zhōngguó cài.|Zajtra ťa pán Li pozýva na čínske jedlo.|s. 76
+今天 晚上 我 请 你 和 你 妹妹 吃 美国 菜 ， 怎么样 ？|Jīntiān wǎnshang wǒ qǐng nǐ hé nǐ mèimei chī Měiguó cài, zěnmeyàng?|Dnes večer pozývam teba a tvoju sestru na americké jedlo, čo vy na to?|s. 76
+你 是 中国 人 ， 还是 美国 人 ？|Nǐ shì Zhōngguó rén, háishi Měiguó rén?|Si Číňan, alebo Američan?|s. 76
+你 哥哥 是 老师 ， 还是 学生 ？|Nǐ gēge shì lǎoshī, háishi xuésheng?|Je tvoj brat učiteľ, alebo študent?|s. 77
+是 你 请 我 吃饭 ， 还是 他 请 我 吃饭 ？|Shì nǐ qǐng wǒ chī fàn, háishi tā qǐng wǒ chī fàn?|Pozývaš ma na jedlo ty, alebo on?|s. 77
+他 喜欢 吃 中国 菜 ， 还是 喜欢 吃 美国 菜 ？|Tā xǐhuan chī Zhōngguó cài, háishi xǐhuan chī Měiguó cài?|Má radšej čínske, alebo americké jedlo?|s. 77
+中国 菜 、 美国 菜 他 都 喜欢 。|Zhōngguó cài, Měiguó cài tā dōu xǐhuan.|Má rád čínske aj americké jedlo.|s. 77
+三月 二十一 号 是 星期几 ？|Sānyuè èrshíyī hào shì xīngqījǐ?|Aký deň je 21. marca?|s. 78
+三月 二十一 号 是 星期三 。|Sānyuè èrshíyī hào shì xīngqīsān.|21. marec je streda.|s. 78
+我们 几 点 见 ？|Wǒmen jǐ diǎn jiàn?|O koľkej sa stretneme?|s. 79
+我们 七 点 半 见 。|Wǒmen qī diǎn bàn jiàn.|Stretneme sa o pol ôsmej.|s. 79
+高文中 的 生日 是 几 月 几 号 ？|Gāo Wénzhōng de shēngrì shì jǐ yuè jǐ hào?|Kedy má Gao Wenzhong narodeniny?|s. 79
+高文中 的 生日 是 九月 十二 号 。|Gāo Wénzhōng de shēngrì shì jiǔyuè shí'èr hào.|Gao Wenzhong má narodeniny 12. septembra.|s. 79
+你 的 生日 是 几 月 几 号 ？|Nǐ de shēngrì shì jǐ yuè jǐ hào?|Kedy máš narodeniny?|s. 79
+高 大哥 有 儿子 还是 有 女儿 ？|Gāo dàgē yǒu érzi háishi yǒu nǚ'ér?|Má Gaov najstarší brat syna, alebo dcéru?|s. 80
+王朋 是 学生 还是 老师 ？|Wáng Péng shì xuésheng háishi lǎoshī?|Je Wang Peng študent, alebo učiteľ?|s. 80
+你 喜欢 星期五 还是 星期六 ？|Nǐ xǐhuan xīngqīwǔ háishi xīngqīliù?|Máš radšej piatok, alebo sobotu?|s. 80
+祝 你 生日 快乐 ！|Zhù nǐ shēngrì kuàilè!|Všetko najlepšie k narodeninám!|s. 81
+我 的 生日 是 三月 。|Wǒ de shēngrì shì sānyuè.|Narodeniny mám v marci.|s. 81
+你 喜欢 吃 什么 菜 ？|Nǐ xǐhuan chī shénme cài?|Aké jedlo máš rád?|s. 82
+我 喜欢 吃 中国 菜 。|Wǒ xǐhuan chī Zhōngguó cài.|Mám rád čínske jedlo.|s. 82
+你 喜欢 吃 中国 菜 吗 ？|Nǐ xǐhuan chī Zhōngguó cài ma?|Máš rád čínske jedlo?|s. 82
+我 也 喜欢 吃 中国 菜 。|Wǒ yě xǐhuan chī Zhōngguó cài.|Aj ja mám rád čínske jedlo.|s. 82
+我 不 喜欢 吃 美国 菜 。|Wǒ bù xǐhuan chī Měiguó cài.|Nemám rád americké jedlo.|s. 82
+星期五 我 请 你 吃饭 ， 怎么样 ？|Xīngqīwǔ wǒ qǐng nǐ chī fàn, zěnmeyàng?|V piatok ťa pozývam na jedlo, čo ty na to?|s. 82
+星期五 几 点 ？|Xīngqīwǔ jǐ diǎn?|V piatok o koľkej?|s. 82
+白英爱 ， 现在 几 点 ？|Bái Yīng'ài, xiànzài jǐ diǎn?|Bai Ying'ai, koľko je hodín?|s. 83
+五 点 三 刻 。|Wǔ diǎn sān kè.|Trištvrte na šesť.|s. 83
+我 六 点 一 刻 有 事儿 。|Wǒ liù diǎn yí kè yǒu shìr.|O štvrť na sedem niečo mám.|s. 83
+你 今天 很 忙 ， 明天 忙 不 忙 ？|Nǐ jīntiān hěn máng, míngtiān máng bu máng?|Dnes máš veľa práce, a zajtra?|s. 83
+我 今天 很 忙 ， 可是 明天 不 忙 。|Wǒ jīntiān hěn máng, kěshì míngtiān bù máng.|Dnes mám veľa práce, ale zajtra nie.|s. 83
+有 事儿 吗 ？|Yǒu shìr ma?|Deje sa niečo?|s. 83
+明天 我 请 你 吃 晚饭 ， 怎么样 ？|Míngtiān wǒ qǐng nǐ chī wǎnfàn, zěnmeyàng?|Zajtra ťa pozývam na večeru, čo ty na to?|s. 83
+你 为什么 请 我 吃饭 ？|Nǐ wèishénme qǐng wǒ chī fàn?|Prečo ma pozývaš na jedlo?|s. 83
+因为 明天 是 高文中 的 生日 。|Yīnwèi míngtiān shì Gāo Wénzhōng de shēngrì.|Lebo zajtra má Gao Wenzhong narodeniny.|s. 83
+是 吗 ？ 好 。 还 请 谁 ？|Shì ma? Hǎo. Hái qǐng shéi?|Naozaj? Dobre. Koho ešte pozývaš?|s. 83
+
+G c1|Cesta: prežitie|🆘|trip
+我 听不懂 。|Wǒ tīng bu dǒng.|Nerozumiem (tomu, čo hovoríte).
+请 说 慢 一点 。|Qǐng shuō màn yìdiǎn.|Hovorte, prosím, pomalšie.
+你 会 说 英文 吗 ？|Nǐ huì shuō Yīngwén ma?|Hovoríte po anglicky?
+我 不 会 说 中文 。|Wǒ bú huì shuō Zhōngwén.|Neviem po čínsky.
+我 会 说 一点 中文 。|Wǒ huì shuō yìdiǎn Zhōngwén.|Viem trochu po čínsky.
+谢谢 你 ！|Xièxie nǐ!|Ďakujem vám!
+不 客气 。|Bú kèqi.|Nie je za čo.
+没 关系 。|Méi guānxi.|To nič. / Nevadí.
+不好意思 。|Bù hǎoyìsi.|Prepáčte. (keď niekoho vyrušíte)
+好 的 。|Hǎo de.|Dobre. / OK.
+可以 吗 ？|Kěyǐ ma?|Dá sa to? / Môžem?
+可以 。|Kěyǐ.|Dá sa. / Môžete.
+不 可以 。|Bù kěyǐ.|Nedá sa. / Nemôžete.
+等 一下 。|Děng yíxià.|Počkaj chvíľu.
+请 等 一下 。|Qǐng děng yíxià.|Počkajte chvíľu, prosím.
+我 不 要 。|Wǒ bú yào.|Nechcem.
+不 要 ， 谢谢 。|Bú yào, xièxie.|Nie, ďakujem.
+没有 。|Méiyǒu.|Nemám. / Nie je.
+我 知道 。|Wǒ zhīdào.|Viem.
+你 知道 吗 ？|Nǐ zhīdào ma?|Vieš?
+请 帮 我 一下 。|Qǐng bāng wǒ yíxià.|Pomôžte mi, prosím.
+请 写 一下 。|Qǐng xiě yíxià.|Napíšte mi to, prosím.
+这 是 我 的 。|Zhè shì wǒ de.|Toto je moje.
+那 是 什么 ？|Nà shì shénme?|Čo je tamto?
+怎么 了 ？|Zěnme le?|Čo sa stalo?
+没 问题 。|Méi wèntí.|Žiadny problém.
+真的 吗 ？|Zhēn de ma?|Naozaj?
+太 好 了 ！|Tài hǎo le!|To je super!
+我 用 手机 翻译 。|Wǒ yòng shǒujī fānyì.|Preložím si to v mobile.
+你 看 。|Nǐ kàn.|Pozrite sa.
+
+G c2|Cesta: jedlo a reštaurácia|🍜|trip
+几 位 ？|Jǐ wèi?|Koľko osôb? (spýtajú sa pri vstupe)
+一 位 。|Yí wèi.|Jedna osoba.
+两 位 。|Liǎng wèi.|Dve osoby.
+我 一 个 人 。|Wǒ yí ge rén.|Som sám.
+这儿 有 人 吗 ？|Zhèr yǒu rén ma?|Je tu obsadené?
+请 给 我 菜单 。|Qǐng gěi wǒ càidān.|Dajte mi, prosím, jedálny lístok.
+有 英文 菜单 吗 ？|Yǒu Yīngwén càidān ma?|Máte anglický jedálny lístok?
+你们 这儿 有 什么 好吃 的 ？|Nǐmen zhèr yǒu shénme hǎochī de?|Čo tu máte dobré?
+我 要 这个 。|Wǒ yào zhège.|Dám si toto.
+我 要 那个 。|Wǒ yào nàge.|Dám si tamto.
+我 要 一 个 。|Wǒ yào yí ge.|Dám si jeden.
+我 要 两 个 。|Wǒ yào liǎng ge.|Dám si dva.
+这个 好吃 吗 ？|Zhège hǎochī ma?|Je toto dobré?
+很 好吃 ！|Hěn hǎochī!|Veľmi chutné!
+太 好吃 了 ！|Tài hǎochī le!|To je strašne dobré!
+这个 辣 吗 ？|Zhège là ma?|Je to pikantné?
+不 要 太 辣 。|Bú yào tài là.|Nie príliš pikantné.
+不 要 辣 。|Bú yào là.|Bez pálivého.
+我 不 吃 辣 。|Wǒ bù chī là.|Nejem pikantné.
+我 不 吃 肉 。|Wǒ bù chī ròu.|Nejem mäso.
+这 是 什么 肉 ？|Zhè shì shénme ròu?|Aké je to mäso?
+我 不 能 吃 这个 。|Wǒ bù néng chī zhège.|Toto nemôžem jesť.
+我 要 一 碗 米饭 。|Wǒ yào yì wǎn mǐfàn.|Dám si misku ryže.
+我 要 一 碗 面条 。|Wǒ yào yì wǎn miàntiáo.|Dám si misku rezancov.
+我 要 饺子 。|Wǒ yào jiǎozi.|Dám si knedličky.
+我 想 吃 饺子 。|Wǒ xiǎng chī jiǎozi.|Mám chuť na knedličky.
+我 想 吃 北京 烤鸭 。|Wǒ xiǎng chī Běijīng kǎoyā.|Chcem ochutnať pekingskú kačicu.
+你 想 吃 什么 ？|Nǐ xiǎng chī shénme?|Čo chceš jesť?
+今天 吃 什么 ？|Jīntiān chī shénme?|Čo si dnes dáme?
+我 想 喝 水 。|Wǒ xiǎng hē shuǐ.|Chcem sa napiť vody.
+你 喝 什么 ？|Nǐ hē shénme?|Čo si dáš na pitie?
+我 要 一 杯 茶 。|Wǒ yào yì bēi chá.|Dám si šálku čaju.
+我 要 一 杯 咖啡 。|Wǒ yào yì bēi kāfēi.|Dám si kávu.
+我 要 一 瓶 啤酒 。|Wǒ yào yì píng píjiǔ.|Dám si fľašu piva.
+请 给 我 一 瓶 水 。|Qǐng gěi wǒ yì píng shuǐ.|Dajte mi, prosím, fľašu vody.
+再 来 一 个 。|Zài lái yí ge.|Ešte jeden.
+再 来 一 杯 。|Zài lái yì bēi.|Ešte jeden pohár.
+我 渴 了 。|Wǒ kě le.|Som smädný.
+我 吃饱 了 。|Wǒ chī bǎo le.|Už som najedený.
+你 吃饭 了 吗 ？|Nǐ chī fàn le ma?|Už si jedol? (bežný pozdrav)
+我 还 没 吃 。|Wǒ hái méi chī.|Ešte som nejedol.
+服务员 ！|Fúwùyuán!|Čašník! (Prepáčte!)
+服务员 ， 买单 ！|Fúwùyuán, mǎi dān!|Účet, prosím!
+可以 打包 吗 ？|Kěyǐ dǎbāo ma?|Môžete mi to zabaliť?
+干杯 ！|Gānbēi!|Na zdravie!
+
+G c3|Cesta: nákupy a platenie|💴|trip
+多少 钱 ？|Duōshao qián?|Koľko to stojí?
+这个 多少 钱 ？|Zhège duōshao qián?|Koľko stojí toto?
+一共 多少 钱 ？|Yígòng duōshao qián?|Koľko to je spolu?
+太 贵 了 ！|Tài guì le!|To je príliš drahé!
+便宜 一点 ， 可以 吗 ？|Piányi yìdiǎn, kěyǐ ma?|Môžete mi trochu zľaviť?
+五十 块 ， 可以 吗 ？|Wǔshí kuài, kěyǐ ma?|Päťdesiat juanov, dá sa?
+一百 块 。|Yìbǎi kuài.|Sto juanov.
+我 买 这个 。|Wǒ mǎi zhège.|Kúpim si toto.
+我 想 买 这个 。|Wǒ xiǎng mǎi zhège.|Chcel by som si kúpiť toto.
+我 不 买 。|Wǒ bù mǎi.|Nekúpim to.
+我 看看 。|Wǒ kànkan.|Len sa pozriem.
+有 大 一点 的 吗 ？|Yǒu dà yìdiǎn de ma?|Máte niečo väčšie?
+有 小 一点 的 吗 ？|Yǒu xiǎo yìdiǎn de ma?|Máte niečo menšie?
+可以 用 微信 吗 ？|Kěyǐ yòng Wēixìn ma?|Môžem platiť cez WeChat?
+可以 用 支付宝 吗 ？|Kěyǐ yòng Zhīfùbǎo ma?|Môžem platiť cez Alipay?
+可以 刷卡 吗 ？|Kěyǐ shuā kǎ ma?|Môžem platiť kartou?
+我 没有 现金 。|Wǒ méiyǒu xiànjīn.|Nemám hotovosť.
+我 扫 你 还是 你 扫 我 ？|Wǒ sǎo nǐ háishi nǐ sǎo wǒ?|Naskenujem ja vás, alebo vy mňa? (QR kód)
+我 付 钱 。|Wǒ fù qián.|Platím ja.
+要 袋子 吗 ？|Yào dàizi ma?|Chcete tašku?
+超市 在 哪儿 ？|Chāoshì zài nǎr?|Kde je supermarket?
+商店 在 哪儿 ？|Shāngdiàn zài nǎr?|Kde je obchod?
+我 想 买 东西 。|Wǒ xiǎng mǎi dōngxi.|Chcem si niečo nakúpiť.
+这 件 衣服 太 大 了 。|Zhè jiàn yīfu tài dà le.|Toto oblečenie je príliš veľké.
+我 要 买 水果 。|Wǒ yào mǎi shuǐguǒ.|Chcem si kúpiť ovocie.
+苹果 多少 钱 一 斤 ？|Píngguǒ duōshao qián yì jīn?|Koľko stojí pol kila jabĺk?
+给 你 。|Gěi nǐ.|Nech sa páči. (podávam ti)
+
+G c4|Cesta: doprava a smer|🚇|trip
+请问 ， 地铁站 在 哪儿 ？|Qǐngwèn, dìtiězhàn zài nǎr?|Prepáčte, kde je stanica metra?
+洗手间 在 哪儿 ？|Xǐshǒujiān zài nǎr?|Kde je toaleta?
+厕所 在 哪儿 ？|Cèsuǒ zài nǎr?|Kde je záchod?
+这儿 是 哪儿 ？|Zhèr shì nǎr?|Kde to som?
+我 在 这儿 。|Wǒ zài zhèr.|Som tu.
+你 在 哪儿 ？|Nǐ zài nǎr?|Kde si?
+你 去 哪儿 ？|Nǐ qù nǎr?|Kam ideš?
+我 要 去 这儿 。|Wǒ yào qù zhèr.|Chcem ísť sem. (ukazujem na mape)
+我 要 去 机场 。|Wǒ yào qù jīchǎng.|Chcem ísť na letisko.
+我 要 去 火车站 。|Wǒ yào qù huǒchēzhàn.|Chcem ísť na vlakovú stanicu.
+我 要 去 酒店 。|Wǒ yào qù jiǔdiàn.|Chcem ísť do hotela.
+我 想 去 北京 。|Wǒ xiǎng qù Běijīng.|Chcem ísť do Pekingu.
+师傅 ， 去 这儿 。|Shīfu, qù zhèr.|Pane (vodič), sem, prosím.
+师傅 ， 去 外滩 多少 钱 ？|Shīfu, qù Wàitān duōshao qián?|Pane, koľko stojí cesta na Bund?
+到 了 。|Dào le.|Sme tu.
+到 了 吗 ？|Dào le ma?|Už sme tam?
+在 这儿 停 。|Zài zhèr tíng.|Zastavte tu.
+往 前 走 。|Wǎng qián zǒu.|Choďte rovno.
+往 左 走 。|Wǎng zuǒ zǒu.|Choďte doľava.
+往 右 走 。|Wǎng yòu zǒu.|Choďte doprava.
+怎么 走 ？|Zěnme zǒu?|Kadiaľ sa ide?
+怎么 去 ？|Zěnme qù?|Ako sa tam dostanem?
+远 吗 ？|Yuǎn ma?|Je to ďaleko?
+不 远 。|Bù yuǎn.|Nie je to ďaleko.
+很 近 。|Hěn jìn.|Je to blízko.
+走路 多 长 时间 ？|Zǒulù duō cháng shíjiān?|Ako dlho to trvá pešo?
+我 迷路 了 。|Wǒ mílù le.|Stratil som sa.
+我 要 买 一 张 票 。|Wǒ yào mǎi yì zhāng piào.|Chcem si kúpiť jeden lístok.
+一 张 去 北京 的 票 。|Yì zhāng qù Běijīng de piào.|Jeden lístok do Pekingu.
+高铁 几 点 开 ？|Gāotiě jǐ diǎn kāi?|O koľkej odchádza rýchlovlak?
+几 点 到 ？|Jǐ diǎn dào?|O koľkej to prichádza?
+这 是 我 的 票 。|Zhè shì wǒ de piào.|Toto je môj lístok.
+这 是 去 机场 的 车 吗 ？|Zhè shì qù jīchǎng de chē ma?|Ide tento spoj na letisko?
+在 哪儿 下车 ？|Zài nǎr xià chē?|Kde mám vystúpiť?
+我 坐 地铁 去 。|Wǒ zuò dìtiě qù.|Pôjdem metrom.
+我 坐 高铁 去 北京 。|Wǒ zuò gāotiě qù Běijīng.|Do Pekingu pôjdem rýchlovlakom.
+我 坐 飞机 去 上海 。|Wǒ zuò fēijī qù Shànghǎi.|Do Šanghaja letím lietadlom.
+我们 打车 吧 。|Wǒmen dǎ chē ba.|Zoberme si taxík.
+出租车 在 哪儿 ？|Chūzūchē zài nǎr?|Kde sú taxíky?
+我们 走 吧 。|Wǒmen zǒu ba.|Poďme.
+
+G c5|Cesta: hotel|🏨|trip
+我 有 预订 。|Wǒ yǒu yùdìng.|Mám rezerváciu.
+这 是 我 的 护照 。|Zhè shì wǒ de hùzhào.|Toto je môj pas.
+有 房间 吗 ？|Yǒu fángjiān ma?|Máte voľnú izbu?
+我 要 一 个 房间 。|Wǒ yào yí ge fángjiān.|Chcem jednu izbu.
+一 个 晚上 多少 钱 ？|Yí ge wǎnshang duōshao qián?|Koľko stojí jedna noc?
+我 住 两 个 晚上 。|Wǒ zhù liǎng ge wǎnshang.|Zostanem dve noci.
+你 住 在 哪儿 ？|Nǐ zhù zài nǎr?|Kde bývaš?
+我 住 在 这个 酒店 。|Wǒ zhù zài zhège jiǔdiàn.|Bývam v tomto hoteli.
+有 Wi-Fi 吗 ？|Yǒu Wi-Fi ma?|Máte Wi-Fi?
+密码 是 什么 ？|Mìmǎ shì shénme?|Aké je heslo?
+几 点 吃 早饭 ？|Jǐ diǎn chī zǎofàn?|O koľkej sú raňajky?
+我 的 房间 在 几 楼 ？|Wǒ de fángjiān zài jǐ lóu?|Na ktorom poschodí je moja izba?
+空调 坏 了 。|Kōngtiáo huài le.|Klimatizácia sa pokazila.
+没有 热水 。|Méiyǒu rèshuǐ.|Nie je teplá voda.
+我 明天 走 。|Wǒ míngtiān zǒu.|Zajtra odchádzam.
+我 要 退房 。|Wǒ yào tuì fáng.|Chcem sa odhlásiť z hotela.
+可以 放 行李 吗 ？|Kěyǐ fàng xíngli ma?|Môžem si tu nechať batožinu?
+手机 没 电 了 。|Shǒujī méi diàn le.|Vybil sa mi mobil.
+这儿 可以 充电 吗 ？|Zhèr kěyǐ chōng diàn ma?|Môžem si tu nabiť mobil?
+我 要 睡觉 了 。|Wǒ yào shuìjiào le.|Idem spať.
+
+G c6|Cesta: výlety|🏯|trip
+我 想 去 长城 。|Wǒ xiǎng qù Chángchéng.|Chcem ísť na Veľký múr.
+我们 去 长城 吧 。|Wǒmen qù Chángchéng ba.|Poďme na Veľký múr.
+长城 很 漂亮 。|Chángchéng hěn piàoliang.|Veľký múr je nádherný.
+我 明天 去 故宫 。|Wǒ míngtiān qù Gùgōng.|Zajtra idem do Zakázaného mesta.
+门票 多少 钱 ？|Ménpiào duōshao qián?|Koľko stojí vstupné?
+我 想 看 樱花 。|Wǒ xiǎng kàn yīnghuā.|Chcem vidieť sakury.
+樱花 真 漂亮 ！|Yīnghuā zhēn piàoliang!|Sakury sú naozaj krásne!
+上海 很 大 。|Shànghǎi hěn dà.|Šanghaj je veľký.
+我 喜欢 上海 。|Wǒ xǐhuan Shànghǎi.|Mám rád Šanghaj.
+我 很 喜欢 中国 。|Wǒ hěn xǐhuan Zhōngguó.|Veľmi sa mi páči Čína.
+可以 拍照 吗 ？|Kěyǐ pāizhào ma?|Môžem tu fotiť?
+可以 帮 我 拍 一 张 照片 吗 ？|Kěyǐ bāng wǒ pāi yì zhāng zhàopiàn ma?|Môžete ma odfotiť?
+几 点 开门 ？|Jǐ diǎn kāi mén?|O koľkej otvárajú?
+几 点 关门 ？|Jǐ diǎn guān mén?|O koľkej zatvárajú?
+今天 开门 吗 ？|Jīntiān kāi mén ma?|Je dnes otvorené?
+今天 天气 很 好 。|Jīntiān tiānqì hěn hǎo.|Dnes je pekné počasie.
+今天 天气 怎么样 ？|Jīntiān tiānqì zěnmeyàng?|Aké je dnes počasie?
+今天 很 冷 。|Jīntiān hěn lěng.|Dnes je zima.
+今天 很 热 。|Jīntiān hěn rè.|Dnes je teplo.
+明天 下雨 吗 ？|Míngtiān xià yǔ ma?|Bude zajtra pršať?
+下雨 了 。|Xià yǔ le.|Prší.
+我 累 了 。|Wǒ lèi le.|Som unavený.
+
+G c7|Cesta: rozhovor|💬|trip
+很 高兴 认识 你 。|Hěn gāoxìng rènshi nǐ.|Teší ma.
+你 是 哪 国 人 ？|Nǐ shì nǎ guó rén?|Odkiaľ ste?
+我 来 中国 旅游 。|Wǒ lái Zhōngguó lǚyóu.|Prišiel som do Číny na výlet.
+我 第一 次 来 中国 。|Wǒ dì-yī cì lái Zhōngguó.|V Číne som prvýkrát.
+我 三月 去 中国 。|Wǒ sānyuè qù Zhōngguó.|V marci idem do Číny.
+我 在 学 中文 。|Wǒ zài xué Zhōngwén.|Učím sa po čínsky.
+我 每天 学 中文 。|Wǒ měitiān xué Zhōngwén.|Každý deň sa učím po čínsky.
+我 星期一 有 中文 课 。|Wǒ xīngqīyī yǒu Zhōngwén kè.|V pondelok mám hodinu čínštiny.
+我 的 中文 不 好 。|Wǒ de Zhōngwén bù hǎo.|Moja čínština nie je dobrá.
+你 的 中文 很 好 ！|Nǐ de Zhōngwén hěn hǎo!|Vaša čínština je veľmi dobrá!
+哪里 哪里 。|Nǎlǐ nǎlǐ.|Ale kdeže. (skromná odpoveď na pochvalu)
+你 去过 上海 吗 ？|Nǐ qùguo Shànghǎi ma?|Bol si už v Šanghaji?
+我 去过 上海 。|Wǒ qùguo Shànghǎi.|V Šanghaji som už bol.
+我 没 去过 北京 。|Wǒ méi qùguo Běijīng.|V Pekingu som ešte nebol.
+斯洛伐克 在 欧洲 。|Sīluòfákè zài Ōuzhōu.|Slovensko je v Európe.
+你 知道 斯洛伐克 吗 ？|Nǐ zhīdào Sīluòfákè ma?|Poznáte Slovensko?
+你 做 什么 工作 ？|Nǐ zuò shénme gōngzuò?|Čo robíš?
+你 有 微信 吗 ？|Nǐ yǒu Wēixìn ma?|Máš WeChat?
+我们 加 微信 吧 。|Wǒmen jiā Wēixìn ba.|Pridajme sa na WeChate.
+我 喜欢 这儿 。|Wǒ xǐhuan zhèr.|Páči sa mi tu.
+中国 菜 很 好吃 。|Zhōngguó cài hěn hǎochī.|Čínske jedlo je veľmi chutné.
+我 也 是 。|Wǒ yě shì.|Ja tiež.
+我 也 不 知道 。|Wǒ yě bù zhīdào.|Ani ja neviem.
+你 呢 ？|Nǐ ne?|A ty?
+你 好 吗 ？|Nǐ hǎo ma?|Ako sa máš?
+我 很 好 。|Wǒ hěn hǎo.|Mám sa dobre.
+明天 见 ！|Míngtiān jiàn!|Vidíme sa zajtra!
+慢走 。|Màn zǒu.|Opatrujte sa. (povie hostiteľ pri odchode)
+明天 你 有 时间 吗 ？|Míngtiān nǐ yǒu shíjiān ma?|Máš zajtra čas?
+我 没有 时间 。|Wǒ méiyǒu shíjiān.|Nemám čas.
+我 很 忙 。|Wǒ hěn máng.|Mám veľa práce.
+我 今天 不 忙 。|Wǒ jīntiān bù máng.|Dnes nemám veľa práce.
+
+G c8|Cesta: núdza a zdravie|🚑|trip
+请 帮帮 我 ！|Qǐng bāngbang wǒ!|Pomôžte mi, prosím!
+你 可以 帮 我 吗 ？|Nǐ kěyǐ bāng wǒ ma?|Môžete mi pomôcť?
+我 不 舒服 。|Wǒ bù shūfu.|Necítim sa dobre.
+我 头疼 。|Wǒ tóu téng.|Bolí ma hlava.
+我 肚子 疼 。|Wǒ dùzi téng.|Bolí ma brucho.
+我 要 看 医生 。|Wǒ yào kàn yīshēng.|Potrebujem lekára.
+医院 在 哪儿 ？|Yīyuàn zài nǎr?|Kde je nemocnica?
+药店 在 哪儿 ？|Yàodiàn zài nǎr?|Kde je lekáreň?
+我 的 手机 不见 了 。|Wǒ de shǒujī bú jiàn le.|Stratil sa mi mobil.
+我 的 护照 不见 了 。|Wǒ de hùzhào bú jiàn le.|Stratil sa mi pas.
+我 的 钱包 不见 了 。|Wǒ de qiánbāo bú jiàn le.|Stratila sa mi peňaženka.
+请 叫 警察 。|Qǐng jiào jǐngchá.|Zavolajte políciu, prosím.
+我 找不到 我 的 酒店 。|Wǒ zhǎo bu dào wǒ de jiǔdiàn.|Neviem nájsť svoj hotel.
+我 在 找 地铁站 。|Wǒ zài zhǎo dìtiězhàn.|Hľadám stanicu metra.
+我 要 打 电话 。|Wǒ yào dǎ diànhuà.|Potrebujem zavolať.
+
+G c9|Najčastejšie vzory|🧠|trip
+这 是 谁 的 ？|Zhè shì shéi de?|Čie je to?
+那 是 我 的 书 。|Nà shì wǒ de shū.|To je moja kniha.
+我 在 吃饭 。|Wǒ zài chī fàn.|Práve jem.
+你 在 做 什么 ？|Nǐ zài zuò shénme?|Čo práve robíš?
+我 在 看 书 。|Wǒ zài kàn shū.|Práve si čítam.
+他 在 家 。|Tā zài jiā.|Je doma.
+我 买 了 两 个 。|Wǒ mǎi le liǎng ge.|Kúpil som dva.
+我 喝 了 一 杯 咖啡 。|Wǒ hē le yì bēi kāfēi.|Vypil som kávu.
+我 没 吃 。|Wǒ méi chī.|Nejedol som.
+我 现在 不 能 去 。|Wǒ xiànzài bù néng qù.|Teraz nemôžem ísť.
+你 能 来 吗 ？|Nǐ néng lái ma?|Môžeš prísť?
+我 可以 去 吗 ？|Wǒ kěyǐ qù ma?|Môžem ísť?
+她 比 我 高 。|Tā bǐ wǒ gāo.|Je vyššia ako ja.
+这个 比 那个 贵 。|Zhège bǐ nàge guì.|Toto je drahšie ako tamto.
+今天 比 昨天 冷 。|Jīntiān bǐ zuótiān lěng.|Dnes je chladnejšie ako včera.
+你 昨天 去 哪儿 了 ？|Nǐ zuótiān qù nǎr le?|Kam si včera išiel?
+我 也 想 去 。|Wǒ yě xiǎng qù.|Aj ja chcem ísť.
+我们 一起 去 吧 。|Wǒmen yìqǐ qù ba.|Poďme spolu.
+我 跟 你 去 。|Wǒ gēn nǐ qù.|Pôjdem s tebou.
+因为 今天 很 忙 ， 所以 我 不 去 。|Yīnwèi jīntiān hěn máng, suǒyǐ wǒ bú qù.|Dnes mám veľa práce, takže nejdem.
+你 说 什么 ？|Nǐ shuō shénme?|Čo hovoríš?
+他 说 什么 ？|Tā shuō shénme?|Čo hovorí?
+我 觉得 很 好 。|Wǒ juéde hěn hǎo.|Myslím, že je to dobré.
+我 觉得 太 贵 了 。|Wǒ juéde tài guì le.|Myslím, že je to príliš drahé.
+这个 怎么 吃 ？|Zhège zěnme chī?|Ako sa to je?
+为什么 ？|Wèishénme?|Prečo?
+什么 时候 ？|Shénme shíhou?|Kedy?
+你 什么 时候 去 北京 ？|Nǐ shénme shíhou qù Běijīng?|Kedy ideš do Pekingu?
+我 现在 去 。|Wǒ xiànzài qù.|Idem teraz.
+现在 几 点 了 ？|Xiànzài jǐ diǎn le?|Koľko je už hodín?
+我 爱 你 。|Wǒ ài nǐ.|Ľúbim ťa.
+我 有 一 只 猫 。|Wǒ yǒu yì zhī māo.|Mám mačku.
+他 有 一 只 狗 。|Tā yǒu yì zhī gǒu.|Má psa.
+我 喜欢 看 电影 。|Wǒ xǐhuan kàn diànyǐng.|Rád pozerám filmy.
+他 在 看 电视 。|Tā zài kàn diànshì.|Pozerá televíziu.
+我 的 电脑 在 家 。|Wǒ de diànnǎo zài jiā.|Môj počítač je doma.
+学校 在 哪儿 ？|Xuéxiào zài nǎr?|Kde je škola?
+桌子 上 有 一 本 书 。|Zhuōzi shàng yǒu yì běn shū.|Na stole je kniha.
+椅子 下面 有 一 只 猫 。|Yǐzi xiàmiàn yǒu yì zhī māo.|Pod stoličkou je mačka.
+我 的 朋友 在 前面 。|Wǒ de péngyou zài qiánmiàn.|Môj kamarát je vpredu.
+他 回 家 了 。|Tā huí jiā le.|Išiel domov.
+我 明年 去 中国 。|Wǒ míngnián qù Zhōngguó.|Budúci rok idem do Číny.
+我 看见 他 了 。|Wǒ kànjiàn tā le.|Videl som ho.
+她 会 做 中国 菜 。|Tā huì zuò Zhōngguó cài.|Vie variť čínske jedlá.
+你 能 读 这个 字 吗 ？|Nǐ néng dú zhège zì ma?|Vieš prečítať tento znak?
+我 会 写 这个 字 。|Wǒ huì xiě zhège zì.|Viem napísať tento znak.
+我 想 喝 一点 茶 。|Wǒ xiǎng hē yìdiǎn chá.|Dal by som si trochu čaju.
+一 块 钱|Yí kuài qián|jeden juan
+他们 有 很 多 书 。|Tāmen yǒu hěn duō shū.|Majú veľa kníh.
+这儿 人 很 多 。|Zhèr rén hěn duō.|Je tu veľa ľudí.
+这儿 人 很 少 。|Zhèr rén hěn shǎo.|Je tu málo ľudí.
+现在 三 点 五十 分 。|Xiànzài sān diǎn wǔshí fēn.|Je 3:50.
+我 坐 在 这儿 ， 可以 吗 ？|Wǒ zuò zài zhèr, kěyǐ ma?|Môžem si sem sadnúť?
+请 坐 。|Qǐng zuò.|Sadnite si, prosím.
+他 住 在 北京 。|Tā zhù zài Běijīng.|Býva v Pekingu.
+我 的 杯子 在 这儿 。|Wǒ de bēizi zài zhèr.|Môj pohár je tu.
+这个 饭馆 很 好 。|Zhège fànguǎn hěn hǎo.|Táto reštaurácia je dobrá.
+等 五 分钟 。|Děng wǔ fēnzhōng.|Počkaj päť minút.
+我 在 学习 汉语 。|Wǒ zài xuéxí Hànyǔ.|Učím sa po čínsky.
+洗手间 在 后面 。|Xǐshǒujiān zài hòumiàn.|Toaleta je vzadu.
+我 上午 有 课 。|Wǒ shàngwǔ yǒu kè.|Dopoludnia mám hodinu.
+中午 我们 吃 什么 ？|Zhōngwǔ wǒmen chī shénme?|Čo si dáme na obed?
+他 在 说话 。|Tā zài shuōhuà.|Práve hovorí.
+他 是 我 的 同学 。|Tā shì wǒ de tóngxué.|To je môj spolužiak.
+喂 ， 你 在 哪儿 ？|Wéi, nǐ zài nǎr?|Haló, kde si?
+我 买 了 一些 水果 。|Wǒ mǎi le yìxiē shuǐguǒ.|Kúpil som nejaké ovocie.
+您 好 ！|Nín hǎo!|Dobrý deň! (zdvorilo)
+请问 ， 您 贵姓 ？|Qǐngwèn, nín guìxìng?|Prepáčte, ako sa voláte? (veľmi zdvorilo)
+您 要 什么 ？|Nín yào shénme?|Čo si želáte?
+别 走 ！|Bié zǒu!|Neodchádzaj!
+别 客气 。|Bié kèqi.|Nemáte za čo.
+我 从 斯洛伐克 来 。|Wǒ cóng Sīluòfákè lái.|Prichádzam zo Slovenska.
+从 这儿 到 机场 多 远 ？|Cóng zhèr dào jīchǎng duō yuǎn?|Ako ďaleko je odtiaľto na letisko?
+我 想 去 ， 但是 没有 时间 。|Wǒ xiǎng qù, dànshì méiyǒu shíjiān.|Chcem ísť, ale nemám čas.
+非常 好 ！|Fēicháng hǎo!|Výborne!
+我 就 要 这个 。|Wǒ jiù yào zhège.|Chcem práve toto.
+这个 最 好吃 。|Zhège zuì hǎochī.|Toto je najchutnejšie.
+你 最 喜欢 什么 ？|Nǐ zuì xǐhuan shénme?|Čo máš najradšej?
+我 已经 吃 了 。|Wǒ yǐjīng chī le.|Už som jedol.
+要 两 个 小时 。|Yào liǎng ge xiǎoshí.|Trvá to dve hodiny.
+我 要 休息 。|Wǒ yào xiūxi.|Potrebujem si oddýchnuť.
+我 不 吃 鱼 。|Wǒ bù chī yú.|Nejem ryby.
+我 要 一 杯 牛奶 。|Wǒ yào yì bēi niúnǎi.|Dám si pohár mlieka.
+我 要 两 个 鸡蛋 。|Wǒ yào liǎng ge jīdàn.|Dám si dve vajcia.
+这 是 新 的 吗 ？|Zhè shì xīn de ma?|Je to nové?
+我 喜欢 红 的 。|Wǒ xǐhuan hóng de.|Páči sa mi tá červená.
+几 点 开始 ？|Jǐ diǎn kāishǐ?|O koľkej to začína?
+我们 去 玩 吧 。|Wǒmen qù wán ba.|Poďme sa zabaviť.
+这儿 卖 水 吗 ？|Zhèr mài shuǐ ma?|Predávajú tu vodu?
+地铁站 在 旁边 。|Dìtiězhàn zài pángbiān.|Stanica metra je hneď vedľa.
+在 左边 。|Zài zuǒbian.|Je to naľavo.
+在 右边 。|Zài yòubian.|Je to napravo.
+希望 明天 不 下雨 。|Xīwàng míngtiān bú xià yǔ.|Dúfam, že zajtra nebude pršať.
+你 身体 好 吗 ？|Nǐ shēntǐ hǎo ma?|Ako si na tom so zdravím?
+我 生病 了 。|Wǒ shēngbìng le.|Som chorý.
+请 进 。|Qǐng jìn.|Poďte ďalej.
+对不起 ， 我 错 了 。|Duìbuqǐ, wǒ cuò le.|Prepáčte, pomýlil som sa.
+我 七 点 起床 。|Wǒ qī diǎn qǐchuáng.|Vstávam o siedmej.
+还 有 吗 ？|Hái yǒu ma?|Ešte máte?
