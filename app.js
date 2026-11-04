@@ -5,18 +5,19 @@ const W = Object.fromEntries(words.map(w => [w.id, w]));
 const ST = Object.fromEntries(sents.map(s => [s.id, s]));
 const DAY = 864e5, INTERVALS = [0, 1, 2, 4, 8, 16, 32, 64];
 const NEW_PER_SESSION = 5, GOAL = 30;
+const SCHOOL_H = 10, PAST_APP_H = 2, IDLE_MS = 60e3; // hours in class; estimated app hours before the timer existed; idle cutoff
 const NEW_SENT_ROUND = 5, NEW_SENT_DAY = 10, TRIP = new Date(2027, 2, 28);
 
 // ---------- state ----------
 const S = Object.assign({srs: {}, xp: 0, streak: 0, last: "", today: "", done: 0, best: 0, ach: {}, crowns: {},
-  freeze: 0, chest: "", maxCombo: 0, perfects: 0, mute: false, speedRuns: 0, drawn: 0, drawPerfect: 0, noListenUntil: 0},
+  freeze: 0, chest: "", maxCombo: 0, perfects: 0, mute: false, speedRuns: 0, drawn: 0, drawPerfect: 0, noListenUntil: 0, studySecs: 0},
   JSON.parse(localStorage.getItem("hanzi-kscx01") || "{}"));
 // one-time fix: drop items saved by the old bug (marked learned but never tested => due still 0)
 if (!S.fixUntested) { for (const k in S.srs) if (S.srs[k].due === 0) delete S.srs[k]; S.fixUntested = 1; localStorage.setItem("hanzi-kscx01", JSON.stringify(S)); }
 // merge a backup/other state into S (keeps the better of both, never loses progress)
 function mergeState(o) {
   for (const k in o.srs || {}) { const a = S.srs[k], b = o.srs[k]; if (!a || b.box > a.box || (b.box === a.box && b.due > a.due)) S.srs[k] = b; }
-  for (const k of ["xp", "best", "maxCombo", "perfects", "speedRuns", "drawn", "drawPerfect", "freeze", "noListenUntil"]) S[k] = Math.max(S[k] || 0, o[k] || 0);
+  for (const k of ["xp", "best", "maxCombo", "perfects", "speedRuns", "drawn", "drawPerfect", "freeze", "noListenUntil", "studySecs"]) S[k] = Math.max(S[k] || 0, o[k] || 0);
   for (const k of ["ach", "crowns"]) S[k] = Object.assign({}, o[k], S[k]);
   for (const k of ["last", "chest"]) if ((o[k] || "") > (S[k] || "")) S[k] = o[k];
   if (o.last === S.last) S.streak = Math.max(S.streak, o.streak);
@@ -263,6 +264,8 @@ const shuffle = a => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { cons
 const pick = a => a[Math.random() * a.length | 0];
 let audio;
 const noListen = () => Date.now() < S.noListenUntil;
+const fmtDur = secs => { const m = Math.floor(secs / 60), h = Math.floor(m / 60); return (h ? h + " h " : "") + m % 60 + " min"; };
+const timeLine = () => `⏱️ Spolu ${fmtDur((SCHOOL_H + PAST_APP_H) * 3600 + S.studySecs)} · ${SCHOOL_H} h v škole · ${PAST_APP_H} h v appke predtým (odhad) · ${fmtDur(S.studySecs)} odvtedy`;
 const hhmm = t => new Date(t).toLocaleTimeString("sk", {hour: "2-digit", minute: "2-digit"});
 function setNoListen(on) {
   S.noListenUntil = on ? Date.now() + 3600e3 : 0; save();
@@ -321,6 +324,7 @@ function home() {
     <button class="btn red" id="go" ${!d && !nn && !sLeft ? "disabled" : ""}>${cta}</button>
   </div>
   <p class="trip">🇨🇳 Do Číny ${dt} dní${sLeft ? ` · pri ${NEW_SENT_DAY} nových vetách denne máš všetky do ${finish}` : " · všetky vety máš za sebou"}</p>
+  <p class="trip" id="timeTotal">${timeLine()}</p>
   ${tz ? `<button class="tease" id="tease"><span class="zh">${tz.c.c}</span><div><b>Nauč sa ${tz.c.c} a odomkneš ${tz.ws.length} ${tz.ws.length === 1 ? "slovo" : tz.ws.length < 5 ? "slová" : "slov"}</b><br><small>${tz.ws.slice(0, 4).map(w => esc(w.zh)).join(" · ")}</small></div></button>` : ""}
 
   <h3>Vety</h3>
@@ -369,7 +373,7 @@ function home() {
   const drawMode = blind => { const k = chars.filter(c => charKnown(c.c)); quiz(shuffle(k.length >= 5 ? k : chars.filter(c => c.l === 0)).slice(0, 10).map(c => ({k: "c:" + c.c, type: "draw", blind})), {free: !k.length}); };
   document.getElementById("m-draw").onclick = () => drawMode(false);
   document.getElementById("m-blind").onclick = () => drawMode(true);
-  reset.onclick = () => { if (confirm("Naozaj vymazať celý postup?")) { localStorage.removeItem("hanzi-kscx01"); location.reload(); } };
+  reset.onclick = () => { if (confirm("Naozaj vymazať celý postup?")) { clearInterval(studyTimer); localStorage.removeItem("hanzi-kscx01"); location.reload(); } };
   keyHandler = e => { if (e.key === "Enter" && !go.disabled) go.click(); };
   checkAch();
 }
@@ -889,5 +893,16 @@ function speed() {
   };
   nextQ();
 }
+
+// ---------- study timer: counts only while the tab is visible and in use, so an idle new tab adds nothing ----------
+let lastActive = Date.now();
+for (const ev of ["pointerdown", "pointermove", "keydown", "wheel", "touchmove"]) addEventListener(ev, () => lastActive = Date.now(), {passive: true});
+const studyTimer = setInterval(() => {
+  if (audio && !audio.paused) lastActive = Date.now(); // shadowing runs hands-free
+  if (document.hidden || Date.now() - lastActive > IDLE_MS) return;
+  S.studySecs++;
+  if (S.studySecs % 10 === 0) save();
+  if (window.timeTotal) timeTotal.textContent = timeLine();
+}, 1000);
 
 home();
