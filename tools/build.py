@@ -58,6 +58,10 @@ for it in items:
 for z,_,_ in wds:
     for ch in z:
         if ch in tab:first[ch]='t3' if ch in first and first[ch] in('t0','t1','t2','t3') else first.get(ch,'t3')
+# top-1000 chars go in lessons of 40; appended after older lessons, whose indexes hold saved crowns
+fc=[ch for ch in need if ch in tab and first.get(ch,'')[:1]=='f']
+for n,ch in enumerate(fc):first[ch]=f'z{n//40}'
+for i in range((len(fc)+39)//40):names[f'z{i}']=f'Top 1000 · {i+1}';order.append(f'z{i}')
 lessons=[]
 for g2 in order:
     if any(v==g2 for v in first.values()):lessons.append(g2)

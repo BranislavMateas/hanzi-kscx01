@@ -5,7 +5,7 @@ const W = Object.fromEntries(words.map(w => [w.id, w]));
 const ST = Object.fromEntries(sents.map(s => [s.id, s]));
 const DAY = 864e5, INTERVALS = [0, 1, 2, 4, 8, 16, 32, 64];
 const NEW_PER_SESSION = 5, GOAL = 30;
-const NEW_SENT_ROUND = 5, NEW_SENT_DAY = 10, TRIP = new Date(2027, 2, 28);
+const NEW_SENT_ROUND = 5, NEW_SENT_DAY = 15, TRIP = new Date(2027, 2, 28);
 
 // ---------- state ----------
 const S = Object.assign({srs: {}, xp: 0, streak: 0, last: "", today: "", done: 0, best: 0, ach: {}, crowns: {},
@@ -92,13 +92,13 @@ function knownTokens() {
   return set;
 }
 const newTokens = (s, kn) => [...new Set(s.t)].filter(t => !kn.has(t));
-// next sentences, i+1 style: fewest unknown words first; alternates textbook and trip phrases
+// next sentences, i+1 style: fewest unknown words first; mostly top-1000 words, mixed with trip and textbook phrases
 function nextSents(n, g) {
   const kn = knownTokens(), out = [];
   let pool = sents.filter(s => !known("s:" + s.id) && (!g || s.g === g));
   const kind = Object.fromEntries(sGroups.map(x => [x.id, x.k]));
   for (let i = 0; i < n && pool.length; i++) {
-    const want = i % 2 ? "trip" : "book";
+    const want = ["freq", "trip", "freq", "book", "freq"][i % 5];
     const sub = pool.some(s => kind[s.g] === want) ? pool.filter(s => kind[s.g] === want) : pool;
     let best = sub[0], cost = 1e9;
     for (const s of sub) { const c = newTokens(s, kn).length; if (c < cost) { cost = c; best = s; } }

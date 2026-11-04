@@ -243,3 +243,376 @@
 错|cuò|wrong|钅 + 昔|Kov (钅) z minulosti (昔) – chyba.
 床|chuáng|bed|广 + 木|Drevo (木) pod strechou (广) – posteľ.
 操|cào|to fuck (vulgar)|扌 + 喿|Ruka (扌) a strom (木) plný krikov (品) – nadávka, čo počuť všade.
+啊|a|(particle: surprise)|口 + 阿|Ústa (口) vykríknu „á“.
+把|bǎ|to hold; (object marker)|扌 + 巴|Ruka (扌) pevne chytí predmet.
+让|ràng|to let; to allow|讠 + 上|Slovami (讠) pustí niekoho hore (上).
+如|rú|if; like|女 + 口|Žena (女) hovorí ústami (口): ak by…
+它|tā|it|宀 + 匕|Pod strechou (宀) je niečo – ono.
+被|bèi|by (passive); quilt|衤 + 皮|Odev (衤) z kože (皮) ťa prikryje – niečo sa ti stane.
+己|jǐ|self|—|Zvinutý had: ja sám.
+着|zhe|(ongoing aspect)|羊 + 目|Ovca (羊) stále hľadí okom (目).
+哦|ó|oh; I see|口 + 我|Ústa (口) a ja (我): „aha!“
+需|xū|to need|雨 + 而|Dážď (雨) a bradaté (而) pole: potrebuje vodu.
+像|xiàng|to resemble|亻 + 象|Človek (亻) sa podobá na slona (象).
+又|yòu|again|—|Pravá ruka robí to isté znova.
+死|sǐ|to die|歹 + 匕|Zvyšky kostí (歹) a padnutý človek (匕).
+应|yīng|should|广 + 业|Pod strechou (广) je práca (业), ktorú treba spraviť.
+该|gāi|should; ought to|讠 + 亥|Slovo (讠) hovorí, čo sa má.
+而|ér|and; but|—|Visiaca brada spája dve časti.
+才|cái|only then; talent|—|Klíčok práve vychádza zo zeme – až teraz.
+嗯|ǹg|hm; yes|口 + 恩|Ústa (口) pritakajú: „hm“.
+呀|ya|(particle)|口 + 牙|Ústa (口) ukážu zuby (牙): „jaj!“
+嘿|hēi|hey|口 + 黑|Ústa (口) volajú v tme (黑): „hej!“
+当|dāng|to serve as; when|⺌ + 彐|Metla (彐) a iskry: si v tom, keď treba.
+然|rán|so; correct|⺼ + 犬 + 灬|Mäso (⺼) psa (犬) nad ohňom (灬) – tak to je.
+方|fāng|square; direction|—|Rádlo smeruje jedným smerom.
+定|dìng|to decide; fixed|宀 + 正|Pod strechou (宀) je všetko správne (正) – rozhodnuté.
+将|jiāng|will (future)|丬 + 夕 + 寸|V noci (夕) ruka (寸) chystá, čo bude.
+啦|la|(particle)|口 + 拉|Ústa (口) ťahajú (拉) slovo: „láá“.
+情|qíng|feeling; situation|忄 + 青|Srdce (忄) je mladé (青) – plné citov.
+重|zhòng|heavy; important|千 + 里|Tisíc (千) míľ (里) nesieš ťažký náklad.
+直|zhí|straight|十 + 目|Desať (十) očí (目) pozerá priamo.
+更|gèng|even more|—|Pozri ešte viac: ruka bije na bubon.
+离|lí|to leave; distant from|—|Divá šelma odchádza ďaleko.
+切|qiè|to cut; all|七 + 刀|Sedem (七) rezov nožom (刀).
+相|xiāng|mutually|木 + 目|Oko (目) hľadí na strom (木) a strom späť.
+发|fā|to send; to happen|—|Vystrelený šíp letí preč.
+抱|bào|to hug|扌 + 包|Rukami (扌) balíš (包) niekoho do objatia.
+歉|qiàn|apology|兼 + 欠|Zlyhal a dlhuje (欠) ospravedlnenie.
+必|bì|must|心 + 丿|Srdce (心) preťal šíp: musíš.
+须|xū|must; beard|彡 + 页|Fúzy (彡) na hlave (页) – nevyhnutne rastú.
+许|xǔ|to allow; perhaps|讠 + 午|Slovom (讠) napoludnie (午) dovolí.
+杀|shā|to kill|乂 + 木|Kríž (乂) nad stromom (木) – koniec.
+准|zhǔn|to permit; accurate|冫 + 隹|Ľad (冫) a vták (隹): presný zásah.
+备|bèi|to prepare|夂 + 田|Kráčaš (夂) na pole (田) pripravený.
+并|bìng|and; side by side|—|Dvaja ľudia stoja vedľa seba.
+与|yǔ|and; with|—|Ruky si podávajú dar: s tebou.
+带|dài|to bring; belt|—|Opasok, na ktorom nosíš veci.
+任|rèn|to assign; any|亻 + 壬|Človek (亻) nesie úlohu.
+何|hé|what; how|亻 + 可|Človek (亻) sa pýta: môže (可) to byť?
+种|zhǒng|kind; type|禾 + 中|Obilie (禾) v strede (中) – každé iného druhu.
+感|gǎn|to feel|咸 + 心|Všetko (咸) ide cez srdce (心).
+且|qiě|moreover|—|Kôpka vecí – a ešte ďalšia.
+活|huó|to live|氵 + 舌|Voda (氵) na jazyku (舌) – žiješ.
+之|zhī|of (literary)|—|Cesta, ktorá sa vinie k cieľu.
+噢|ō|oh|口 + 奥|Ústa (口) vydajú „ó“.
+嗨|hāi|hi|口 + 海|Ústa (口) zdravia cez more (海): „haj!“
+向|xiàng|toward|—|Okno v dome smeruje von.
+世|shì|world; generation|—|Tri desiatky rokov – jedna generácia sveta.
+界|jiè|boundary; world|田 + 介|Pole (田) a jeho hranica.
+记|jì|to remember|讠 + 己|Slová (讠) si držíš sám (己).
+肯|kěn|to be willing|止 + 月|Telo (月) sa zastaví (止): súhlasí.
+嘛|ma|(particle: obviously)|口 + 麻|Ústa (口): veď je to jasné.
+亲|qīn|dear; parent|立 + 木|Stojí (立) pri strome (木) – rodina.
+或|huò|or|戈 + 口|Halapartňa (戈) stráži ústa (口): buď, alebo.
+底|dǐ|bottom|广 + 氐|Pod strechou (广) až na dne.
+帝|dì|emperor; god|—|Oltár a koruna: cisár.
+正|zhèng|correct; just now|一 + 止|Zastav (止) sa na čiare (一): správne.
+父|fù|father|—|Dve ruky so sekerou: otec.
+跑|pǎo|to run|足 + 包|Nohy (足) nesú balík (包) rýchlo.
+继|jì|to continue|纟 + 米|Nite (纟) sa spájajú ďalej.
+续|xù|to continue|纟 + 卖|Nite (纟) predávaš (卖) ďalej a ďalej.
+马|mǎ|horse|—|Hriva, chrbát a nohy koňa.
+完|wán|to finish|宀 + 元|Strecha (宀) je hotová: koniec.
+全|quán|whole; all|人 + 王|Človek (人) nad kráľom (王) má všetko.
+份|fèn|portion|亻 + 分|Človek (亻) delí (分) na porcie.
+却|què|but; yet|去 + 卩|Ísť (去) a pritom kľačať (卩): ale predsa.
+其|qí|its; that|—|Kôš na stojane: ten a tamten.
+永|yǒng|forever|—|Voda tečie navždy.
+伙|huǒ|companion|亻 + 火|Ľudia (亻) pri ohni (火): parťáci.
+者|zhě|one who|—|Starý muž hovorí, kto to je.
+心|xīn|heart|—|Srdce s troma kvapkami krvi.
+成|chéng|to become|—|Halapartňa dokončí, čo sa má stať.
+况|kuàng|situation|冫 + 兄|Ľad (冫) a brat (兄): v akej je situácii?
+送|sòng|to give; to deliver|辶 + 关|Na ceste (辶) odovzdáš balík.
+计|jì|to calculate; plan|讠 + 十|Slovami (讠) počítaš do desať (十).
+总|zǒng|always; total|—|Srdce (心) všetko zhŕňa.
+原|yuán|original|厂 + 泉|Pod útesom (厂) je prameň: začiatok.
+此|cǐ|this|止 + 匕|Zastav (止) sa tu.
+解|jiě|to untie; to explain|角 + 刀 + 牛|Nôž (刀) rozoberá roh (角) býka (牛).
+兄|xiōng|elder brother|口 + 儿|Dieťa (儿) s veľkými ústami (口): starší brat.
+结|jié|to tie; to conclude|纟 + 吉|Nite (纟) zviažeš pre šťastie (吉).
+束|shù|to bind; bundle|木 + 口|Strom (木) zviazaný povrazom.
+安|ān|peace; safe|宀 + 女|Žena (女) pod strechou (宀) – pokoj.
+拜|bài|to bow|—|Dve ruky k sebe pri úklone.
+托|tuō|to entrust|扌 + 乇|Ruka (扌) podopiera a zveruje.
+决|jué|to decide|冫 + 夬|Ľad (冫) sa láme: rozhodnuté.
+穿|chuān|to wear|穴 + 牙|Zub (牙) prechádza cez dieru (穴).
+确|què|certain|石 + 角|Kameň (石) a roh (角): pevné a isté.
+呃|è|er; uh|口 + 厄|Ústa (口) zaváhajú: „ehm“.
+办|bàn|to handle|力 + 丶丶|Sila (力) s dvoma kvapkami potu: vybavené.
+无|wú|without|—|Tancujúca postava bez ničoho.
+清|qīng|clear|氵 + 青|Voda (氵) je zelenomodrá (青): čistá.
+楚|chǔ|clear; pain|林 + 疋|Les (林) a noha (疋): prejdeš a vidíš jasne.
+助|zhù|to help|且 + 力|Pridáš (且) svoju silu (力).
+官|guān|official|宀 + 㠯|Pod strechou (宀) sedí úradník.
+司|sī|to manage|—|Ústa (口) a ruka: vedie firmu.
+根|gēn|root|木 + 艮|Strom (木) má korene.
+管|guǎn|to manage; pipe|⺮ + 官|Bambus (⺮) a úradník (官): riadi to.
+于|yú|at; in|—|Stĺp stojí na mieste.
+搞|gǎo|to do; to make|扌 + 高|Ruka (扌) robí aj vysoko (高).
+划|huà|to plan; to row|戈 + 刂|Halapartňa (戈) a nôž (刂) vyrežú plán.
+唯|wéi|only|口 + 隹|Ústa (口) a jediný vták (隹).
+贝|bèi|shell|—|Mušľa, staré peniaze.
+哭|kū|to cry|口口 + 犬|Dvoje úst (口口) a pes (犬) kňučia.
+实|shí|real; true|宀 + 头|Pod strechou (宀) je hlava (头): skutočné.
+甚|shèn|even; very|—|Kôš plný jedla: až príliš.
+至|zhì|to reach; until|—|Šíp dopadol na zem: až sem.
+弄|nòng|to do; to play with|王 + 廾|Dve ruky (廾) sa hrajú s nefritom (王).
+喔|ō|oh|口 + 屋|Ústa (口) v dome (屋): „ó“.
+夫|fū|husband; man|—|Muž (大) so sponou vo vlasoch.
+愿|yuàn|to be willing|原 + 心|Pôvodné (原) srdce (心): úprimné želanie.
+麻|má|hemp; numb|广 + 林|Pod strechou (广) suší konope.
+烦|fán|annoyed|火 + 页|Oheň (火) v hlave (页): otravné.
+哇|wā|wow|口 + 圭|Ústa (口) zvolajú: „wow“.
+算|suàn|to calculate|⺮ + 目 + 廾|Bambusové (⺮) paličky, oči (目) a ruky (廾) počítajú.
+害|hài|harm|宀 + 丰 + 口|Pod strechou (宀) zlé ústa (口) škodia.
+怕|pà|to fear|忄 + 白|Srdce (忄) zbledne (白) od strachu.
+救|jiù|to save|求 + 攵|Prosba (求) a úder (攵): záchrana.
+由|yóu|from; by|—|Klíček vyrastá z poľa.
+枪|qiāng|gun|木 + 仓|Drevo (木) a sklad (仓): zbraň.
+母|mǔ|mother|—|Žena s dvoma bodkami: matka.
+另|lìng|another|口 + 力|Ústa (口) a sila (力): iná možnosť.
+注|zhù|to pour; to focus|氵 + 主|Voda (氵) ide k hlavnému (主): sústreď sa.
+改|gǎi|to change|己 + 攵|Sám (己) sa udrieš (攵) a zmeníš.
+变|biàn|to change|亦 + 又|Znova (又) a znova sa mení.
+接|jiē|to receive; to pick up|扌 + 妾|Ruka (扌) prijíma.
+受|shòu|to receive|爫 + 冖 + 又|Ruka zhora (爫) podáva ruke dole (又).
+妻|qī|wife|—|Žena (女) s rukou a vlásenkou.
+失|shī|to lose|—|Z ruky (手) niečo padá.
+否|fǒu|no; not|不 + 口|Ústa (口) povedia „nie“ (不).
+疯|fēng|crazy|疒 + 风|Choroba (疒) z vetra (风): šialený.
+命|mìng|life; fate|人 + 一 + 口 + 卩|Človek (人) kľačí (卩) a ústa (口) žiadajú život.
+抓|zhuā|to grab|扌 + 爪|Ruka (扌) s pazúrmi (爪) chytá.
+刚|gāng|just now|冈 + 刂|Nôž (刂) práve sekol do kopca.
+保|bǎo|to protect|亻 + 呆|Človek (亻) chráni dieťa.
+选|xuǎn|to choose|辶 + 先|Pôjdeš (辶) prvý (先) a vyberieš.
+择|zé|to select|扌 + 圣|Ruka (扌) vyberá.
+笑|xiào|to laugh|⺮ + 夭|Bambus (⺮) sa ohýba ako človek v smiechu.
+婚|hūn|marriage|女 + 昏|Žena (女) za súmraku (昏): svadba.
+挺|tǐng|quite; to straighten|扌 + 廷|Ruka (扌) vyrovná, celkom dobre.
+功|gōng|merit; achievement|工 + 力|Práca (工) a sila (力): úspech.
+奇|qí|strange|大 + 可|Veľké (大) a môže (可) byť: zvláštne.
+怪|guài|strange; to blame|忄 + 圣|Srdce (忄) cíti, že niečo nesedí.
+虽|suī|although|口 + 虫|Ústa (口) a hmyz (虫): hoci je malý.
+忘|wàng|to forget|亡 + 心|Srdce (心) stratilo (亡): zabudnuté.
+讲|jiǎng|to speak|讠 + 井|Slová (讠) z studne (井).
+证|zhèng|to prove|讠 + 正|Slová (讠) sú správne (正): dôkaz.
+丈|zhàng|husband (in 丈夫)|—|Ruka s meradlom: dospelý muž.
+连|lián|to connect; even|辶 + 车|Vozy (车) na ceste (辶) idú za sebou.
+整|zhěng|whole|束 + 攵 + 正|Zviazané (束) a správne (正): celé.
+特|tè|special|牛 + 寺|Býk (牛) v chráme (寺): výnimočný.
+够|gòu|enough|多 + 句|Veľa (多) viet (句): dosť.
+难|nán|difficult|又 + 隹|Ruka (又) chytá vtáka (隹): ťažké.
+倒|dào|to pour|亻 + 到|Človek (亻) príde (到) a naleje.
+谈|tán|to talk|讠 + 炎|Slová (讠) horúce ako oheň (炎).
+危|wēi|danger|—|Človek na útese nad nebezpečím.
+险|xiǎn|dangerous|阝 + 佥|Kopec (阝): nebezpečná cesta.
+闭|bì|to close|门 + 才|Dvere (门) sú zatvorené.
+嘴|zuǐ|mouth|口 + 觜|Ústa (口) s rohami – papuľa.
+式|shì|style; form|弋 + 工|Práca (工) podľa vzoru.
+声|shēng|sound|士 + 尸|Muž (士) vydáva zvuk.
+音|yīn|sound|立 + 日|Stojí (立) slnko (日) a znie hudba.
+绝|jué|absolutely|纟 + 色|Nite (纟) a farba (色): úplne pretrhnuté.
+处|chù|place; to handle|夂 + 卜|Kráčaš (夂) na miesto a vybavíš.
+眼|yǎn|eye|目 + 艮|Oko (目) hľadí.
+睛|jīng|eyeball|目 + 青|Oko (目) je jasné (青).
+通|tōng|to go through|辶 + 甬|Cesta (辶) vedie cez chodbu.
+考|kǎo|to test|老 + 丂|Starý (老) učiteľ skúša.
+试|shì|to try|讠 + 式|Slová (讠) a forma (式): skúška.
+动|dòng|to move|云 + 力|Mrak (云) a sila (力): pohyb.
+啥|shá|what (colloquial)|口 + 舍|Ústa (口): „čo?“
+各|gè|each|夂 + 口|Každý kráča (夂) ku svojim ústam (口).
+待|dāi|to stay|彳 + 寺|Krok (彳) k chrámu (寺) a čakaj.
+掉|diào|to fall; to drop|扌 + 卓|Z ruky (扌) spadne.
+猜|cāi|to guess|犭 + 青|Zviera (犭) háda.
+使|shǐ|to cause; to use|亻 + 吏|Človek (亻) úradník rozkáže.
+容|róng|to contain|宀 + 谷|Pod strechu (宀) sa zmestí aj údolie (谷).
+易|yì|easy|日 + 勿|Slnko (日) svieti, je to ľahké.
+求|qiú|to beg|—|Kožuch – prosím, daj mi ho.
+赛|sài|game; race|宀 + 贝|Pod strechou (宀) súťažia o mušle (贝).
+拉|lā|to pull|扌 + 立|Ruka (扌) ťahá, čo stojí (立).
+曾|céng|once (in the past)|八 + 田 + 日|Para nad hrncom: už kedysi.
+趣|qù|interest; fun|走 + 取|Ideš (走) si vziať (取) zábavu.
+努|nǔ|to strive|奴 + 力|Otrok (奴) používa silu (力).
+力|lì|strength|—|Ohnutý sval.
+留|liú|to stay; to leave behind|卯 + 田|Na poli (田) ostávaš.
+参|cān|to take part|厶 + 大 + 彡|Traja sa pridajú.
+赢|yíng|to win|亡 + 口 + 月 + 贝 + 凡|Plné ústa (口) mušlí (贝): víťazstvo.
+亡|wáng|to perish|—|Človek pod strechou zmizol.
+消|xiāo|to disappear|氵 + 肖|Voda (氵) sa stratí.
+收|shōu|to receive|丩 + 攵|Ruka (攵) zhŕňa úrodu.
+顾|gù|to look after|厄 + 页|Hlava (页) sa otáča, aby sa starala.
+类|lèi|kind; type|米 + 大|Ryža (米) a veľké (大): druhy.
+主|zhǔ|main; host|王 + 丶|Kráľ (王) s bodkou: hlavný.
+持|chí|to hold|扌 + 寺|Ruka (扌) drží.
+静|jìng|quiet|青 + 争|Zelené (青) ticho zastaví spor (争).
+元|yuán|yuan; first|二 + 儿|Dva (二) ťahy nad nohami (儿): prvý.
+换|huàn|to exchange|扌 + 奂|Ruka (扌) vymení.
+币|bì|currency|—|Mince pod látkou (巾).
+存|cún|to exist; to store|子 + 才|Dieťa (子) je a rastie.
+部|bù|part|咅 + 阝|Časť mesta (阝).
+靠|kào|to lean on|告 + 非|Povieš (告): nie (非) sám – oprieš sa.
+呆|dāi|to stay; dull|口 + 木|Ústa (口) ako drevo (木): nehybný.
+讨|tǎo|to discuss; to ask for|讠 + 寸|Slová (讠) a ruka (寸) žiadajú.
+厌|yàn|to dislike|厂 + 犬|Pes (犬) pod útesom (厂): otrávený.
+俩|liǎ|two people|亻 + 两|Človek (亻) a dvaja (两).
+突|tū|sudden|穴 + 犬|Pes (犬) vyskočí z diery (穴): zrazu.
+久|jiǔ|long time|—|Niekto kráča dlho.
+入|rù|to enter|—|Človek ide dnu.
+统|tǒng|to unite|纟 + 充|Nite (纟) sa spoja do celku.
+伤|shāng|wound|亻 + 力|Človeku (亻) ublíži sila (力).
+答|dá|to answer|⺮ + 合|Bambus (⺮) a spolu (合): odpoveď.
+除|chú|except; to remove|阝 + 余|Z kopca (阝) odstráň zvyšok (余).
+派|pài|to send|氵 + 底|Voda (氵) rozdeľuje prúdy.
+咱|zán|we (inclusive)|口 + 自|Ústa (口) sami (自): my.
+简|jiǎn|simple|⺮ + 间|Bambusový (⺮) lístok: jednoduché.
+跳|tiào|to jump|足 + 兆|Noha (足) skáče.
+秘|mì|secret|禾 + 必|Obilie (禾) musí (必) byť ukryté.
+战|zhàn|war|占 + 戈|Obsadiť (占) halapartňou (戈): vojna.
+争|zhēng|to fight over|—|Dve ruky ťahajú o to isté.
+内|nèi|inside|冂 + 人|Človek (人) vo vnútri rámu (冂).
+概|gài|general; approximate|木 + 既|Drevo (木): približná miera.
+控|kòng|to control|扌 + 空|Ruka (扌) ovláda prázdno (空).
+制|zhì|to control; system|刂|Nôž (刂) tvaruje.
+止|zhǐ|to stop|—|Otlačok nohy: stoj.
+替|tì|to replace|夫夫 + 日|Dvaja muži (夫) sa vystriedajú pod slnkom (日).
+释|shì|to explain|釆 + 圣|Rozlišuje, čo je čo.
+终|zhōng|end|纟 + 冬|Nite (纟) v zime (冬): koniec.
+耶|yē|(exclamation: yeah)|耳 + 阝|Ucho (耳) počuje: „jéj“.
+查|chá|to check|木 + 旦|Strom (木) nad úsvitom (旦): skontroluj.
+步|bù|step|止 + 少|Stopa (止) a kúsok (少): krok.
+糟|zāo|messy; bad|米 + 曹|Ryža (米) sa skazila.
+糕|gāo|cake|米 + 羔|Ryža (米) a jahňa (羔): koláč.
+武|wǔ|military|止 + 弋|Zastaviť (止) kopijou (弋).
+器|qì|device|口口口口 + 犬|Štvoro úst (口) a pes (犬): nástroj.
+室|shì|room|宀 + 至|Pod strechou (宀) si prišiel (至) do izby.
+弃|qì|to abandon|—|Dieťa vyhodia z rúk.
+鬼|guǐ|ghost|—|Hlava strašidla.
+油|yóu|oil|氵 + 由|Tekutina (氵) z (由) rastliny: olej.
+戏|xì|play; game|又 + 戈|Ruka (又) s halapartňou (戈): hra.
+即|jí|immediately|—|Človek kľačí pri jedle hneď.
+轻|qīng|light; young|车|Voz (车) je ľahký.
+目|mù|eye|—|Oko postavené zvisle.
+标|biāo|mark; sign|木 + 示|Drevo (木) ukazuje (示) značku.
+虑|lǜ|to consider|虍 + 心|Tiger (虍) nad srdcom (心): zvažuješ.
+聪|cōng|clever|耳 + 总|Ucho (耳) počuje všetko (总): múdry.
+姑|gū|aunt; girl|女 + 古|Žena (女) staršia (古).
+娘|niáng|girl; mother|女 + 良|Dobrá (良) žena (女).
+球|qiú|ball|王 + 求|Nefrit (王) okrúhly: lopta.
+令|lìng|to order|人 + 一 + 卩|Pod strechou kľačí a dostane rozkaz.
+阻|zǔ|to block|阝 + 且|Kopec (阝) cestu blokuje.
+似|sì|to seem|亻 + 以|Človek (亻) sa podobá.
+乎|hū|(particle)|—|Dych stúpa hore: zdá sa.
+联|lián|to connect|耳 + 关|Uši (耳) spojené vzťahom.
+庭|tíng|courtyard|广 + 廷|Pod strechou (广) je dvor.
+痛|tòng|pain|疒 + 甬|Choroba (疒): bolesť.
+苦|kǔ|bitter|艹 + 古|Stará (古) tráva (艹) je horká.
+量|liàng|amount|旦 + 里|Ráno (旦) odmeriaš míle (里).
+未|wèi|not yet|—|Strom, ktorý ešte nevyrástol.
+博|bó|broad; learned|十 + 尃|Desať (十) oblastí vedomostí.
+狂|kuáng|crazy|犭 + 王|Zviera (犭) ako kráľ (王): šialené.
+报|bào|to report|扌 + 卩 + 又|Ruka (扌) podáva správu.
+据|jù|according to|扌 + 居|Ruka (扌) drží dôkaz.
+负|fù|to bear|⺈ + 贝|Človek (⺈) nesie mušle (贝).
+责|zé|duty|龶 + 贝|Povinnosť za mušle (贝).
+检|jiǎn|to inspect|木 + 佥|Drevo (木): kontrola záznamov.
+厉|lì|severe; strict|厂 + 万|Útes (厂) a desaťtisíc (万): tvrdé.
+拥|yōng|to hold; to own|扌 + 用|Ruka (扌) drží a používa (用).
+则|zé|rule; then|贝 + 刂|Mušľa (贝) a nôž (刂): pravidlo.
+及|jí|and; to reach|—|Ruka dosiahne človeka.
+香|xiāng|fragrant|禾 + 日|Obilie (禾) na slnku (日) vonia.
+港|gǎng|port|氵 + 巷|Voda (氵) a ulička (巷): prístav.
+研|yán|to research|石 + 开|Kameň (石) melie.
+究|jiū|to investigate|穴 + 九|Deväť (九) krát do diery (穴).
+附|fù|near; attach|阝 + 付|Pri kopci (阝) priložíš.
+棒|bàng|stick; great|木 + 奉|Drevo (木): palica, super!
+脸|liǎn|face|月 + 佥|Mäso (月) tváre.
+唱|chàng|to sing|口 + 昌|Ústa (口) spievajú pod slnkami (昌).
+反|fǎn|opposite|厂 + 又|Ruka (又) obráti útes (厂).
+政|zhèng|politics|正 + 攵|Správne (正) a úder (攵): vláda.
+府|fǔ|government office|广 + 付|Pod strechou (广) platíš (付).
+遇|yù|to meet|辶 + 禺|Na ceste (辶) stretneš.
+伟|wěi|great|亻 + 韦|Veľký človek (亻).
+仍|réng|still|亻 + 乃|Človek (亻) stále je.
+代|dài|to replace; generation|亻 + 弋|Človek (亻) nahradí druhého.
+表|biǎo|surface; to show|—|Kožuch ukazuje vrch.
+陪|péi|to accompany|阝 + 咅|Pri kopci (阝) sprevádzaš.
+若|ruò|if|艹 + 右|Tráva (艹) vpravo (右): ak by…
+具|jù|tool|目 + 一 + 八|Oko (目) na stole: nástroj.
+尸|shī|corpse|—|Ležiace telo.
+较|jiào|relatively|车 + 交|Voz (车) porovnáva sa s iným.
+紧|jǐn|tight|又 + 糸|Povraz (糸) držíš pevne.
+监|jiān|to supervise|—|Človek sleduje nádobu.
+狱|yù|prison|犭 + 讠 + 犬|Dva psy (犭犬) strážia slová (讠).
+置|zhì|to place|罒 + 直|Sieť (罒) položíš rovno (直).
+随|suí|to follow|阝 + 迶|Pri kopci (阝) nasleduješ.
+偷|tōu|to steal|亻 + 俞|Človek (亻) ukradne.
+排|pái|to arrange|扌 + 非|Ruka (扌) rozdelí do radu.
+演|yǎn|to perform|氵 + 寅|Voda (氵) tečie ako výkon.
+交|jiāo|to hand over|—|Človek so skríženými nohami.
+叔|shū|uncle|又|Ruka (又) strýka.
+食|shí|food|人 + 良|Človek (人) a dobré (良) jedlo.
+物|wù|thing|牛 + 勿|Býk (牛) je vec.
+丽|lì|beautiful|—|Dva vzácne ozdobné rohy.
+案|àn|case; file|安 + 木|Pokoj (安) na drevenom (木) stole: prípad.
+哈|hā|ha|口 + 合|Ústa (口) sa spoja a smejú.
+怜|lián|pity|忄 + 令|Srdce (忄) cíti súcit.
+首|shǒu|head; first|—|Hlava s vlasmi.
+提|tí|to lift; to mention|扌 + 是|Ruka (扌) zdvihne, čo je (是).
+供|gōng|to supply|亻 + 共|Človek (亻) spolu (共) poskytne.
+封|fēng|to seal; (letters)|圭 + 寸|Ruka (寸) zapečatí list.
+逼|bī|to force|辶 + 畐|Na ceste (辶) ťa tlačia.
+誓|shì|oath|折 + 言|Slová (言) zlomíš (折) len s prísahou.
+钥|yào|key|钅 + 月|Kov (钅) pod mesiacom (月): kľúč.
+匙|shi|key; spoon|是 + 匕|Lyžica (匕) a je (是).
+误|wù|mistake|讠 + 吴|Slová (讠) sú pomýlené.
+松|sōng|loose; pine|木 + 公|Strom (木) je borovica, uvoľnený.
+船|chuán|boat|舟 + 几 + 口|Loď (舟) s ústami (口) ľudí.
+扰|rǎo|to disturb|扌 + 尤|Ruka (扌) ruší.
+攻|gōng|to attack|工 + 攵|Práca (工) a úder (攵): útok.
+击|jī|to strike|—|Úder zhora.
+建|jiàn|to build|廴 + 聿|Štetec (聿) navrhne stavbu.
+议|yì|to discuss|讠 + 义|Slová (讠) o spravodlivosti (义).
+舞|wǔ|to dance|—|Tanečník s dvoma nohami.
+差|chà|to differ; lacking|羊 + 工|Ovca (羊) a práca (工): chýba niečo.
+谅|liàng|to forgive|讠 + 京|Slová (讠) z hlavného mesta (京): odpustenie.
+神|shén|god; spirit|礻 + 申|Oltár (礻): duch.
+幸|xìng|fortunate|土 + 丷 + 干|Zem (土) dá šťastie.
+福|fú|good fortune|礻 + 畐|Oltár (礻) a plný džbán: šťastie.
+哎|āi|hey; oh|口 + 艾|Ústa (口): „hej“.
+骑|qí|to ride|马 + 奇|Na koni (马) zvláštne (奇) jazdíš.
+担|dān|to carry; to worry|扌 + 旦|Ruka (扌) nesie ráno (旦) starosť.
+运|yùn|luck; to transport|辶 + 云|Mrak (云) na ceste (辶): osud.
+丢|diū|to lose|—|Niečo spadne z pôdy.
+严|yán|strict; serious|—|Prísny dohľad z výšky.
+坚|jiān|firm|又 + 土|Ruka (又) na zemi (土): pevný.
+象|xiàng|elephant|—|Silueta slona s chobotom.
+按|àn|to press|扌 + 安|Ruka (扌) pokojne (安) stlačí.
+礼|lǐ|gift; ceremony|礻 + 乚|Oltár (礻): obrad a dar.
+剩|shèng|to remain|乘 + 刂|Nôž (刂) odkrojí a zvyšok ostane.
+组|zǔ|group|纟 + 且|Nite (纟) spojené do skupiny.
+织|zhī|to weave|纟 + 只|Nite (纟) tkajú.
+敌|dí|enemy|舌 + 攵|Jazyk (舌) a úder (攵): nepriateľ.
+骗|piàn|to cheat|马 + 扁|Na koni (马) ťa podvedie.
+值|zhí|worth|亻 + 直|Človek (亻) rovný (直): má hodnotu.
+寻|xún|to search|彐 + 寸|Ruka (寸) hľadá.
+利|lì|benefit|禾 + 刂|Obilie (禾) kosené nožom (刂): zisk.
+精|jīng|essence; energy|米 + 青|Čistá ryža (米): energia.
+居|jū|to reside|尸 + 古|Telo (尸) sedí dlho (古): býva.
+既|jì|since; already|—|Človek sa odvráti od jedla: už.
+恨|hèn|to hate|忄 + 艮|Srdce (忄) sa odvráti.
+属|shǔ|to belong|尸 + 禹|Telo (尸) patrí niekomu.
+怀|huái|to cherish; bosom|忄 + 不|Srdce (忄) nie (不) a pochybuje.
+疑|yí|to doubt|—|Človek zastane na križovatke: pochybnosť.
+斗|dòu|to fight|—|Merica a boj.
+承|chéng|to bear; to admit|—|Ruky podopierajú človeka.
+录|lù|to record|彐 + 水|Ruka (彐) nad vodou (水) zaznamenáva.
+足|zú|foot; enough|口 + 止|Koleno (口) a stopa (止): noha.
+瞧|qiáo|to look|目 + 焦|Oko (目) sa zameria.
+拒|jù|to refuse|扌 + 巨|Ruka (扌) odmietne veľké (巨).
+混|hùn|to mix|氵 + 昆|Vody (氵) sa miešajú.
+笨|bèn|stupid|⺮ + 本|Bambus (⺮) a koreň (本): ťarbavý.
+痴|chī|silly|疒 + 知|Choroba (疒) vedomostí (知).
+屁|pì|fart|尸 + 比|Telo (尸) porovnáva: pŕdnutie.
+股|gǔ|thigh; share|月 + 殳|Mäso (月): stehno.

@@ -2,7 +2,7 @@
 
 Osobná appka na učenie čínštiny pre slovenských študentov: najprv celé vety, potom slová a znaky. Vznikla ako pomôcka ku kurzu KSCX01 a na cestu do Číny.
 
-- vety ku *Integrated Chinese, Level 1 Part 1* (po s. 83) a frázy na cestovanie
+- vety ku *Integrated Chinese, Level 1 Part 1* (po s. 83), frázy na cestovanie a 1000 najčastejších slov
 - opakovanie v intervaloch, testy po každej dávke, skúšky so životmi
 - skladanie viet, posluch, hovorenie, tieňovanie a kreslenie znakov ťah po ťahu
 - funguje offline, postup sa ukladá len v prehliadači

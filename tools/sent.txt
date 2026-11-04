@@ -531,6 +531,751 @@ G c9|Najčastejšie vzory|🧠|trip
 对不起 ， 我 错 了 。|Duìbuqǐ, wǒ cuò le.|Prepáčte, pomýlil som sa.
 我 七 点 起床 。|Wǒ qī diǎn qǐchuáng.|Vstávam o siedmej.
 还 有 吗 ？|Hái yǒu ma?|Ešte máte?
+G f1|Top 1000 · 1: základné slová|🔥|freq
+好 啊 ！|Hǎo a!|Jasné, dobre!
+我 有 一 个 问题 。|Wǒ yǒu yí ge wèntí.|Mám jednu otázku.
+这 不 是 我 的 。|Zhè bú shì wǒ de.|To nie je moje.
+把 水 给 我 。|Bǎ shuǐ gěi wǒ.|Podaj mi vodu.
+让 我 看看 。|Ràng wǒ kànkan.|Daj mi pozrieť.
+我 想 去 ， 但 我 很 忙 。|Wǒ xiǎng qù, dàn wǒ hěn máng.|Chcem ísť, ale mám veľa práce.
+就是 这个 ！|Jiù shì zhège!|Presne tento!
+如果 你 累 了 ， 就 休息 吧 。|Rúguǒ nǐ lèi le, jiù xiūxi ba.|Ak si unavený, oddýchni si.
+它 很 小 。|Tā hěn xiǎo.|Je to malé.
+你 说 得 很 好 。|Nǐ shuō de hěn hǎo.|Hovoríš veľmi dobre.
+请 拿 这个 。|Qǐng ná zhège.|Vezmite si toto, prosím.
+我 的 手机 被 他 拿 走 了 。|Wǒ de shǒujī bèi tā ná zǒu le.|Zobral mi telefón.
+这里 很 热 。|Zhèlǐ hěn rè.|Je tu veľmi teplo.
+这样 可以 吗 ？|Zhèyàng kěyǐ ma?|Môže to byť takto?
+我 今天 有 事 。|Wǒ jīntiān yǒu shì.|Dnes mám niečo na programe.
+我 自己 来 。|Wǒ zìjǐ lái.|Spravím si to sám.
+他 在 椅子 上 坐 着 。|Tā zài yǐzi shàng zuò zhe.|Sedí na stoličke.
+钱 在 钱包 里 。|Qián zài qiánbāo lǐ.|Peniaze sú v peňaženke.
+我 吃 过 饺子 。|Wǒ chī guo jiǎozi.|Už som jedol knedličky.
+你 不 能 在 这儿 拍照 。|Nǐ bù néng zài zhèr pāizhào.|Tu nesmieš fotiť.
+我 只是 看看 。|Wǒ zhǐshì kànkan.|Len sa pozerám.
+哦 ， 我 懂 了 。|Ò, wǒ dǒng le.|Aha, už rozumiem.
+我 需要 一 个 袋子 。|Wǒ xūyào yí ge dàizi.|Potrebujem tašku.
+你 像 你 妈妈 。|Nǐ xiàng nǐ māma.|Podobáš sa na mamu.
+今天 这么 热 ！|Jīntiān zhème rè!|Dnes je tak teplo!
+明天 可能 下雨 。|Míngtiān kěnéng xià yǔ.|Zajtra možno bude pršať.
+你 又 来 了 ！|Nǐ yòu lái le!|Zase si tu!
+请 快 一点 。|Qǐng kuài yìdiǎn.|Trochu rýchlejšie, prosím.
+还有 别 的 吗 ？|Hái yǒu bié de ma?|Máte ešte niečo iné?
+我 累 死 了 ！|Wǒ lèi sǐ le!|Som strašne unavený!
+我 会 回 来 。|Wǒ huì huí lái.|Vrátim sa.
+你 应该 休息 。|Nǐ yīnggāi xiūxi.|Mal by si si oddýchnuť.
+这些 多少 钱 ？|Zhèxiē duōshao qián?|Koľko stoja tieto?
+你 看到 我 的 手机 了 吗 ？|Nǐ kàndào wǒ de shǒujī le ma?|Videl si môj telefón?
+那么 ， 我们 走 吧 。|Nàme, wǒmen zǒu ba.|Tak teda poďme.
+我 为 你 高兴 。|Wǒ wèi nǐ gāoxìng.|Teším sa za teba.
+这个 菜 便宜 而 好吃 。|Zhège cài piányi ér hǎochī.|Toto jedlo je lacné a chutné.
+我 十 点 才 起床 。|Wǒ shí diǎn cái qǐchuáng.|Vstal som až o desiatej.
+嗯 ， 我 知道 。|Ǹg, wǒ zhīdào.|Hm, viem.
+我们 一样 大 。|Wǒmen yíyàng dà.|Sme rovnako starí.
+你 来 了 呀 ！|Nǐ lái le ya!|Ale, už si tu!
+嘿 ， 你 好 ！|Hēi, nǐ hǎo!|Hej, ahoj!
+我 想 当 老师 。|Wǒ xiǎng dāng lǎoshī.|Chcem byť učiteľom.
+我 朋友 中 ， 他 最 高 。|Wǒ péngyou zhōng, tā zuì gāo.|Z mojich priateľov je najvyšší.
+我们 先 吃饭 ， 然后 去 玩 。|Wǒmen xiān chīfàn, ránhòu qù wán.|Najprv sa najeme, potom sa pôjdeme zabaviť.
+你 先 走 吧 。|Nǐ xiān zǒu ba.|Choď prvý.
+这个 地方 很 漂亮 。|Zhège dìfang hěn piàoliang.|Toto miesto je veľmi pekné.
+我 一定 去 。|Wǒ yídìng qù.|Určite pôjdem.
+飞机 将 在 十 点 到 。|Fēijī jiāng zài shí diǎn dào.|Lietadlo pristane o desiatej.
+好 啦 ， 走 吧 ！|Hǎo la, zǒu ba!|Dobre, poďme!
+这 件 事情 很 重要 。|Zhè jiàn shìqing hěn zhòngyào.|Táto vec je veľmi dôležitá.
+身体 最 重要 。|Shēntǐ zuì zhòngyào.|Zdravie je najdôležitejšie.
+一直 走 。|Yìzhí zǒu.|Choďte stále rovno.
+所有 的 人 都 来 了 。|Suǒyǒu de rén dōu lái le.|Prišli všetci ľudia.
+我 找到 我 的 护照 了 ！|Wǒ zhǎodào wǒ de hùzhào le!|Našiel som pas!
+当然 可以 。|Dāngrán kěyǐ.|Samozrejme, že môžete.
+老师 们 好 ！|Lǎoshī men hǎo!|Dobrý deň, učitelia!
+你 什么 时候 回来 ？|Nǐ shénme shíhou huílai?|Kedy sa vrátiš?
+我 不 想 去 。|Wǒ bù xiǎng qù.|Nechcem ísť.
+这个 更 好 。|Zhège gèng hǎo.|Tento je ešte lepší.
+没事 ， 没事 。|Méi shì, méi shì.|To nič, nič sa nedeje.
+那些 是 谁 的 ？|Nàxiē shì shéi de?|Čie sú tamtie?
+这 可 不 便宜 。|Zhè kě bù piányi.|To teda nie je lacné.
+我 明白 了 。|Wǒ míngbai le.|Už je mi to jasné.
+有 时间 的话 ， 来 我 家 吧 。|Yǒu shíjiān dehuà, lái wǒ jiā ba.|Ak budeš mať čas, príď ku mne.
+下 个 星期 我 去 北京 。|Xià ge xīngqī wǒ qù Běijīng.|Budúci týždeň idem do Pekingu.
+我 明天 离开 上海 。|Wǒ míngtiān líkāi Shànghǎi.|Zajtra odchádzam zo Šanghaja.
+一切 都 好 。|Yíqiè dōu hǎo.|Všetko je v poriadku.
+我 相信 你 。|Wǒ xiāngxìn nǐ.|Verím ti.
+你 想要 什么 ？|Nǐ xiǎng yào shénme?|Čo chceš?
+发生 了 什么 ？|Fāshēng le shénme?|Čo sa stalo?
+快 起来 ！|Kuài qǐlai!|Rýchlo vstávaj!
+你 真是 我 的 好 朋友 。|Nǐ zhēn shì wǒ de hǎo péngyou.|Si naozaj môj dobrý priateľ.
+很 抱歉 ， 我 来 晚 了 。|Hěn bàoqiàn, wǒ lái wǎn le.|Veľmi sa ospravedlňujem, že meškám.
+太 晚 了 ， 我 要 回 酒店 。|Tài wǎn le, wǒ yào huí jiǔdiàn.|Je príliš neskoro, musím sa vrátiť do hotela.
+你 必须 去 医院 。|Nǐ bìxū qù yīyuàn.|Musíš ísť do nemocnice.
+我 认为 这样 不 对 。|Wǒ rènwéi zhèyàng bú duì.|Myslím si, že takto to nie je správne.
+那里 有 很 多 人 。|Nàlǐ yǒu hěn duō rén.|Je tam veľa ľudí.
+也许 他 不 知道 。|Yěxǔ tā bù zhīdào.|Možno to nevie.
+有人 在 吗 ？|Yǒu rén zài ma?|Je tu niekto?
+该 走 了 。|Gāi zǒu le.|Je čas ísť.
+别 杀 我 ！|Bié shā wǒ!|Nezabíjaj ma!
+你 准备 好 了 吗 ？|Nǐ zhǔnbèi hǎo le ma?|Si pripravený?
+我 并 不 累 。|Wǒ bìng bú lèi.|Vôbec nie som unavený.
+你 出来 吧 ！|Nǐ chūlai ba!|Poď von!
+中国 与 美国|Zhōngguó yǔ Měiguó|Čína a Amerika
+吃饭 时 别 说话 。|Chīfàn shí bié shuōhuà.|Pri jedle nerozprávaj.
+很 好吃 ， 不过 有点 贵 。|Hěn hǎochī, búguò yǒudiǎn guì.|Je to veľmi chutné, ale trochu drahé.
+我 有点 累 。|Wǒ yǒudiǎn lèi.|Som trochu unavený.
+为了 去 中国 ， 我 学习 中文 。|Wèile qù Zhōngguó, wǒ xuéxí Zhōngwén.|Učím sa po čínsky, aby som mohol ísť do Číny.
+你 带 护照 了 吗 ？|Nǐ dài hùzhào le ma?|Vzal si si pas?
+那个 女人 是 谁 ？|Nàge nǚrén shì shéi?|Kto je tá žena?
+下课 后 我 去 超市 。|Xià kè hòu wǒ qù chāoshì.|Po hodine idem do obchodu.
+我 只有 现金 。|Wǒ zhǐyǒu xiànjīn.|Mám iba hotovosť.
+过来 ！|Guòlai!|Poď sem!
+我 再 说 一 次 。|Wǒ zài shuō yí cì.|Poviem to ešte raz.
+我 得到 了 一 个 好 工作 。|Wǒ dédào le yí ge hǎo gōngzuò.|Získal som dobrú prácu.
+这儿 有 很多 饭馆 。|Zhèr yǒu hěn duō fànguǎn.|Je tu veľa reštaurácií.
+你 有 任何 问题 ， 都 可以 问 我 。|Nǐ yǒu rènhé wèntí, dōu kěyǐ wèn wǒ.|S akoukoľvek otázkou sa môžeš obrátiť na mňa.
+我 问 一下 。|Wǒ wèn yíxià.|Spýtam sa.
+这种 茶 很 好喝 。|Zhè zhǒng chá hěn hǎohē.|Tento druh čaju je veľmi dobrý.
+这个 咖啡 真 好喝 ！|Zhège kāfēi zhēn hǎohē!|Táto káva je naozaj dobrá!
+你 感觉 怎么样 ？|Nǐ gǎnjué zěnmeyàng?|Ako sa cítiš?
+这 是 不 是 你 的 ？|Zhè shì bu shì nǐ de?|Je toto tvoje?
+我 以为 你 走 了 。|Wǒ yǐwéi nǐ zǒu le.|Myslel som, že si odišiel.
+这儿 很 便宜 ， 而且 很 近 。|Zhèr hěn piányi, érqiě hěn jìn.|Je tu lacno a navyše je to blízko.
+这儿 的 生活 很 舒服 。|Zhèr de shēnghuó hěn shūfu.|Život je tu veľmi príjemný.
+那个 男人 是 我 的 老师 。|Nàge nánrén shì wǒ de lǎoshī.|Ten muž je môj učiteľ.
+吃饭 之前 我 要 洗 手 。|Chīfàn zhīqián wǒ yào xǐ shǒu.|Pred jedlom si musím umyť ruky.
+我 要 洗 衣服 。|Wǒ yào xǐ yīfu.|Musím si oprať oblečenie.
+你 的 手 很 冷 。|Nǐ de shǒu hěn lěng.|Máš veľmi studené ruky.
+我 发现 我 的 钱包 不 见 了 。|Wǒ fāxiàn wǒ de qiánbāo bú jiàn le.|Zistil som, že sa mi stratila peňaženka.
+噢 ， 对不起 ！|Ō, duìbuqǐ!|Ó, prepáč!
+快点 ， 快点 ！|Kuài diǎn, kuài diǎn!|Rýchlo, rýchlo!
+嗨 ， 你 去 哪儿 ？|Hāi, nǐ qù nǎr?|Ahoj, kam ideš?
+妈 ， 我 回来 了 ！|Mā, wǒ huílai le!|Mami, už som späť!
+我 有 两 个 姐姐 。|Wǒ yǒu liǎng ge jiějie.|Mám dve sestry.
+不用 谢 。|Búyòng xiè.|Niet za čo.
+请 慢慢 地 说 。|Qǐng mànmàn de shuō.|Hovorte, prosím, pomaly.
+慢慢 吃 ！|Mànmàn chī!|Dobrú chuť, nič sa neponáhľaj!
+向 左 走 。|Xiàng zuǒ zǒu.|Choďte doľava.
+没错 ， 就是 他 。|Méi cuò, jiù shì tā.|Presne tak, je to on.
+世界 很 大 。|Shìjiè hěn dà.|Svet je veľký.
+你 记得 我 吗 ？|Nǐ jìde wǒ ma?|Pamätáš si ma?
+这个 饭馆 不错 。|Zhège fànguǎn búcuò.|Táto reštaurácia je dobrá.
+他 肯定 知道 。|Tā kěndìng zhīdào.|Určite to vie.
+你 最好 坐 地铁 。|Nǐ zuìhǎo zuò dìtiě.|Najlepšie bude, keď pôjdeš metrom.
+不行 ， 太 贵 了 。|Bùxíng, tài guì le.|To nejde, je to príliš drahé.
+等等 我 ！|Děngdeng wǒ!|Počkaj ma!
+别 走 嘛 ！|Bié zǒu ma!|Ale nechoď!
+我们 出去 吃饭 吧 。|Wǒmen chūqu chīfàn ba.|Poďme sa najesť von.
+这 么 多 人 ！|Zhème duō rén!|Toľko ľudí!
+亲爱 的 ， 我 爱 你 。|Qīn'ài de, wǒ ài nǐ.|Môj milý, ľúbim ťa.
+今天 或 明天 都 可以 。|Jīntiān huò míngtiān dōu kěyǐ.|Dá sa dnes alebo zajtra.
+如何 去 机场 ？|Rúhé qù jīchǎng?|Ako sa dostanem na letisko?
+你 到底 去 不 去 ？|Nǐ dàodǐ qù bu qù?|Tak ideš, alebo nie?
+这 是 最后 一 个 。|Zhè shì zuìhòu yí ge.|Toto je posledný.
+我 的 上帝 ！|Wǒ de Shàngdì!|Bože môj!
+我 正在 吃饭 。|Wǒ zhèngzài chīfàn.|Práve jem.
+别 那样 说 。|Bié nàyàng shuō.|Tak nehovor.
+我 父亲 是 医生 。|Wǒ fùqin shì yīshēng.|Môj otec je lekár.
+别 跑 ！|Bié pǎo!|Nebehaj!
+只要 你 高兴 就 好 。|Zhǐyào nǐ gāoxìng jiù hǎo.|Hlavne, aby si bol spokojný.
+你 在 干什么 ？|Nǐ zài gàn shénme?|Čo to robíš?
+他 好像 生病 了 。|Tā hǎoxiàng shēngbìng le.|Zdá sa, že je chorý.
+我 能 进 吗 ？|Wǒ néng jìn ma?|Môžem ďalej?
+请 继续 。|Qǐng jìxù.|Pokračujte, prosím.
+他 出 门 了 。|Tā chū mén le.|Odišiel z domu.
+请 开 门 。|Qǐng kāi mén.|Otvorte dvere, prosím.
+今晚 你 有 时间 吗 ？|Jīnwǎn nǐ yǒu shíjiān ma?|Máš dnes večer čas?
+我 想 回家 。|Wǒ xiǎng huí jiā.|Chcem ísť domov.
+它们 都 是 我 的 猫 。|Tāmen dōu shì wǒ de māo.|To všetko sú moje mačky.
+你 听到 了 吗 ？|Nǐ tīngdào le ma?|Počul si to?
+你 干嘛 不 说话 ？|Nǐ gànmá bù shuōhuà?|Prečo nič nehovoríš?
+你 想 干 什么 ？|Nǐ xiǎng gàn shénme?|Čo chceš robiť?
+要是 下雨 ， 我 就 不 去 。|Yàoshi xià yǔ, wǒ jiù bú qù.|Ak bude pršať, nepôjdem.
+那个 女孩 是 我 妹妹 。|Nàge nǚhái shì wǒ mèimei.|To dievča je moja sestra.
+这 就是 我 所 知道 的 。|Zhè jiù shì wǒ suǒ zhīdào de.|Toto je všetko, čo viem.
+我 马上 来 ！|Wǒ mǎshàng lái!|Hneď som tam!
+你 过去 看看 。|Nǐ guòqu kànkan.|Choď sa tam pozrieť.
+我 以前 住 在 北京 。|Wǒ yǐqián zhù zài Běijīng.|Predtým som býval v Pekingu.
+你 看起来 很 累 。|Nǐ kàn qǐlai hěn lèi.|Vyzeráš veľmi unavene.
+我 完全 不 懂 。|Wǒ wánquán bù dǒng.|Vôbec nerozumiem.
+你 想 怎样 ？|Nǐ xiǎng zěnyàng?|Čo teda chceš?
+我 明年 回去 。|Wǒ míngnián huíqu.|Vrátim sa tam budúci rok.
+我 以 老师 的 身份 说话 。|Wǒ yǐ lǎoshī de shēnfèn shuōhuà.|Hovorím ako učiteľ.
+你 的 身份 是 什么 ？|Nǐ de shēnfèn shì shénme?|Aké je tvoje postavenie?
+我 很 累 ， 却 不 想 睡觉 。|Wǒ hěn lèi, què bù xiǎng shuìjiào.|Som veľmi unavený, ale nechce sa mi spať.
+其他 的 人 呢 ？|Qítā de rén ne?|A čo ostatní ľudia?
+我 永远 爱 你 。|Wǒ yǒngyuǎn ài nǐ.|Budem ťa ľúbiť navždy.
+这个 家伙 是 谁 ？|Zhège jiāhuo shì shéi?|Kto je ten chlapík?
+吃饭 之后 我们 去 玩 。|Chīfàn zhīhòu wǒmen qù wán.|Po jedle sa pôjdeme zabaviť.
+我们 坐 火车 或者 飞机 。|Wǒmen zuò huǒchē huòzhě fēijī.|Pôjdeme vlakom alebo lietadlom.
+火车 几 点 开 ？|Huǒchē jǐ diǎn kāi?|O koľkej odchádza vlak?
+小心 ！|Xiǎoxīn!|Pozor!
+行 ， 没 问题 。|Xíng, méi wèntí.|Dobre, žiadny problém.
+别 告诉 别人 。|Bié gàosu biérén.|Nehovor to nikomu inému.
+他 成为 了 医生 。|Tā chéngwéi le yīshēng.|Stal sa lekárom.
+G f2|Top 1000 · 2: každodenná reč|💡|freq
+不到 十 分钟 就 到 了 。|Bú dào shí fēnzhōng jiù dào le.|Za menej ako desať minút sme tam.
+现在 情况 怎么样 ？|Xiànzài qíngkuàng zěnmeyàng?|Aká je teraz situácia?
+我 送 你 去 机场 。|Wǒ sòng nǐ qù jīchǎng.|Odveziem ťa na letisko.
+伙计 ， 你 好 吗 ？|Huǒji, nǐ hǎo ma?|Kamoš, ako sa máš?
+我 一 天 喝 两 杯 咖啡 。|Wǒ yì tiān hē liǎng bēi kāfēi.|Denne vypijem dve kávy.
+很 高兴 见到 你 。|Hěn gāoxìng jiàndào nǐ.|Teší ma, že ťa vidím.
+他 总是 很 忙 。|Tā zǒngshì hěn máng.|Vždy má veľa práce.
+好好 休息 。|Hǎohǎo xiūxi.|Poriadne si oddýchni.
+原来 如此 ！|Yuánlái rúcǐ!|Aha, tak preto!
+原来 是 你 ！|Yuánlái shì nǐ!|Aha, to si ty!
+我 不 了解 中国 。|Wǒ bù liǎojiě Zhōngguó.|Nepoznám Čínu.
+你 有 没 有 时间 ？|Nǐ yǒu méi yǒu shíjiān?|Máš čas?
+他 是 我 的 兄弟 。|Tā shì wǒ de xiōngdì.|Je to môj brat.
+没什么 ， 不用 谢 。|Méi shénme, búyòng xiè.|To nič, niet za čo.
+我 来 ！|Wǒ lái!|Ja to spravím!
+电影 几 点 结束 ？|Diànyǐng jǐ diǎn jiéshù?|O koľkej sa končí film?
+这 是 一 个 好 机会 。|Zhè shì yí ge hǎo jīhuì.|To je dobrá príležitosť.
+票 已 卖 完 。|Piào yǐ màiwán.|Lístky sú už vypredané.
+水 卖完 了 。|Shuǐ màiwán le.|Voda je vypredaná.
+这里 安全 吗 ？|Zhèlǐ ānquán ma?|Je to tu bezpečné?
+拜托 ， 帮 我 一下 。|Bàituō, bāng wǒ yíxià.|Prosím ťa, pomôž mi.
+我 决定 了 ， 明天 走 。|Wǒ juédìng le, míngtiān zǒu.|Rozhodol som sa, odchádzam zajtra.
+今天 冷 ， 多 穿 一点 。|Jīntiān lěng, duō chuān yìdiǎn.|Dnes je zima, obleč sa teplejšie.
+你 确定 吗 ？|Nǐ quèdìng ma?|Si si istý?
+里面 有 人 吗 ？|Lǐmiàn yǒu rén ma?|Je tam niekto?
+呃 ， 我 想 一下 。|È, wǒ xiǎng yíxià.|Ehm, chvíľu rozmýšľam.
+怎么办 ？ 我 迷路 了 。|Zěnme bàn? Wǒ mílù le.|Čo teraz? Zablúdil som.
+还好 ， 不 太 累 。|Hái hǎo, bú tài lèi.|Ide to, nie som veľmi unavený.
+我 无法 相信 。|Wǒ wúfǎ xiāngxìn.|Nemôžem tomu uveriť.
+下 一 站 是 哪儿 ？|Xià yí zhàn shì nǎr?|Aká je ďalšia zastávka?
+我 听 不 清楚 。|Wǒ tīng bu qīngchu.|Nepočujem to zreteľne.
+有些 人 不 喜欢 辣 。|Yǒuxiē rén bù xǐhuan là.|Niektorí ľudia nemajú radi pikantné.
+谢谢 你 的 帮助 。|Xièxie nǐ de bāngzhù.|Ďakujem za pomoc.
+是 ， 长官 ！|Shì, zhǎngguān!|Áno, pane!
+你 在 哪 家 公司 工作 ？|Nǐ zài nǎ jiā gōngsī gōngzuò?|V ktorej firme pracuješ?
+我 给 你 打电话 。|Wǒ gěi nǐ dǎ diànhuà.|Zavolám ti.
+这个 房子 很 大 。|Zhège fángzi hěn dà.|Tento dom je veľmi veľký.
+我 根本 不 知道 。|Wǒ gēnběn bù zhīdào.|Vôbec to neviem.
+没 办法 。|Méi bànfǎ.|Nedá sa nič robiť.
+不管 多少 钱 ， 我 都 买 。|Bùguǎn duōshao qián, wǒ dōu mǎi.|Kúpim to bez ohľadu na cenu.
+这 是 一 本 关于 中国 的 书 。|Zhè shì yì běn guānyú Zhōngguó de shū.|Toto je kniha o Číne.
+我 搞 错 了 。|Wǒ gǎo cuò le.|Spravil som chybu.
+你 明天 有 什么 计划 ？|Nǐ míngtiān yǒu shénme jìhuà?|Aké máš plány na zajtra?
+你 是 我 唯一 的 朋友 。|Nǐ shì wǒ wéiyī de péngyou.|Si môj jediný priateľ.
+对 我 来说 ， 这 不 贵 。|Duì wǒ láishuō, zhè bú guì.|Pre mňa to nie je drahé.
+看着 我 ！|Kànzhe wǒ!|Pozri sa na mňa!
+宝贝 ， 别 哭 。|Bǎobèi, bié kū.|Zlatko, neplač.
+她 为什么 哭 ？|Tā wèishénme kū?|Prečo plače?
+每个 人 都 有 手机 。|Měi ge rén dōu yǒu shǒujī.|Každý má mobil.
+这 是 怎么回事 ？|Zhè shì zěnme huí shì?|Čo sa to deje?
+其实 我 不 喜欢 咖啡 。|Qíshí wǒ bù xǐhuan kāfēi.|V skutočnosti nemám rád kávu.
+人们 都 喜欢 他 。|Rénmen dōu xǐhuan tā.|Ľudia ho majú radi.
+他 是 我 真正 的 朋友 。|Tā shì wǒ zhēnzhèng de péngyou.|Je to môj skutočný priateľ.
+他 甚至 不 知道 我 的 名字 。|Tā shènzhì bù zhīdào wǒ de míngzi.|Dokonca nepozná ani moje meno.
+厕所 在 那边 。|Cèsuǒ zài nàbiān.|Toaleta je tam.
+我 把 手机 弄 坏 了 。|Wǒ bǎ shǒujī nòng huài le.|Pokazil som si telefón.
+不 好 ！|Bù hǎo!|To je zlé!
+喔 ， 是 吗 ？|Ō, shì ma?|Aha, naozaj?
+请 进来 。|Qǐng jìnlai.|Poďte ďalej, prosím.
+这 位 是 王 夫人 。|Zhè wèi shì Wáng fūrén.|Toto je pani Wangová.
+中国 之 旅 很 有意思 。|Zhōngguó zhī lǚ hěn yǒu yìsi.|Výlet do Číny je veľmi zaujímavý.
+这 是 我 的 第一 次 中国 之 旅 。|Zhè shì wǒ de dì yī cì Zhōngguó zhī lǚ.|Toto je moja prvá cesta do Číny.
+这个 电影 很 有意思 。|Zhège diànyǐng hěn yǒu yìsi.|Tento film je veľmi zaujímavý.
+你 愿意 帮 我 吗 ？|Nǐ yuànyì bāng wǒ ma?|Pomôžeš mi?
+麻烦 你 了 。|Máfan nǐ le.|Prepáč, že ťa obťažujem.
+我 睡 不 好 。|Wǒ shuì bu hǎo.|Nespím dobre.
+哇 ， 真 漂亮 ！|Wā, zhēn piàoliang!|Wow, to je krása!
+火车 就要 开 了 ！|Huǒchē jiù yào kāi le!|Vlak už odchádza!
+你 打算 去 哪儿 ？|Nǐ dǎsuàn qù nǎr?|Kam plánuješ ísť?
+我 吃 完 了 。|Wǒ chī wán le.|Dojedol som.
+这 是 一 个 好 故事 。|Zhè shì yí ge hǎo gùshi.|To je dobrý príbeh.
+这 是 一 种 水果 。|Zhè shì yì zhǒng shuǐguǒ.|Toto je druh ovocia.
+你 喜欢 哪 种 ？|Nǐ xǐhuan nǎ zhǒng?|Ktorý druh máš rád?
+别 害怕 。|Bié hàipà.|Neboj sa.
+快 救 他 ！|Kuài jiù tā!|Rýchlo ho zachráňte!
+这 件 事 由 我 来 做 。|Zhè jiàn shì yóu wǒ lái zuò.|Túto vec spravím ja.
+我 在 那儿 等 你 。|Wǒ zài nàr děng nǐ.|Počkám ťa tam.
+他 有 枪 ！|Tā yǒu qiāng!|Má zbraň!
+我 母亲 也 是 老师 。|Wǒ mǔqin yě shì lǎoshī.|Moja matka je tiež učiteľka.
+我们 去 另 一 家 饭馆 吧 。|Wǒmen qù lìng yì jiā fànguǎn ba.|Poďme do inej reštaurácie.
+你 下来 吧 。|Nǐ xiàlai ba.|Poď dole.
+我 听说 北京 很 冷 。|Wǒ tīngshuō Běijīng hěn lěng.|Počul som, že v Pekingu je zima.
+我 吃 不了 这么 多 。|Wǒ chī bu liǎo zhème duō.|Toľko nezjem.
+注意 安全 ！|Zhùyì ānquán!|Dávaj si pozor!
+我 不 想 改变 计划 。|Wǒ bù xiǎng gǎibiàn jìhuà.|Nechcem meniť plán.
+这 次 我 请客 。|Zhè cì wǒ qǐng kè.|Tentoraz platím ja.
+今天 我 请客 ！|Jīntiān wǒ qǐng kè!|Dnes platím ja!
+没关系 ， 我 不 累 。|Méi guānxi, wǒ bú lèi.|To nevadí, nie som unavený.
+我 不 能 接受 。|Wǒ bù néng jiēshòu.|To nemôžem prijať.
+这 是 我 的 妻子 。|Zhè shì wǒ de qīzi.|Toto je moja manželka.
+他 不 老 。|Tā bù lǎo.|Nie je starý.
+我 不 想 失去 你 。|Wǒ bù xiǎng shīqù nǐ.|Nechcem ťa stratiť.
+我 回到 酒店 了 。|Wǒ huídào jiǔdiàn le.|Vrátil som sa do hotela.
+以后 再 说 吧 。|Yǐhòu zài shuō ba.|Povieme si to neskôr.
+你 的 话 我 听 不 懂 。|Nǐ de huà wǒ tīng bu dǒng.|Nerozumiem tomu, čo hovoríš.
+我 不 知道 他 是否 来 。|Wǒ bù zhīdào tā shìfǒu lái.|Neviem, či príde.
+你 疯 了 吗 ？|Nǐ fēng le ma?|Zbláznil si sa?
+生命 很 重要 。|Shēngmìng hěn zhòngyào.|Život je veľmi dôležitý.
+她们 是 我 的 同学 。|Tāmen shì wǒ de tóngxué.|Sú to moje spolužiačky.
+我们 进去 吧 。|Wǒmen jìnqu ba.|Poďme dnu.
+抓 住 他 ！|Zhuā zhù tā!|Chyťte ho!
+请 记 住 我 的 名字 。|Qǐng jì zhù wǒ de míngzi.|Zapamätaj si, prosím, moje meno.
+我 记 不 住 。|Wǒ jì bu zhù.|Nedokážem si to zapamätať.
+女士 们 ， 大家 好 ！|Nǚshì men, dàjiā hǎo!|Dámy, dobrý deň všetkým!
+原因 是 什么 ？|Yuányīn shì shénme?|Aký je dôvod?
+你 刚才 说 什么 ？|Nǐ gāngcái shuō shénme?|Čo si pred chvíľou povedal?
+我 会 保护 你 。|Wǒ huì bǎohù nǐ.|Budem ťa chrániť.
+是 因为 你 。|Shì yīnwèi nǐ.|Je to kvôli tebe.
+你 选择 哪 个 ？|Nǐ xuǎnzé nǎ ge?|Ktorý si vyberieš?
+你 有 几 个 孩子 ？|Nǐ yǒu jǐ ge háizi?|Koľko máš detí?
+别 笑 我 。|Bié xiào wǒ.|Nesmej sa mi.
+我 从来 没 去 过 中国 。|Wǒ cónglái méi qù guo Zhōngguó.|Nikdy som nebol v Číne.
+他 会 来 吗 ？|Tā huì lái ma?|Príde?
+当时 我 不 在 家 。|Dāngshí wǒ bú zài jiā.|Vtedy som nebol doma.
+问题 又 出现 了 。|Wèntí yòu chūxiàn le.|Problém sa objavil znova.
+你 结婚 了 吗 ？|Nǐ jiéhūn le ma?|Si ženatý?
+我 买 了 些 水果 。|Wǒ mǎi le xiē shuǐguǒ.|Kúpil som nejaké ovocie.
+至少 要 两 个 小时 。|Zhìshǎo yào liǎng ge xiǎoshí.|Treba aspoň dve hodiny.
+还 要 别 的 吗 ？|Hái yào bié de ma?|Chcete ešte niečo?
+这个 挺 好 的 。|Zhège tǐng hǎo de.|Tento je celkom dobrý.
+祝 你 成功 ！|Zhù nǐ chénggōng!|Prajem ti úspech!
+真 奇怪 。|Zhēn qíguài.|To je zvláštne.
+虽然 很 累 ， 但 我 很 高兴 。|Suīrán hěn lèi, dàn wǒ hěn gāoxìng.|Hoci som veľmi unavený, som veľmi rád.
+别 忘 了 带 护照 。|Bié wàng le dài hùzhào.|Nezabudni si zobrať pas.
+太好了 ！ 我们 走 吧 ！|Tài hǎo le! Wǒmen zǒu ba!|Výborne! Poďme!
+我 身上 没有 钱 。|Wǒ shēnshang méiyǒu qián.|Nemám pri sebe peniaze.
+或许 明天 会 好 。|Huòxǔ míngtiān huì hǎo.|Možno bude zajtra lepšie.
+请 讲 中文 。|Qǐng jiǎng Zhōngwén.|Hovorte po čínsky, prosím.
+有 个 人 找 你 。|Yǒu ge rén zhǎo nǐ.|Niekto ťa hľadá.
+我 保证 不 说 。|Wǒ bǎozhèng bù shuō.|Sľubujem, že to nepoviem.
+外面 很 冷 。|Wàimiàn hěn lěng.|Vonku je veľká zima.
+她 丈夫 是 医生 。|Tā zhàngfu shì yīshēng.|Jej manžel je lekár.
+他 连 水 都 没 喝 。|Tā lián shuǐ dōu méi hē.|Nevypil ani vodu.
+你 去 过 几 个 国家 ？|Nǐ qù guo jǐ ge guójiā?|V koľkých krajinách si bol?
+我 整个 下午 都 在 工作 。|Wǒ zhěnggè xiàwǔ dōu zài gōngzuò.|Celé popoludnie som pracoval.
+今天 特别 冷 。|Jīntiān tèbié lěng.|Dnes je mimoriadne chladno.
+我 喜欢 那种 茶 。|Wǒ xǐhuan nà zhǒng chá.|Mám rád tento druh čaju.
+我们 的 想法 不同 。|Wǒmen de xiǎngfǎ bùtóng.|Máme odlišné názory.
+你 有 什么 想法 ？|Nǐ yǒu shénme xiǎngfǎ?|Aký máš nápad?
+他 很快 就 来 。|Tā hěn kuài jiù lái.|Čoskoro príde.
+他 变成 了 我 的 朋友 。|Tā biànchéng le wǒ de péngyou.|Stal sa mojím priateľom.
+够 了 ！|Gòu le!|Dosť!
+难道 你 不 知道 ？|Nándào nǐ bù zhīdào?|Vari to nevieš?
+我 买 了 一 件 衣服 。|Wǒ mǎi le yí jiàn yīfu.|Kúpil som si kus oblečenia.
+他 是 什么 样子 ？|Tā shì shénme yàngzi?|Ako vyzerá?
+请 给 我 倒 杯 水 。|Qǐng gěi wǒ dào bēi shuǐ.|Nalejte mi, prosím, pohár vody.
+我们 谈谈 吧 。|Wǒmen tántan ba.|Porozprávajme sa.
+这里 很 危险 ！|Zhèlǐ hěn wēixiǎn!|Je tu veľmi nebezpečne!
+今天 我 很 开心 。|Jīntiān wǒ hěn kāixīn.|Dnes som veľmi šťastný.
+你 要 别 的 吗 ？|Nǐ yào bié de ma?|Chceš niečo iné?
+这 件 衣服 很 贵 。|Zhè jiàn yīfu hěn guì.|Toto oblečenie je veľmi drahé.
+先 付 钱 才能 走 。|Xiān fù qián cáinéng zǒu.|Najprv zaplať, až potom môžeš ísť.
+闭嘴 ！|Bì zuǐ!|Drž hubu!
+我 正 想 给 你 打电话 。|Wǒ zhèng xiǎng gěi nǐ dǎ diànhuà.|Práve som ti chcel zavolať.
+工作 正在 进行 。|Gōngzuò zhèngzài jìnxíng.|Práca práve prebieha.
+我 刚刚 到 。|Wǒ gānggāng dào.|Práve som prišiel.
+我 只是 累 而已 。|Wǒ zhǐshì lèi éryǐ.|Som len unavený, nič viac.
+工作 完成 了 。|Gōngzuò wánchéng le.|Práca je hotová.
+这 是 最 好 的 方式 。|Zhè shì zuì hǎo de fāngshì.|Toto je najlepší spôsob.
+我 能 做到 。|Wǒ néng zuòdào.|Dokážem to.
+爸 ， 你 在 哪儿 ？|Bà, nǐ zài nǎr?|Oci, kde si?
+你 的 声音 很 好听 。|Nǐ de shēngyīn hěn hǎotīng.|Máš veľmi pekný hlas.
+这个 音乐 很 好听 。|Zhège yīnyuè hěn hǎotīng.|Táto hudba je veľmi pekná.
+你 喜欢 什么 音乐 ？|Nǐ xǐhuan shénme yīnyuè?|Akú hudbu máš rád?
+这 是 我 第一 次 来 中国 。|Zhè shì wǒ dì yī cì lái Zhōngguó.|V Číne som prvýkrát.
+看来 要 下雨 了 。|Kànlái yào xià yǔ le.|Zdá sa, že bude pršať.
+我 只能 说 一点 中文 。|Wǒ zhǐ néng shuō yìdiǎn Zhōngwén.|Viem len trochu po čínsky.
+你 太太 好 吗 ？|Nǐ tàitai hǎo ma?|Ako sa má tvoja manželka?
+我们 下去 吧 。|Wǒmen xiàqu ba.|Poďme dole.
+绝对 不 行 。|Juéduì bù xíng.|To absolútne nie.
+我 来 处理 。|Wǒ lái chǔlǐ.|Vybavím to.
+我 的 眼睛 很 疼 。|Wǒ de yǎnjing hěn téng.|Veľmi ma bolia oči.
+我 通过 了 考试 。|Wǒ tōngguò le kǎoshì.|Urobil som skúšku.
+明天 我 有 考试 。|Míngtiān wǒ yǒu kǎoshì.|Zajtra mám skúšku.
+现在 开始 行动 ！|Xiànzài kāishǐ xíngdòng!|Začíname konať!
+你 说 啥 ？|Nǐ shuō shá?|Čo vravíš?
+我 感到 很 累 。|Wǒ gǎndào hěn lèi.|Cítim sa veľmi unavený.
+你 最近 怎么样 ？|Nǐ zuìjìn zěnmeyàng?|Ako sa v poslednej dobe máš?
+各位 ， 请 进 。|Gèwèi, qǐng jìn.|Všetci, poďte ďalej, prosím.
+这边 请 。|Zhèbiān qǐng.|Tadiaľto, prosím.
+你 在 北京 待 几 天 ？|Nǐ zài Běijīng dāi jǐ tiān?|Koľko dní zostaneš v Pekingu?
+我 的 手机 掉 了 。|Wǒ de shǒujī diào le.|Spadol mi telefón.
+你 猜 ！|Nǐ cāi!|Hádaj!
+这 使 我 很 高兴 。|Zhè shǐ wǒ hěn gāoxìng.|To ma veľmi teší.
+作为 老师 ， 他 很 好 。|Zuòwéi lǎoshī, tā hěn hǎo.|Ako učiteľ je veľmi dobrý.
+他 生 于 北京 。|Tā shēng yú Běijīng.|Narodil sa v Pekingu.
+中文 不 容易 。|Zhōngwén bù róngyì.|Čínština nie je ľahká.
+我 工作 直到 晚上 。|Wǒ gōngzuò zhídào wǎnshang.|Pracujem až do večera.
+我 求 你 了 ！|Wǒ qiú nǐ le!|Prosím ťa!
+今晚 有 比赛 吗 ？|Jīnwǎn yǒu bǐsài ma?|Je dnes večer zápas?
+像 是 要 下雨 了 。|Xiàng shì yào xià yǔ le.|Vyzerá to, že bude pršať.
+请 拉 门 。|Qǐng lā mén.|Potiahnite dvere, prosím.
+这个 更 好 吃 。|Zhège gèng hǎo chī.|Toto je ešte chutnejšie.
+我 曾 住 在 上海 。|Wǒ céng zhù zài Shànghǎi.|Kedysi som býval v Šanghaji.
+这个 人 很 有趣 。|Zhège rén hěn yǒuqù.|Tento človek je veľmi zábavný.
+就算 下雨 ， 我 也 去 。|Jiùsuàn xià yǔ, wǒ yě qù.|Aj keby pršalo, pôjdem.
+他 还 活着 。|Tā hái huózhe.|Ešte žije.
+我 会 努力 学习 。|Wǒ huì nǔlì xuéxí.|Budem sa usilovne učiť.
+你 能 帮忙 吗 ？|Nǐ néng bāngmáng ma?|Môžeš pomôcť?
+请 留下 你 的 名字 。|Qǐng liúxià nǐ de míngzi.|Nechajte tu, prosím, svoje meno.
+我 同意 。|Wǒ tóngyì.|Súhlasím.
+你 参加 吗 ？|Nǐ cānjiā ma?|Zúčastníš sa?
+我们 赢 了 ！|Wǒmen yíng le!|Vyhrali sme!
+他 不 怕 死亡 。|Tā bú pà sǐwáng.|Nebojí sa smrti.
+我 怕 狗 。|Wǒ pà gǒu.|Bojím sa psov.
+我 每 天 学 五 个 字 。|Wǒ měi tiān xué wǔ ge zì.|Každý deň sa učím päť znakov.
+上面 写 着 什么 ？|Shàngmiàn xiě zhe shénme?|Čo je tam hore napísané?
+结果 怎么样 ？|Jiéguǒ zěnmeyàng?|Aký je výsledok?
+这 是 个 好 消息 。|Zhè shì ge hǎo xiāoxi.|To je dobrá správa.
+你 的 要求 太 高 了 。|Nǐ de yāoqiú tài gāo le.|Tvoje požiadavky sú príliš vysoké.
+我 理解 你 。|Wǒ lǐjiě nǐ.|Rozumiem ti.
+我 曾经 去 过 北京 。|Wǒ céngjīng qù guo Běijīng.|Kedysi som bol v Pekingu.
+我 收到 了 你 的 微信 。|Wǒ shōudào le nǐ de wēixìn.|Dostal som tvoju správu na WeChate.
+谢谢 你 照顾 我 。|Xièxie nǐ zhàogù wǒ.|Ďakujem, že sa o mňa staráš.
+人类 需要 水 。|Rénlèi xūyào shuǐ.|Ľudstvo potrebuje vodu.
+好 主意 ！|Hǎo zhǔyi!|Dobrý nápad!
+请 保持 安静 。|Qǐng bǎochí ānjìng.|Zachovajte, prosím, ticho.
+这儿 很 安静 。|Zhèr hěn ānjìng.|Je tu veľmi ticho.
+我 把 美元 换 成 人民币 。|Wǒ bǎ měiyuán huàn chéng rénmínbì.|Zamenil som doláre za jüany.
+我 想 换 钱 。|Wǒ xiǎng huàn qián.|Chcem si zameniť peniaze.
+这 是 一百 美元 。|Zhè shì yì bǎi měiyuán.|Toto je sto dolárov.
+你 有 人民币 吗 ？|Nǐ yǒu rénmínbì ma?|Máš jüany?
+这个 问题 不 存在 。|Zhège wèntí bù cúnzài.|Tento problém neexistuje.
+晚安 ！|Wǎn'ān!|Dobrú noc!
+你 说 得 确实 对 。|Nǐ shuō de quèshí duì.|Naozaj máš pravdu.
+全部 多少 钱 ？|Quánbù duōshao qián?|Koľko to stojí spolu?
+我 靠 你 了 。|Wǒ kào nǐ le.|Spolieham sa na teba.
+你 在 这儿 呆 着 。|Nǐ zài zhèr dāi zhe.|Zostaň tu.
+我 六 点 起 。|Wǒ liù diǎn qǐ.|Vstávam o šiestej.
+我 讨厌 下雨 。|Wǒ tǎoyàn xià yǔ.|Neznášam dážď.
+你们 俩 去 哪儿 ？|Nǐmen liǎ qù nǎr?|Kam vy dvaja idete?
+突然 下雨 了 。|Tūrán xià yǔ le.|Zrazu začalo pršať.
+要 多久 ？|Yào duō jiǔ?|Ako dlho to potrvá?
+我 老婆 在 家 。|Wǒ lǎopo zài jiā.|Moja žena je doma.
+我 不再 喝 酒 了 。|Wǒ bú zài hē jiǔ le.|Už nepijem alkohol.
+你 喝 酒 吗 ？|Nǐ hē jiǔ ma?|Piješ alkohol?
+任何 人 都 可以 来 。|Rènhé rén dōu kěyǐ lái.|Môže prísť hocikto.
+别 开玩笑 ！|Bié kāi wánxiào!|Nežartuj!
+G f3|Top 1000 · 3: rozhovor a život|🗣️|freq
+把 行李 放在 这儿 。|Bǎ xíngli fàng zài zhèr.|Polož batožinu sem.
+请 进入 房间 。|Qǐng jìnrù fángjiān.|Vstúpte do izby, prosím.
+我 父母 在 斯洛伐克 。|Wǒ fùmǔ zài Sīluòfákè.|Moji rodičia sú na Slovensku.
+他 是 美国 总统 。|Tā shì Měiguó zǒngtǒng.|Je to americký prezident.
+我 不 想 伤害 你 。|Wǒ bù xiǎng shānghài nǐ.|Nechcem ti ublížiť.
+请 回答 我 。|Qǐng huídá wǒ.|Odpovedz mi, prosím.
+这 位 老师 很 好 。|Zhè wèi lǎoshī hěn hǎo.|Tento učiteľ je veľmi dobrý.
+我们 三 个 人 。|Wǒmen sān ge rén.|Sme traja.
+所有 人 都 知道 。|Suǒyǒu rén dōu zhīdào.|Vedia to všetci.
+你 早 ！|Nǐ zǎo!|Dobré ráno!
+除了 他 ， 我们 都 来 了 。|Chúle tā, wǒmen dōu lái le.|Prišli sme všetci okrem neho.
+他们 派 我 来 。|Tāmen pài wǒ lái.|Poslali ma sem.
+咱们 走 吧 。|Zánmen zǒu ba.|Poďme.
+我 想要 自由 。|Wǒ xiǎng yào zìyóu.|Chcem slobodu.
+这 只 狗 真 可爱 ！|Zhè zhī gǒu zhēn kě'ài!|Tento pes je naozaj roztomilý!
+抓住 我 的 手 ！|Zhuāzhù wǒ de shǒu!|Chyť ma za ruku!
+这 条 路 对 吗 ？|Zhè tiáo lù duì ma?|Je to správna cesta?
+我 买 了 一 条 鱼 。|Wǒ mǎi le yì tiáo yú.|Kúpil som si rybu.
+我 想 跟 你 谈 一下 。|Wǒ xiǎng gēn nǐ tán yíxià.|Chcem sa s tebou porozprávať.
+这 很 简单 。|Zhè hěn jiǎndān.|To je veľmi jednoduché.
+我 能够 听 懂 一点 。|Wǒ nénggòu tīng dǒng yìdiǎn.|Trochu dokážem rozumieť.
+昨晚 我 睡 得 很 好 。|Zuówǎn wǒ shuì de hěn hǎo.|Včera v noci som spal veľmi dobre.
+他 跳 得 很 高 。|Tā tiào de hěn gāo.|Skáče veľmi vysoko.
+这 是 我 的 秘密 。|Zhè shì wǒ de mìmì.|Toto je moje tajomstvo.
+我 不 喜欢 战争 。|Wǒ bù xǐhuan zhànzhēng.|Nemám rád vojnu.
+我 有 三 个 朋友 ， 其中 一 个 在 北京 。|Wǒ yǒu sān ge péngyou, qízhōng yí ge zài Běijīng.|Mám troch priateľov, jeden z nich je v Pekingu.
+三 天 内 可以 到 吗 ？|Sān tiān nèi kěyǐ dào ma?|Dostane sa to tam do troch dní?
+我们 之间 没有 问题 。|Wǒmen zhījiān méiyǒu wèntí.|Medzi nami nie je problém.
+大概 要 半 个 小时 。|Dàgài yào bàn ge xiǎoshí.|Potrvá to približne pol hodiny.
+我 控制 不 了 。|Wǒ kòngzhì bu liǎo.|Nedokážem to ovládať.
+我 刚 吃 完 。|Wǒ gāng chī wán.|Práve som dojedol.
+那个 小孩 很 可爱 。|Nàge xiǎohái hěn kě'ài.|To dieťa je veľmi roztomilé.
+你 带来 了 吗 ？|Nǐ dài lái le ma?|Priniesol si to?
+请 停止 。|Qǐng tíngzhǐ.|Prestaňte, prosím.
+今天 下雨 ， 因此 我 不 出去 。|Jīntiān xià yǔ, yīncǐ wǒ bù chūqu.|Dnes prší, preto nejdem von.
+我 花 了 很 多 钱 。|Wǒ huā le hěn duō qián.|Minul som veľa peňazí.
+这 花 很 漂亮 。|Zhè huā hěn piàoliang.|Tento kvet je veľmi pekný.
+你 能 证明 吗 ？|Nǐ néng zhèngmíng ma?|Môžeš to dokázať?
+我 替 你 去 。|Wǒ tì nǐ qù.|Pôjdem namiesto teba.
+请 解释 一下 。|Qǐng jiěshì yíxià.|Vysvetlite to, prosím.
+我 终于 到 了 ！|Wǒ zhōngyú dào le!|Konečne som tu!
+耶 ， 我们 赢 了 ！|Yē, wǒmen yíng le!|Jéj, vyhrali sme!
+警察 正在 调查 。|Jǐngchá zhèngzài diàochá.|Polícia to práve vyšetruje.
+你 为何 不 来 ？|Nǐ wèihé bù lái?|Prečo neprídeš?
+我 留 在 这儿 。|Wǒ liú zài zhèr.|Zostanem tu.
+请 留 步 。|Qǐng liú bù.|Nemusíte ma odprevádzať.
+我们 走 了 很 多 步 。|Wǒmen zǒu le hěn duō bù.|Prešli sme veľa krokov.
+糟糕 ！ 我 忘 了 。|Zāogāo! Wǒ wàng le.|Do čerta! Zabudol som.
+这 是 你 的 任务 。|Zhè shì nǐ de rènwu.|Toto je tvoja úloha.
+你 有 武器 吗 ？|Nǐ yǒu wǔqì ma?|Máš zbraň?
+我 家里 有 三 个 人 。|Wǒ jiā lǐ yǒu sān ge rén.|Doma sme traja.
+我 的 头 很 疼 。|Wǒ de tóu hěn téng.|Veľmi ma bolí hlava.
+这 小子 真 好 ！|Zhè xiǎozi zhēn hǎo!|Ten chalan je super!
+欢迎 来到 中国 ！|Huānyíng láidào Zhōngguó!|Vitajte v Číne!
+问题 解决 了 。|Wèntí jiějué le.|Problém je vyriešený.
+其他 人 呢 ？|Qítā rén ne?|A čo ostatní?
+我 想 我 的 家人 。|Wǒ xiǎng wǒ de jiārén.|Chýba mi rodina.
+请 坐下 。|Qǐng zuòxià.|Sadnite si, prosím.
+我们 直接 去 酒店 。|Wǒmen zhíjiē qù jiǔdiàn.|Pôjdeme priamo do hotela.
+老师 在 办公室 。|Lǎoshī zài bàngōngshì.|Učiteľ je v kancelárii.
+别 放弃 ！|Bié fàngqì!|Nevzdávaj sa!
+这儿 有 鬼 ！|Zhèr yǒu guǐ!|Je tu duch!
+加油 ！ 你 可以 的 ！|Jiā yóu! Nǐ kěyǐ de!|Do toho! Zvládneš to!
+这个 方法 很 好 。|Zhège fāngfǎ hěn hǎo.|Táto metóda je veľmi dobrá.
+我们 玩 游戏 吧 。|Wǒmen wán yóuxì ba.|Poďme si zahrať hru.
+即使 很 贵 ， 我 也 买 。|Jíshǐ hěn guì, wǒ yě mǎi.|Aj keby to bolo veľmi drahé, kúpim to.
+你 看起来 很 年轻 。|Nǐ kàn qǐlai hěn niánqīng.|Vyzeráš veľmi mlado.
+大人 多少 钱 ？|Dàren duōshao qián?|Koľko stojí lístok pre dospelého?
+这里 可以 使用 微信 吗 ？|Zhèlǐ kěyǐ shǐyòng wēixìn ma?|Môžem tu použiť WeChat?
+老板 ， 买单 ！|Lǎobǎn, mǎidān!|Šéfe, účet, prosím!
+让 我 想想 。|Ràng wǒ xiǎngxiang.|Nechaj ma rozmýšľať.
+我 想 坐 在 这儿 。|Wǒ xiǎng zuò zài zhèr.|Chcem si sadnúť sem.
+我 的 目标 是 说 中文 。|Wǒ de mùbiāo shì shuō Zhōngwén.|Mojím cieľom je hovoriť po čínsky.
+天气 变得 很 冷 。|Tiānqì biàn de hěn lěng.|Počasie sa veľmi ochladilo.
+这 真 可怕 ！|Zhè zhēn kěpà!|To je naozaj strašné!
+我 拿到 票 了 。|Wǒ nádào piào le.|Mám lístky.
+我 考虑 一下 。|Wǒ kǎolǜ yíxià.|Zvážim to.
+这 是 我 个人 的 想法 。|Zhè shì wǒ gèrén de xiǎngfǎ.|Toto je môj osobný názor.
+别 开枪 ！|Bié kāi qiāng!|Nestrieľaj!
+我 没 想到 ！|Wǒ méi xiǎngdào!|To ma nenapadlo!
+请 等待 。|Qǐng děngdài.|Čakajte, prosím.
+再说 吧 。|Zàishuō ba.|Uvidíme neskôr.
+你 真 聪明 ！|Nǐ zhēn cōngming!|Si naozaj šikovný!
+这个 姑娘 很 漂亮 。|Zhège gūniang hěn piàoliang.|Toto dievča je veľmi pekné.
+地球 很 大 。|Dìqiú hěn dà.|Zem je veľmi veľká.
+非常 感谢 ！|Fēicháng gǎnxiè!|Veľká vďaka!
+这 是 命令 ！|Zhè shì mìnglìng!|To je rozkaz!
+别 阻止 我 。|Bié zǔzhǐ wǒ.|Nebráň mi.
+他 突然 消失 了 。|Tā tūrán xiāoshī le.|Zrazu zmizol.
+我 的 心 很 累 。|Wǒ de xīn hěn lèi.|Moje srdce je unavené.
+我 住 在 第 三 楼 。|Wǒ zhù zài dì sān lóu.|Bývam na treťom poschodí.
+冷静 一点 ！|Lěngjìng yìdiǎn!|Upokoj sa!
+他 似乎 很 累 。|Tā sìhū hěn lèi.|Zdá sa, že je veľmi unavený.
+我们 微信 联系 。|Wǒmen wēixìn liánxì.|Budeme v kontakte cez WeChat.
+我 的 家庭 很 大 。|Wǒ de jiātíng hěn dà.|Moja rodina je veľmi veľká.
+这 很 痛苦 。|Zhè hěn tòngkǔ.|To veľmi bolí.
+上海 是 一 个 大 城市 。|Shànghǎi shì yí ge dà chéngshì.|Šanghaj je veľké mesto.
+我 没有 力量 了 。|Wǒ méiyǒu lìliang le.|Už nemám silu.
+对于 我 ， 这 很 重要 。|Duìyú wǒ, zhè hěn zhòngyào.|Pre mňa je to veľmi dôležité.
+我 不 知道 未来 。|Wǒ bù zhīdào wèilái.|Neviem, čo prinesie budúcnosť.
+那个 男孩 是 谁 ？|Nàge nánhái shì shéi?|Kto je ten chlapec?
+他 是 博士 。|Tā shì bóshì.|Má doktorát.
+这 太 疯狂 了 ！|Zhè tài fēngkuáng le!|To je úplne šialené!
+我 要 写 报告 。|Wǒ yào xiě bàogào.|Musím napísať správu.
+把 行李 放下 吧 。|Bǎ xíngli fàngxià ba.|Polož batožinu.
+那 天 我 不 在 。|Nà tiān wǒ bú zài.|V ten deň som tam nebol.
+你 真 完美 。|Nǐ zhēn wánměi.|Si dokonalý.
+你 答应 我 了 。|Nǐ dāying wǒ le.|Sľúbil si mi to.
+你 有 证据 吗 ？|Nǐ yǒu zhèngjù ma?|Máš dôkazy?
+我 本来 不 想 去 。|Wǒ běnlái bù xiǎng qù.|Pôvodne som ísť nechcel.
+这 件 事 我 负责 。|Zhè jiàn shì wǒ fùzé.|Za túto vec zodpovedám ja.
+我 要 检查 一下 。|Wǒ yào jiǎnchá yíxià.|Musím to skontrolovať.
+你 真 厉害 ！|Nǐ zhēn lìhai!|Si fakt dobrý!
+他 拥有 很 多 钱 。|Tā yōngyǒu hěn duō qián.|Vlastní veľa peňazí.
+这 很 正常 。|Zhè hěn zhèngcháng.|To je úplne normálne.
+他 很 高 ， 并且 很 聪明 。|Tā hěn gāo, bìngqiě hěn cōngming.|Je vysoký a tiež veľmi múdry.
+快 走 ， 否则 会 晚 。|Kuài zǒu, fǒuzé huì wǎn.|Ponáhľaj sa, inak budeš meškať.
+北京 、 上海 以及 香港|Běijīng, Shànghǎi yǐjí Xiānggǎng|Peking, Šanghaj a tiež Hongkong
+我 想 去 香港 。|Wǒ xiǎng qù Xiānggǎng.|Chcem ísť do Hongkongu.
+我们 重新 开始 吧 。|Wǒmen chóngxīn kāishǐ ba.|Začnime odznova.
+我 忘记 了 他 的 名字 。|Wǒ wàngjì le tā de míngzi.|Zabudol som jeho meno.
+这 位 是 我 的 朋友 。|Zhè wèi shì wǒ de péngyou.|Toto je môj priateľ.
+他 在 研究 中国 。|Tā zài yánjiū Zhōngguó.|Skúma Čínu.
+附近 有 地铁站 吗 ？|Fùjìn yǒu dìtiězhàn ma?|Je v okolí stanica metra?
+快 走 吧 ， 不然 就 晚 了 。|Kuài zǒu ba, bùrán jiù wǎn le.|Ponáhľaj sa, inak bude neskoro.
+太棒了 ！ 我们 赢 了 ！|Tài bàng le! Wǒmen yíng le!|Super! Vyhrali sme!
+你 很 棒 ！|Nǐ hěn bàng!|Si skvelý!
+你 的 脸 很 红 。|Nǐ de liǎn hěn hóng.|Máš veľmi červenú tvár.
+他 是 一 位 学者 。|Tā shì yí wèi xuézhě.|Je to učenec.
+这 位 学者 很 有名 。|Zhè wèi xuézhě hěn yǒumíng.|Tento učenec je veľmi známy.
+这个 地方 很 有名 。|Zhège dìfang hěn yǒumíng.|Toto miesto je veľmi známe.
+你 想 加入 吗 ？|Nǐ xiǎng jiārù ma?|Chceš sa pridať?
+我 不 会 唱 。|Wǒ bú huì chàng.|Neviem spievať.
+反正 我 没 事 。|Fǎnzhèng wǒ méi shì.|Aj tak nemám čo robiť.
+不 该 这样 说 。|Bù gāi zhèyàng shuō.|Takto sa to nemá hovoriť.
+政府 在 北京 。|Zhèngfǔ zài Běijīng.|Vláda je v Pekingu.
+我 在 你 身边 。|Wǒ zài nǐ shēnbiān.|Som pri tebe.
+我 遇到 了 老 朋友 。|Wǒ yùdào le lǎo péngyou.|Stretol som starého priateľa.
+长城 真 伟大 ！|Chángchéng zhēn wěidà!|Veľký múr je naozaj veľkolepý!
+我 去 机场 接 你 。|Wǒ qù jīchǎng jiē nǐ.|Pôjdem po teba na letisko.
+他 仍然 不 知道 。|Tā réngrán bù zhīdào.|Stále to nevie.
+你 会 开车 吗 ？|Nǐ huì kāichē ma?|Vieš šoférovať?
+这 代表 什么 ？|Zhè dàibiǎo shénme?|Čo to znamená?
+我 陪 你 去 。|Wǒ péi nǐ qù.|Pôjdem s tebou.
+若 有 问题 ， 请 问 我 。|Ruò yǒu wèntí, qǐng wèn wǒ.|Ak máš otázky, spýtaj sa ma.
+警察 发现 了 一 具 尸体 。|Jǐngchá fāxiàn le yí jù shītǐ.|Polícia našla mŕtvolu.
+那儿 有 一 具 尸体 ！|Nàr yǒu yí jù shītǐ!|Je tam mŕtvola!
+这个 比较 便宜 。|Zhège bǐjiào piányi.|Tento je pomerne lacný.
+我 学 了 一 年 中文 。|Wǒ xué le yì nián Zhōngwén.|Učil som sa čínštinu jeden rok.
+别 紧张 。|Bié jǐnzhāng.|Nebuď nervózny.
+他 在 监狱 里 。|Tā zài jiānyù lǐ.|Je vo väzení.
+这 是 我 的 位置 。|Zhè shì wǒ de wèizhi.|Toto je moje miesto.
+随便 ， 你 选 吧 。|Suíbiàn, nǐ xuǎn ba.|Ako chceš, vyber si.
+你 选 这个 吧 。|Nǐ xuǎn zhège ba.|Vyber si tento.
+有人 偷 了 我 的 钱包 ！|Yǒu rén tōu le wǒ de qiánbāo!|Niekto mi ukradol peňaženku!
+你 今天 有 什么 安排 ？|Nǐ jīntiān yǒu shénme ānpái?|Aký máš dnes program?
+表演 几 点 开始 ？|Biǎoyǎn jǐ diǎn kāishǐ?|O koľkej začína predstavenie?
+我 从 没 喝 过 中国 茶 。|Wǒ cóng méi hē guo Zhōngguó chá.|Nikdy som nepil čínsky čaj.
+我 不 去 ， 除非 你 也 去 。|Wǒ bú qù, chúfēi nǐ yě qù.|Nepôjdem, ibaže by si šiel aj ty.
+老兄 ， 好 久 不 见 ！|Lǎoxiōng, hǎo jiǔ bú jiàn!|Kamoš, dlho sme sa nevideli!
+好 久 不 见 ！|Hǎo jiǔ bú jiàn!|Dlho sme sa nevideli!
+我 支持 你 。|Wǒ zhīchí nǐ.|Podporujem ťa.
+没有 必要 。|Méiyǒu bìyào.|Nie je to nutné.
+这 就是 人生 。|Zhè jiù shì rénshēng.|Taký je život.
+这个 回答 正确 。|Zhège huídá zhèngquè.|Táto odpoveď je správna.
+跟着 我 走 。|Gēnzhe wǒ zǒu.|Poď za mnou.
+杀 死 他 ！|Shā sǐ tā!|Zabite ho!
+把 这个 交给 他 。|Bǎ zhège jiāo gěi tā.|Odovzdaj mu toto.
+我 的 叔叔 住 在 北京 。|Wǒ de shūshu zhù zài Běijīng.|Môj strýko býva v Pekingu.
+中国 食物 很 好吃 。|Zhōngguó shíwù hěn hǎochī.|Čínske jedlo je veľmi chutné.
+这 是 事实 。|Zhè shì shìshí.|To je fakt.
+这 简直 太好了 ！|Zhè jiǎnzhí tài hǎo le!|To je priam výborné!
+酒店 离 这儿 远 吗 ？|Jiǔdiàn lí zhèr yuǎn ma?|Je hotel odtiaľto ďaleko?
+今晚 有 一 场 比赛 。|Jīnwǎn yǒu yì chǎng bǐsài.|Dnes večer je zápas.
+我们 看 了 一 场 电影 。|Wǒmen kàn le yì chǎng diànyǐng.|Pozreli sme si film.
+这个 城市 很 美丽 。|Zhège chéngshì hěn měilì.|Toto mesto je veľmi krásne.
+再次 感谢 你 。|Zàicì gǎnxiè nǐ.|Ešte raz ti ďakujem.
+这个 案子 很 奇怪 。|Zhège ànzi hěn qíguài.|Tento prípad je veľmi zvláštny.
+不 够 。|Bú gòu.|Nestačí to.
+哈 哈 ， 太 有意思 了 ！|Hā hā, tài yǒu yìsi le!|Haha, to je veľmi zábavné!
+他 真 可怜 。|Tā zhēn kělián.|Je naozaj úbohý.
+你 能 教 我 中文 吗 ？|Nǐ néng jiāo wǒ Zhōngwén ma?|Môžeš ma učiť po čínsky?
+G f4|Top 1000 · 4: dokončenie tisícky|🏆|freq
+首先 ， 我们 去 酒店 。|Shǒuxiān, wǒmen qù jiǔdiàn.|Najprv pôjdeme do hotela.
+另外 ， 我 还 要 一 杯 茶 。|Lìngwài, wǒ hái yào yì bēi chá.|Okrem toho si dám ešte šálku čaju.
+酒店 提供 早饭 吗 ？|Jiǔdiàn tígōng zǎofàn ma?|Poskytuje hotel raňajky?
+记住 ， 别 喝 这个 水 。|Jìzhù, bié hē zhège shuǐ.|Zapamätaj si, nepi túto vodu.
+我 听见 了 。|Wǒ tīngjiàn le.|Počul som.
+我 不 信 。|Wǒ bú xìn.|Neverím.
+我 给 他 写 了 一 封 信 。|Wǒ gěi tā xiě le yì fēng xìn.|Napísal som mu list.
+这 封 信 是 谁 的 ？|Zhè fēng xìn shì shéi de?|Čí je tento list?
+国王 住 在 这儿 。|Guówáng zhù zài zhèr.|Býva tu kráľ.
+他 就 在 你 面前 。|Tā jiù zài nǐ miànqián.|Je priamo pred tebou.
+我 几乎 忘 了 。|Wǒ jīhū wàng le.|Takmer som zabudol.
+今天 是 个 好 日子 。|Jīntiān shì ge hǎo rìzi.|Dnes je dobrý deň.
+我 再也 不 喝 酒 了 。|Wǒ zài yě bù hē jiǔ le.|Už nikdy nebudem piť.
+我 早就 知道 了 。|Wǒ zǎo jiù zhīdào le.|Už dávno to viem.
+别 逼 我 。|Bié bī wǒ.|Nenúť ma.
+这 跟 你 有关 。|Zhè gēn nǐ yǒuguān.|To súvisí s tebou.
+放开 我 ！|Fàngkāi wǒ!|Pusti ma!
+我 给 你 发 信息 。|Wǒ gěi nǐ fā xìnxī.|Pošlem ti správu.
+请 发 给 我 。|Qǐng fā gěi wǒ.|Pošlite mi to, prosím.
+我 不得不 走 。|Wǒ bùdébù zǒu.|Musím odísť.
+我 发誓 ！|Wǒ fāshì!|Prisahám!
+我 的 钥匙 不 见 了 。|Wǒ de yàoshi bú jiàn le.|Stratil som kľúč.
+这 是 我 的 错误 。|Zhè shì wǒ de cuòwù.|To je moja chyba.
+放松 一点 。|Fàngsōng yìdiǎn.|Uvoľni sa.
+今晚 我 有 约会 。|Jīnwǎn wǒ yǒu yuēhuì.|Dnes večer mám rande.
+我们 坐 船 去 吧 。|Wǒmen zuò chuán qù ba.|Poďme loďou.
+对不起 ， 打扰 了 。|Duìbuqǐ, dǎrǎo le.|Prepáčte, že ruším.
+这 是 女 厕所 。|Zhè shì nǚ cèsuǒ.|Toto je dámska toaleta.
+男 厕所 在 哪儿 ？|Nán cèsuǒ zài nǎr?|Kde je pánska toaleta?
+我 住 在 二 楼 。|Wǒ zhù zài èr lóu.|Bývam na druhom poschodí.
+这个 房间 很 大 。|Zhège fángjiān hěn dà.|Táto izba je veľmi veľká.
+到处 都 是 人 。|Dàochù dōu shì rén.|Všade sú ľudia.
+他 攻击 了 我 。|Tā gōngjī le wǒ.|Napadol ma.
+我 要 一 份 鸡蛋 。|Wǒ yào yí fèn jīdàn.|Chcem porciu vajec.
+请 给 我 一 份 菜单 。|Qǐng gěi wǒ yí fèn càidān.|Prineste mi, prosím, jedálny lístok.
+你 有 什么 建议 ？|Nǐ yǒu shénme jiànyì?|Čo navrhuješ?
+你 去 过 日本 吗 ？|Nǐ qù guo Rìběn ma?|Bol si v Japonsku?
+这 不 是 理由 。|Zhè bú shì lǐyóu.|To nie je dôvod.
+事实上 ， 我 不 知道 。|Shìshí shang, wǒ bù zhīdào.|V skutočnosti to neviem.
+你 会 跳舞 吗 ？|Nǐ huì tiàowǔ ma?|Vieš tancovať?
+别 生气 。|Bié shēngqì.|Nehnevaj sa.
+我 可以 试试 吗 ？|Wǒ kěyǐ shìshi ma?|Môžem to skúsiť?
+我 信任 他 。|Wǒ xìnrèn tā.|Dôverujem mu.
+此 门 不 开 。|Cǐ mén bù kāi.|Tieto dvere sa neotvárajú.
+你 看 过 这个 电影 吗 ？|Nǐ kàn guo zhège diànyǐng ma?|Videl si tento film?
+这 两 个 差不多 。|Zhè liǎng ge chàbuduō.|Tieto dva sú skoro rovnaké.
+请 原谅 我 。|Qǐng yuánliàng wǒ.|Odpusť mi, prosím.
+你 信 神 吗 ？|Nǐ xìn shén ma?|Veríš v Boha?
+我 经常 去 那儿 。|Wǒ jīngcháng qù nàr.|Často tam chodím.
+这个 菜 的确 好吃 。|Zhège cài díquè hǎochī.|Toto jedlo je skutočne chutné.
+这 是 我 最 喜欢 的 菜 之一 。|Zhè shì wǒ zuì xǐhuan de cài zhī yī.|Toto je jedno z mojich najobľúbenejších jedál.
+祝 你 幸福 ！|Zhù nǐ xìngfú!|Prajem ti šťastie!
+哎 ， 你 等等 ！|Āi, nǐ děngdeng!|Hej, počkaj!
+他 吃 完 便 走 了 。|Tā chī wán biàn zǒu le.|Dojedol a hneď odišiel.
+我 想 骑 马 。|Wǒ xiǎng qí mǎ.|Chcem sa viezť na koni.
+你 会 骑 车 吗 ？|Nǐ huì qí chē ma?|Vieš jazdiť na bicykli?
+算 了 ！|Suàn le!|Nechaj to tak!
+这 正是 我 想要 的 。|Zhè zhèng shì wǒ xiǎng yào de.|To je presne to, čo chcem.
+不必 担心 。|Búbì dānxīn.|Netreba sa obávať.
+别 担心 。|Bié dānxīn.|Neboj sa.
+这 是 中国 最大 的 城市 。|Zhè shì Zhōngguó zuì dà de chéngshì.|Toto je najväčšie mesto v Číne.
+我 真 幸运 。|Wǒ zhēn xìngyùn.|Mám naozaj šťastie.
+我 把 手机 丢 了 。|Wǒ bǎ shǒujī diū le.|Stratil som telefón.
+我 家 在 斯洛伐克 。|Wǒ jiā zài Sīluòfákè.|Môj domov je na Slovensku.
+他 不 是 老师 ， 而是 学生 。|Tā bú shì lǎoshī, ér shì xuésheng.|Nie je učiteľ, ale študent.
+住手 ！|Zhù shǒu!|Prestaň!
+你 喜欢 什么 动物 ？|Nǐ xǐhuan shénme dòngwù?|Aké zvieratá máš rád?
+我 向 你 道歉 。|Wǒ xiàng nǐ dàoqiàn.|Ospravedlňujem sa ti.
+这个 问题 很 严重 。|Zhège wèntí hěn yánzhòng.|Tento problém je veľmi vážny.
+你 看 人家 ！|Nǐ kàn rénjia!|Pozri sa na iných!
+坚持 一下 ！|Jiānchí yíxià!|Vydrž ešte chvíľu!
+我 无法 想象 。|Wǒ wúfǎ xiǎngxiàng.|Neviem si to predstaviť.
+请 按 这个 。|Qǐng àn zhège.|Stlačte toto, prosím.
+这 是 给 你 的 礼物 。|Zhè shì gěi nǐ de lǐwù.|Toto je darček pre teba.
+每次 来 ， 我 都 很 高兴 。|Měi cì lái, wǒ dōu hěn gāoxìng.|Zakaždým, keď prídem, sa veľmi teším.
+他 是 一 位 将军 。|Tā shì yí wèi jiāngjūn.|Je to generál.
+还 剩下 多少 钱 ？|Hái shèngxià duōshao qián?|Koľko peňazí ešte zostáva?
+有 事 吗 ？|Yǒu shì ma?|Potrebuješ niečo?
+我 老爸 喜欢 喝 茶 。|Wǒ lǎobà xǐhuan hē chá.|Môj otec rád pije čaj.
+系统 坏 了 。|Xìtǒng huài le.|Systém je pokazený.
+我们 全都 来 了 。|Wǒmen quán dōu lái le.|Prišli sme všetci.
+这 是 一 个 大 组织 。|Zhè shì yí ge dà zǔzhī.|Toto je veľká organizácia.
+他 不 是 我 的 敌人 。|Tā bú shì wǒ de dírén.|Nie je môj nepriateľ.
+这个 菜 看上去 很 好吃 。|Zhège cài kàn shàngqu hěn hǎochī.|Toto jedlo vyzerá veľmi chutne.
+老天 ！|Lǎotiān!|Preboha!
+他 学习 很 认真 。|Tā xuéxí hěn rènzhēn.|Učí sa veľmi poctivo.
+谢谢 你 的 关心 。|Xièxie nǐ de guānxīn.|Ďakujem za tvoj záujem.
+别 骗 我 ！|Bié piàn wǒ!|Neklam ma!
+最近 生意 好 吗 ？|Zuìjìn shēngyi hǎo ma?|Ako v poslednej dobe ide biznis?
+我们 上去 吧 。|Wǒmen shàngqu ba.|Poďme hore.
+这儿 值得 去 。|Zhèr zhíde qù.|Stojí za to ísť sem.
+搞定 了 ！|Gǎodìng le!|Je to vybavené!
+我 在 寻找 我 的 朋友 。|Wǒ zài xúnzhǎo wǒ de péngyou.|Hľadám svojho priateľa.
+今晚 有 派对 。|Jīnwǎn yǒu pàiduì.|Dnes večer je párty.
+许多 人 喜欢 喝 茶 。|Xǔduō rén xǐhuan hē chá.|Veľa ľudí má rado čaj.
+下次 见 ！|Xià cì jiàn!|Nabudúce sa uvidíme!
+请 通知 他 。|Qǐng tōngzhī tā.|Oznámte mu to, prosím.
+救命 ！|Jiùmìng!|Pomoc!
+你 今天 表现 很 好 。|Nǐ jīntiān biǎoxiàn hěn hǎo.|Dnes si si počínal veľmi dobre.
+他 只是 利用 你 。|Tā zhǐshì lìyòng nǐ.|Iba ťa využíva.
+你 受伤 了 吗 ？|Nǐ shòushāng le ma?|Zranil si sa?
+后来 怎么样 了 ？|Hòulái zěnmeyàng le?|Čo bolo potom?
+早上 好 ， 老师 ！|Zǎoshang hǎo, lǎoshī!|Dobré ráno, pán učiteľ!
+你 今天 很 有 精神 。|Nǐ jīntiān hěn yǒu jīngshen.|Dnes máš veľa energie.
+他 居然 会 说 中文 ！|Tā jūrán huì shuō Zhōngwén!|On prekvapivo vie po čínsky!
+我 受到 了 很 好 的 照顾 。|Wǒ shòudào le hěn hǎo de zhàogù.|Dostalo sa mi veľmi dobrej starostlivosti.
+你 在 哪 个 大学 学习 ？|Nǐ zài nǎ ge dàxué xuéxí?|Na ktorej univerzite študuješ?
+那时 我 还 小 。|Nàshí wǒ hái xiǎo.|Vtedy som bol ešte malý.
+既然 你 来 了 ， 就 坐 吧 。|Jìrán nǐ lái le, jiù zuò ba.|Keď už si tu, sadni si.
+我 在 这儿 待 几 天 。|Wǒ zài zhèr dāi jǐ tiān.|Zostanem tu niekoľko dní.
+有时 我 喝 茶 ， 有时 喝 咖啡 。|Yǒushí wǒ hē chá, yǒushí hē kāfēi.|Niekedy pijem čaj, niekedy kávu.
+我 要 买 米 。|Wǒ yào mǎi mǐ.|Chcem kúpiť ryžu.
+你 总 不 听 我 的 。|Nǐ zǒng bù tīng wǒ de.|Stále ma nepočúvaš.
+请 给 我 一 张 票 。|Qǐng gěi wǒ yì zhāng piào.|Dajte mi, prosím, jeden lístok.
+这 是 我 的 第一 个 中国 朋友 。|Zhè shì wǒ de dì yī ge Zhōngguó péngyou.|Toto je môj prvý čínsky priateľ.
+告诉 我 真相 。|Gàosu wǒ zhēnxiàng.|Povedz mi pravdu.
+我 不 恨 你 。|Wǒ bú hèn nǐ.|Nenechovám k tebe nenávisť.
+我 可以 用 这 张 卡 吗 ？|Wǒ kěyǐ yòng zhè zhāng kǎ ma?|Môžem použiť túto kartu?
+我 不 知道 他 在 哪儿 。|Wǒ bù zhīdào tā zài nǎr.|Neviem, kde je.
+警官 ， 我 的 护照 丢 了 。|Jǐngguān, wǒ de hùzhào diū le.|Pán policajt, stratil som pas.
+这个 属于 我 。|Zhège shǔyú wǒ.|Toto patrí mne.
+可 不 是 ！|Kě bú shì!|Presne tak!
+别 怪 我 。|Bié guài wǒ.|Neobviňuj ma.
+他 是 一 名 医生 。|Tā shì yì míng yīshēng.|Je lekár.
+我们 有 十 名 学生 。|Wǒmen yǒu shí míng xuésheng.|Máme desať študentov.
+我 怀疑 他 。|Wǒ huáiyí tā.|Podozrievam ho.
+战斗 开始 了 。|Zhàndòu kāishǐ le.|Boj sa začal.
+我 承认 ， 我 错 了 。|Wǒ chéngrèn, wǒ cuò le.|Priznávam, pomýlil som sa.
+这 是 法律 。|Zhè shì fǎlǜ.|Tak káže zákon.
+别 说 了 ！|Bié shuō le!|Prestaň hovoriť!
+我 要 看 记录 。|Wǒ yào kàn jìlù.|Chcem vidieť záznam.
+我们 明天 见面 吧 。|Wǒmen míngtiān jiànmiàn ba.|Stretnime sa zajtra.
+你 很 有 能力 。|Nǐ hěn yǒu nénglì.|Si veľmi schopný.
+我 有 足够 的 钱 。|Wǒ yǒu zúgòu de qián.|Mám dosť peňazí.
+瞧 ！ 那 是 什么 ？|Qiáo! Nà shì shénme?|Pozri! Čo je to?
+我 同样 喜欢 。|Wǒ tóngyàng xǐhuan.|Mám to rád rovnako.
+他 拒绝 了 我 。|Tā jùjué le wǒ.|Odmietol ma.
 G x1|Slang (pozor, vulgárne!)|🤬|trip
 操 ！|Cào!|Ku*va! (doslova „jebať“)
 我操 ！|Wǒ cào!|Do riti! / Čo to, do pr*ele?!
+他妈的 ！|Tāmāde!|Do riti!
+该死 ！|Gāisǐ!|Sakra!
+你 这个 混蛋 ！|Nǐ zhège hùndàn!|Ty hajzel!
+你 真是 个 笨蛋 。|Nǐ zhēn shì ge bèndàn.|Si naozaj hlupák.
+别 像 个 白痴 。|Bié xiàng ge báichī.|Nerob zo seba idiota.
+我 的 屁股 很 疼 。|Wǒ de pìgu hěn téng.|Veľmi ma bolí zadok.
