@@ -1,1092 +1,1092 @@
-你好|nǐ hǎo|ahoj
-老师|lǎoshī|učiteľ
-好|hǎo|dobrý; dobre
-大家|dàjiā|všetci
-早上|zǎoshang|ráno
-下午|xiàwǔ|popoludnie
-欢迎|huānyíng|vitajte
-上课|shàng kè|začať hodinu
-下课|xià kè|skončiť hodinu
-打开|dǎkāi|otvoriť
-书|shū|kniha
-我|wǒ|ja
-说|shuō|hovoriť
-你们|nǐmen|vy
-听|tīng|počúvať
-看|kàn|pozerať; čítať
-黑板|hēibǎn|tabuľa
-对|duì|správny
-不|bù|nie
-很|hěn|veľmi
-请|qǐng|prosím; pozvať
-跟|gēn|s; po (niekom)
-再|zài|znova
-一遍|yí biàn|raz (od začiatku)
-你|nǐ|ty
-懂|dǒng|rozumieť
-了|le|(zmena / hotovo)
-对不起|duìbuqǐ|prepáč
-谢谢|xièxie|ďakujem
-这|zhè|toto
-是|shì|byť
-什么|shénme|čo; aký
-这个|zhège|tento
-中文|Zhōngwén|čínština
-怎么|zěnme|ako
-意思|yìsi|význam
-告诉|gàosu|povedať (komu)
-再见|zàijiàn|dovidenia
-斯洛伐克|Sīluòfákè|Slovensko
-人|rén|človek
-来自|láizì|pochádzať z
-知道|zhīdào|vedieť
-饿|è|hladný
-吃|chī|jesť
-吗|ma|(otázka áno/nie)
-请问|qǐngwèn|prepáčte, môžem sa spýtať
-贵姓|guìxìng|vaše ctené priezvisko
-姓|xìng|mať priezvisko
-李|Lǐ|Li (priezvisko)
-呢|ne|a ty? (otázka)
-王|Wáng|Wang (priezvisko)
-小姐|xiǎojiě|slečna
-叫|jiào|volať sa
-名字|míngzi|meno
-李友|Lǐ Yǒu|Li You (meno)
-先生|xiānsheng|pán
-王朋|Wáng Péng|Wang Peng (meno)
-学生|xuésheng|študent
-也|yě|tiež
-中国|Zhōngguó|Čína
-北京|Běijīng|Peking
-美国|Měiguó|Amerika
-纽约|Niǔyuē|New York
-高文中|Gāo Wénzhōng|Gao Wenzhong (meno)
-那|nà|tamto
-的|de|(privlastnenie)
-照片|zhàopiàn|fotka
-爸爸|bàba|otec
-妈妈|māma|mama
-女孩子|nǚ háizi|dievča
-谁|shéi|kto
-她|tā|ona
-姐姐|jiějie|staršia sestra
-男孩子|nán háizi|chlapec
-弟弟|dìdi|mladší brat
-他|tā|on
-大哥|dàgē|najstarší brat
-儿子|érzi|syn
-有|yǒu|mať; je tu
-女儿|nǚ'ér|dcéra
-没有|méiyǒu|nemať; nie je
-白英爱|Bái Yīng'ài|Bai Ying'ai (meno)
-家|jiā|rodina; domov
-几|jǐ|koľko
-口|kǒu|(počítadlo členov rodiny)
-六|liù|šesť
-一|yī|jeden
-个|ge|(počítadlo)
-哥哥|gēge|starší brat
-两|liǎng|dva
-妹妹|mèimei|mladšia sestra
-和|hé|a
-五|wǔ|päť
-大姐|dàjiě|najstaršia sestra
-二姐|èrjiě|druhá sestra
-做|zuò|robiť
-工作|gōngzuò|práca
-律师|lǜshī|právnik
-英文|Yīngwén|angličtina
-都|dōu|všetci; obaja
-大学生|dàxuéshēng|vysokoškolák
-医生|yīshēng|lekár
-孩子|háizi|dieťa
-那个|nàge|tamten
-三|sān|tri
-小高|Xiǎo Gāo|Malý Gao (meno)
-他们|tāmen|oni
-四|sì|štyri
-爷爷|yéye|starý otec
-奶奶|nǎinai|stará mama
-九月|jiǔyuè|september
-十二|shí'èr|dvanásť
-号|hào|(deň v mesiaci)
-星期几|xīngqījǐ|aký deň v týždni
-星期四|xīngqīsì|štvrtok
-天|tiān|deň
-生日|shēngrì|narodeniny
-今年|jīnnián|tento rok
-多|duō|veľa; koľko
-大|dà|veľký; starý
-十八|shíbā|osemnásť
-岁|suì|rok (veku)
-吃饭|chī fàn|jesť (jedlo)
-怎么样|zěnmeyàng|čo ty na to?
-太|tài|príliš
-喜欢|xǐhuan|mať rád
-菜|cài|jedlo (kuchyňa)
-还是|háishi|alebo (v otázke)
-英国|Yīngguó|Británia
-可是|kěshì|ale
-我们|wǒmen|my
-点|diǎn|hodina (čas)
-七|qī|sedem
-半|bàn|pol
-晚上|wǎnshang|večer
-见|jiàn|vidieť (sa)
-二月|èryuè|február
-钟|zhōng|hodiny (presne)
-十一|shíyī|jedenásť
-四十|sìshí|štyridsať
-分|fēn|minúta
-零|líng|nula
-二十|èrshí|dvadsať
-八|bā|osem
-五十|wǔshí|päťdesiat
-刻|kè|štvrťhodina
-九|jiǔ|deväť
-十|shí|desať
-明天|míngtiān|zajtra
-今天|jīntiān|dnes
-三月|sānyuè|marec
-二十一|èrshíyī|dvadsaťjeden
-星期三|xīngqīsān|streda
-月|yuè|mesiac
-高|gāo|vysoký; Gao
-星期五|xīngqīwǔ|piatok
-星期六|xīngqīliù|sobota
-祝|zhù|priať
-快乐|kuàilè|šťastný
-现在|xiànzài|teraz
-事儿|shìr|vec; niečo na práci
-忙|máng|zaneprázdnený
-晚饭|wǎnfàn|večera
-为什么|wèishénme|prečo
-因为|yīnwèi|pretože
-还|hái|ešte
-听不懂|tīng bu dǒng|nerozumieť (sluchom)
-慢|màn|pomalý
-一点|yìdiǎn|trochu
-会|huì|vedieť (naučené)
-客气|kèqi|zdvorilý; robiť si okolky
-没|méi|ne- (minulosť)
-关系|guānxi|vzťah; „to nič“
-不好意思|bù hǎoyìsi|prepáčte
-可以|kěyǐ|môcť; dá sa
-等|děng|čakať
-一下|yíxià|na chvíľu
-要|yào|chcieť; dať si
-帮|bāng|pomôcť
-写|xiě|písať
-问题|wèntí|problém; otázka
-真的|zhēn de|naozaj
-用|yòng|použiť
-手机|shǒujī|mobil
-翻译|fānyì|prekladať
-位|wèi|(počítadlo ľudí, zdvorilé)
-这儿|zhèr|tu
-给|gěi|dať; pre
-菜单|càidān|jedálny lístok
-好吃|hǎochī|chutný
-辣|là|pikantný
-肉|ròu|mäso
-能|néng|môcť (byť schopný)
-碗|wǎn|miska
-米饭|mǐfàn|ryža (varená)
-面条|miàntiáo|rezance
-饺子|jiǎozi|knedličky
-想|xiǎng|chcieť; myslieť
-烤鸭|kǎoyā|pečená kačica
-喝|hē|piť
-水|shuǐ|voda
-杯|bēi|šálka; pohár
-茶|chá|čaj
-咖啡|kāfēi|káva
-瓶|píng|fľaša
-啤酒|píjiǔ|pivo
-来|lái|prísť; dať si
-渴|kě|smädný
-吃饱|chī bǎo|najesť sa
-服务员|fúwùyuán|čašník
-买单|mǎi dān|zaplatiť účet
-打包|dǎbāo|zabaliť so sebou
-干杯|gānbēi|na zdravie
-多少|duōshao|koľko
-钱|qián|peniaze
-一共|yígòng|spolu
-贵|guì|drahý
-便宜|piányi|lacný
-块|kuài|juan (hovorovo)
-一百|yìbǎi|sto
-买|mǎi|kúpiť
-看看|kànkan|pozrieť sa
-小|xiǎo|malý
-微信|Wēixìn|WeChat
-支付宝|Zhīfùbǎo|Alipay
-刷卡|shuā kǎ|platiť kartou
-现金|xiànjīn|hotovosť
-扫|sǎo|skenovať
-付|fù|platiť
-袋子|dàizi|taška
-超市|chāoshì|supermarket
-在|zài|byť (niekde); v; práve
-哪儿|nǎr|kde
-商店|shāngdiàn|obchod
-东西|dōngxi|veci
-件|jiàn|(počítadlo oblečenia)
-衣服|yīfu|oblečenie
-水果|shuǐguǒ|ovocie
-苹果|píngguǒ|jablko
-斤|jīn|pol kila
-地铁站|dìtiězhàn|stanica metra
-洗手间|xǐshǒujiān|toaleta
-厕所|cèsuǒ|záchod
-去|qù|ísť (niekam)
-机场|jīchǎng|letisko
-火车站|huǒchēzhàn|vlaková stanica
-酒店|jiǔdiàn|hotel
-师傅|shīfu|majster; pán (vodič)
-外滩|Wàitān|Bund (Šanghaj)
-到|dào|prísť; do
-停|tíng|zastaviť
-往|wǎng|smerom
-前|qián|vpredu
-走|zǒu|kráčať; odísť
-左|zuǒ|ľavý
-右|yòu|pravý
-远|yuǎn|ďaleko
-近|jìn|blízko
-走路|zǒulù|ísť pešo
-长|cháng|dlhý
-时间|shíjiān|čas
-迷路|mílù|stratiť sa
-张|zhāng|(počítadlo: lístky, fotky)
-票|piào|lístok
-高铁|gāotiě|rýchlovlak
-开|kāi|odísť (vlak); otvoriť
-车|chē|auto; spoj
-下车|xià chē|vystúpiť
-坐|zuò|sedieť; ísť (dopravou)
-地铁|dìtiě|metro
-飞机|fēijī|lietadlo
-上海|Shànghǎi|Šanghaj
-打车|dǎ chē|vziať si taxík
-吧|ba|(návrh: poďme)
-出租车|chūzūchē|taxík
-预订|yùdìng|rezervácia
-护照|hùzhào|pas
-房间|fángjiān|izba
-住|zhù|bývať
-Wi-Fi|wi-fi|Wi-Fi
-密码|mìmǎ|heslo
-早饭|zǎofàn|raňajky
-楼|lóu|poschodie
-空调|kōngtiáo|klimatizácia
-坏|huài|pokazený
-热水|rèshuǐ|teplá voda
-退房|tuì fáng|odhlásiť sa z hotela
-放|fàng|položiť; nechať
-行李|xíngli|batožina
-电|diàn|elektrina; batéria
-充电|chōng diàn|nabíjať
-睡觉|shuìjiào|spať
-长城|Chángchéng|Veľký múr
-漂亮|piàoliang|krásny
-故宫|Gùgōng|Zakázané mesto
-门票|ménpiào|vstupenka
-樱花|yīnghuā|sakura
-真|zhēn|naozaj
-拍照|pāizhào|fotiť
-拍|pāi|odfotiť
-开门|kāi mén|otvárať
-关门|guān mén|zatvárať
-天气|tiānqì|počasie
-冷|lěng|chladno
-热|rè|teplo
-下雨|xià yǔ|pršať
-累|lèi|unavený
-高兴|gāoxìng|rád; potešený
-认识|rènshi|poznať (sa)
-哪|nǎ|ktorý
-国|guó|krajina
-旅游|lǚyóu|cestovať
-第一|dì-yī|prvý
-次|cì|raz
-学|xué|učiť sa
-每天|měitiān|každý deň
-星期一|xīngqīyī|pondelok
-课|kè|hodina (v škole)
-哪里|nǎlǐ|ale kdeže; kde
-去过|qùguo|už byť niekde
-欧洲|Ōuzhōu|Európa
-加|jiā|pridať
-慢走|màn zǒu|opatrne (rozlúčka)
-帮帮|bāngbang|pomôcť
-舒服|shūfu|pohodlný; cítiť sa dobre
-头疼|tóu téng|bolí hlava
-肚子|dùzi|brucho
-疼|téng|bolieť
-医院|yīyuàn|nemocnica
-药店|yàodiàn|lekáreň
-不见|bú jiàn|stratiť sa
-钱包|qiánbāo|peňaženka
-警察|jǐngchá|polícia
-找不到|zhǎo bu dào|nevedieť nájsť
-找|zhǎo|hľadať
-打|dǎ|(telefonovať)
-电话|diànhuà|telefón
-比|bǐ|v porovnaní s
-昨天|zuótiān|včera
-一起|yìqǐ|spolu
-所以|suǒyǐ|takže
-觉得|juéde|myslieť si
-时候|shíhou|čas; kedy
-爱|ài|ľúbiť
-只|zhī|(počítadlo zvierat)
-猫|māo|mačka
-狗|gǒu|pes
-电影|diànyǐng|film
-电视|diànshì|televízia
-电脑|diànnǎo|počítač
-学校|xuéxiào|škola
-桌子|zhuōzi|stôl
-上|shàng|na
-本|běn|(počítadlo kníh)
-椅子|yǐzi|stolička
-下面|xiàmiàn|pod
-朋友|péngyou|kamarát
-前面|qiánmiàn|vpredu
-回|huí|vrátiť sa
-明年|míngnián|budúci rok
-看见|kànjiàn|uvidieť
-读|dú|čítať
-字|zì|znak
-少|shǎo|málo
-杯子|bēizi|pohár
-饭馆|fànguǎn|reštaurácia
-分钟|fēnzhōng|minúta
-学习|xuéxí|učiť sa
-汉语|Hànyǔ|čínština
-后面|hòumiàn|vzadu
-上午|shàngwǔ|dopoludnie
-中午|zhōngwǔ|obed (čas)
-说话|shuōhuà|hovoriť
-同学|tóngxué|spolužiak
-喂|wéi|haló
-一些|yìxiē|nejaké
-您|nín|vy (zdvorilo)
-别|bié|neodchádzaj; ne-
-从|cóng|z; od
-但是|dànshì|ale
-非常|fēicháng|veľmi
-就|jiù|práve; hneď
-最|zuì|naj-
-已经|yǐjīng|už
-小时|xiǎoshí|hodina (trvanie)
-休息|xiūxi|oddychovať
-鱼|yú|ryba
-牛奶|niúnǎi|mlieko
-鸡蛋|jīdàn|vajce
-新|xīn|nový
-红|hóng|červený
-开始|kāishǐ|začať
-玩|wán|hrať sa; zabávať sa
-卖|mài|predávať
-旁边|pángbiān|vedľa
-左边|zuǒbian|vľavo
-右边|yòubian|vpravo
-希望|xīwàng|dúfať
-身体|shēntǐ|telo; zdravie
-生病|shēngbìng|ochorieť
-进|jìn|vojsť
-错|cuò|chybný; mýliť sa
-起床|qǐchuáng|vstať z postele
-操|cào|jebať (vulgárne)
-我操|wǒ cào|do riti!; čo to, do pr*ele?!
-啊|a|(častica: údiv, zdôraznenie)
-把|bǎ|(častica: predmet pred slovesom)
-让|ràng|nechať; dovoliť
-但|dàn|ale
-就是|jiù shì|presne; práve to
-如果|rúguǒ|ak
-它|tā|ono (vec, zviera)
-得|de|(častica: spôsob, miera)
-拿|ná|vziať; niesť
-被|bèi|(trpný rod)
-这里|zhèlǐ|tu
-这样|zhèyàng|takto; taký
-事|shì|vec; záležitosť
-自己|zìjǐ|sám; vlastný
-着|zhe|(častica: trvajúci stav)
-里|lǐ|vnútri
-过|guo|(častica: už som to zažil)
-只是|zhǐshì|iba; len
-哦|ó|aha; ó
-需要|xūyào|potrebovať
-像|xiàng|podobať sa; ako
-这么|zhème|tak; takto
-可能|kěnéng|možno; možný
-又|yòu|opäť; znova
-快|kuài|rýchly; rýchlo
-还有|hái yǒu|a ešte; ešte je
-死|sǐ|zomrieť; na smrť
-应该|yīnggāi|mal by
-这些|zhèxiē|tieto
-看到|kàndào|uvidieť
-那么|nàme|tak; v tom prípade
-为|wèi|pre; za
-而|ér|a; ale (spojka)
-才|cái|až; len
-嗯|ǹg|hm; áno
-一样|yíyàng|rovnaký; rovnako
-呀|ya|(častica: údiv, oživenie)
-嘿|hēi|hej
-当|dāng|byť ako; keď
-中|zhōng|v; stred
-然后|ránhòu|potom
-先|xiān|najprv
-地方|dìfang|miesto
-一定|yídìng|určite
-将|jiāng|bude (knižne)
-啦|la|(častica: uvoľnené áno)
-事情|shìqing|vec; záležitosť
-重要|zhòngyào|dôležitý
-一直|yìzhí|stále; rovno
-所有|suǒyǒu|všetok
-找到|zhǎodào|nájsť
-当然|dāngrán|samozrejme
-们|men|(množné číslo osôb)
-回来|huílai|vrátiť sa
-更|gèng|ešte viac
-没事|méi shì|to nič; v poriadku
-那些|nàxiē|tamtie
-可|kě|ale; naozaj
-明白|míngbai|rozumieť; jasný
-的话|dehuà|ak (na konci vety)
-下|xià|dole; ďalší; zísť
-星期|xīngqī|týždeň
-离开|líkāi|odísť
-一切|yíqiè|všetko
-相信|xiāngxìn|veriť
-想要|xiǎng yào|chcieť
-发生|fāshēng|stať sa
-起来|qǐlai|vstať; (začiatok deja)
-真是|zhēn shì|naozaj je
-抱歉|bàoqiàn|ľutovať; prepáčte
-晚|wǎn|neskoro; neskorý
-必须|bìxū|musieť
-认为|rènwéi|myslieť si
-那里|nàlǐ|tam
-也许|yěxǔ|možno
-有人|yǒu rén|niekto
-该|gāi|mal by; je rad na
-杀|shā|zabiť
-准备|zhǔnbèi|pripraviť sa
-并|bìng|a (knižne); vôbec nie
-出来|chūlai|vyjsť (von k hovoriacemu)
-与|yǔ|s; a (knižne)
-时|shí|keď; čas
-不过|búguò|ale; avšak
-有点|yǒudiǎn|trochu (nepríjemne)
-为了|wèile|aby; kvôli
-带|dài|priniesť; vziať so sebou
-女人|nǚrén|žena
-后|hòu|po; potom
-只有|zhǐyǒu|iba; len
-过来|guòlai|poď sem
-得到|dédào|získať
-很多|hěn duō|veľa
-任何|rènhé|akýkoľvek
-问|wèn|pýtať sa
-这种|zhè zhǒng|tento druh
-好喝|hǎohē|chutný (nápoj)
-感觉|gǎnjué|cítiť; pocit
-以为|yǐwéi|myslieť si (mylne)
-而且|érqiě|a navyše
-生活|shēnghuó|život; žiť
-男人|nánrén|muž
-之前|zhīqián|pred; predtým
-洗|xǐ|umyť
-手|shǒu|ruka
-发现|fāxiàn|zistiť; objaviť
-噢|ō|aha; ó
-快点|kuài diǎn|rýchlejšie; ponáhľaj sa
-嗨|hāi|ahoj
-妈|mā|mama
-不用|búyòng|netreba
-谢|xiè|ďakovať
-地|de|(častica: príslovka)
-慢慢|mànmàn|pomaly
-向|xiàng|smerom k; k
-没错|méi cuò|presne tak
-世界|shìjiè|svet
-记得|jìde|pamätať si
-不错|búcuò|dobrý; nie zlý
-肯定|kěndìng|určite
-最好|zuìhǎo|najlepšie; radšej
-不行|bùxíng|nejde to; nemožno
-等等|děngdeng|počkaj
-嘛|ma|(častica: veď; samozrejmosť)
-出去|chūqu|ísť von
-么|me|(častica; v 什么, 这么)
-亲爱|qīn'ài|drahý; milý
-或|huò|alebo
-如何|rúhé|ako
-到底|dàodǐ|vlastne; napokon
-最后|zuìhòu|nakoniec; posledný
-上帝|Shàngdì|Boh
-正在|zhèngzài|práve (robiť)
-那样|nàyàng|tak; taký
-父亲|fùqin|otec
-跑|pǎo|bežať
-只要|zhǐyào|stačí, aby; pokiaľ
-干什么|gàn shénme|čo robiť; načo
-好像|hǎoxiàng|zdá sa
-继续|jìxù|pokračovať
-出|chū|vyjsť; von
-门|mén|dvere
-今晚|jīnwǎn|dnes večer
-回家|huí jiā|ísť domov
-它们|tāmen|ony (veci, zvieratá)
-听到|tīngdào|počuť
-干嘛|gànmá|prečo; čo robiť
-干|gàn|robiť
-要是|yàoshi|ak
-女孩|nǚhái|dievča
-所|suǒ|(častica; ktorý)
-马上|mǎshàng|hneď
-过去|guòqu|minulosť; prejsť tam
-以前|yǐqián|predtým
-看起来|kàn qǐlai|vyzerá to
-完全|wánquán|úplne
-怎样|zěnyàng|ako; aký
-回去|huíqu|vrátiť sa tam
-以|yǐ|s; pomocou (knižne)
-身份|shēnfèn|identita; postavenie
-却|què|ale; predsa
-其他|qítā|iný; ostatný
-永远|yǒngyuǎn|navždy
-家伙|jiāhuo|chlapík
-之后|zhīhòu|potom; po
-或者|huòzhě|alebo
-火车|huǒchē|vlak
-小心|xiǎoxīn|pozor; opatrne
-行|xíng|dobre; ide to
-别人|biérén|iní ľudia
-成为|chéngwéi|stať sa (kým)
-不到|bú dào|menej ako; nedosiahnuť
-情况|qíngkuàng|situácia
-送|sòng|darovať; odviezť
-伙计|huǒji|kamoš; chlape
-见到|jiàndào|stretnúť; vidieť
-总是|zǒngshì|vždy
-好好|hǎohǎo|poriadne
-如此|rúcǐ|takto; tak
-原来|yuánlái|pôvodne; a teda
-了解|liǎojiě|poznať; rozumieť
-兄弟|xiōngdì|brat; kamoš
-没什么|méi shénme|to nič
-结束|jiéshù|skončiť
-机会|jīhuì|príležitosť
-已|yǐ|už (knižne)
-卖完|màiwán|vypredať
-安全|ānquán|bezpečný
-拜托|bàituō|prosím ťa
-决定|juédìng|rozhodnúť
-穿|chuān|mať oblečené; obliecť si
-确定|quèdìng|istý; určiť
-里面|lǐmiàn|vnútri
-呃|è|ehm
-怎么办|zěnme bàn|čo teraz
-还好|hái hǎo|ako-tak; našťastie
-无法|wúfǎ|nemôcť
-站|zhàn|stáť; stanica
-清楚|qīngchu|jasný; zreteľne
-有些|yǒuxiē|niektorí; trochu
-帮助|bāngzhù|pomoc; pomôcť
-长官|zhǎngguān|veliteľ; pane (vojak)
-公司|gōngsī|firma
-打电话|dǎ diànhuà|telefonovať
-房子|fángzi|dom
-根本|gēnběn|vôbec
-办法|bànfǎ|spôsob; riešenie
-不管|bùguǎn|bez ohľadu na
-关于|guānyú|o; ohľadom
-搞|gǎo|robiť; spraviť
-计划|jìhuà|plán; plánovať
-唯一|wéiyī|jediný
-来说|láishuō|pre (koho)
-看着|kànzhe|pozerať sa na
-宝贝|bǎobèi|zlatko
-哭|kū|plakať
-每个|měi ge|každý
-怎么回事|zěnme huí shì|čo sa deje
-其实|qíshí|v skutočnosti
-人们|rénmen|ľudia
-真正|zhēnzhèng|skutočný
-甚至|shènzhì|dokonca
-那边|nàbiān|tam; tamtá strana
-弄|nòng|spraviť; pokaziť
-喔|ō|aha; ó
-进来|jìnlai|vojsť (sem)
-夫人|fūrén|pani; manželka
-之|zhī|(knižná častica)
-旅|lǚ|cesta; výlet
-有意思|yǒu yìsi|zaujímavý
-愿意|yuànyì|byť ochotný
-麻烦|máfan|problém; obťažovať
-睡|shuì|spať
-哇|wā|wow
-就要|jiù yào|čoskoro; už
-打算|dǎsuàn|plánovať
-完|wán|dokončiť
-故事|gùshi|príbeh
-种|zhǒng|druh
-害怕|hàipà|báť sa
-救|jiù|zachrániť
-由|yóu|od; (kým)
-那儿|nàr|tam
-枪|qiāng|zbraň; pištoľ
-母亲|mǔqin|matka
-另|lìng|iný; ďalší
-下来|xiàlai|zísť dole
-听说|tīngshuō|počuť (že)
-不了|bù liǎo|nedokázať
-注意|zhùyì|dávať pozor
-改变|gǎibiàn|zmeniť
-请客|qǐng kè|pozvať; zaplatiť za iných
-没关系|méi guānxi|to nevadí
-接受|jiēshòu|prijať
-妻子|qīzi|manželka
-老|lǎo|starý
-失去|shīqù|stratiť
-回到|huídào|vrátiť sa do
-以后|yǐhòu|neskôr; v budúcnosti
-话|huà|reč; slová
-是否|shìfǒu|či
-疯|fēng|šialený
-生命|shēngmìng|život
-她们|tāmen|ony (ženy)
-进去|jìnqu|vojsť (tam)
-抓|zhuā|chytiť
-记|jì|pamätať; zapisovať
-女士|nǚshì|pani
-原因|yuányīn|dôvod
-刚才|gāngcái|pred chvíľou
-保护|bǎohù|chrániť
-选择|xuǎnzé|vybrať; voľba
-笑|xiào|smiať sa
-从来|cónglái|nikdy (s negáciou)
-当时|dāngshí|vtedy
-出现|chūxiàn|objaviť sa
-结婚|jiéhūn|oženiť sa; vydať sa
-些|xiē|niekoľko
-至少|zhìshǎo|aspoň
-挺|tǐng|dosť; celkom
-成功|chénggōng|úspech; uspieť
-奇怪|qíguài|zvláštny
-虽然|suīrán|hoci
-忘|wàng|zabudnúť
-太好了|tài hǎo le|výborne
-身上|shēnshang|pri sebe; na tele
-或许|huòxǔ|možno
-讲|jiǎng|hovoriť; rozprávať
-保证|bǎozhèng|zaručiť
-外面|wàimiàn|vonku
-丈夫|zhàngfu|manžel
-连|lián|dokonca aj
-国家|guójiā|krajina; štát
-整个|zhěnggè|celý
-特别|tèbié|zvlášť; špeciálny
-那种|nà zhǒng|taký druh
-不同|bùtóng|odlišný
-想法|xiǎngfǎ|nápad; názor
-很快|hěn kuài|čoskoro; veľmi rýchlo
-变成|biànchéng|zmeniť sa na
-够|gòu|stačiť; dosť
-难道|nándào|vari
-样子|yàngzi|vzhľad; podoba
-倒|dào|naliať
-谈谈|tántan|porozprávať sa
-危险|wēixiǎn|nebezpečný
-开心|kāixīn|šťastný
-才能|cáinéng|až potom môcť
-闭嘴|bì zuǐ|drž hubu
-正|zhèng|práve
-进行|jìnxíng|prebiehať; vykonávať
-刚刚|gānggāng|práve teraz
-而已|éryǐ|len; nič viac
-完成|wánchéng|dokončiť
-方式|fāngshì|spôsob
-做到|zuòdào|dokázať
-爸|bà|otec (hovorovo)
-声音|shēngyīn|hlas; zvuk
-好听|hǎotīng|pekný (na počúvanie)
-音乐|yīnyuè|hudba
-看来|kànlái|zdá sa
-只能|zhǐ néng|môcť iba
-太太|tàitai|manželka; pani
-下去|xiàqu|zísť; pokračovať
-绝对|juéduì|absolútne
-处理|chǔlǐ|vyriešiť; vybaviť
-眼睛|yǎnjing|oči
-通过|tōngguò|prejsť; cez
-考试|kǎoshì|skúška
-行动|xíngdòng|akcia; konať
-啥|shá|čo (hovorovo)
-感到|gǎndào|cítiť
-最近|zuìjìn|v poslednej dobe
-各位|gèwèi|všetci (oslovenie)
-这边|zhèbiān|sem; táto strana
-待|dāi|zostať
-掉|diào|spadnúť; stratiť
-猜|cāi|hádať
-使|shǐ|spôsobiť
-作为|zuòwéi|ako
-于|yú|v; o (knižne)
-生|shēng|narodiť sa
-容易|róngyì|ľahký
-直到|zhídào|až do
-求|qiú|prosiť
-比赛|bǐsài|zápas; súťaž
-拉|lā|ťahať
-曾|céng|kedysi (knižne)
-有趣|yǒuqù|zaujímavý; zábavný
-就算|jiùsuàn|aj keby
-活着|huózhe|byť nažive
-努力|nǔlì|usilovne; snažiť sa
-帮忙|bāngmáng|pomôcť
-留下|liúxià|zostať; nechať
-同意|tóngyì|súhlasiť
-参加|cānjiā|zúčastniť sa
-赢|yíng|vyhrať
-死亡|sǐwáng|smrť
-怕|pà|báť sa
-每|měi|každý
-上面|shàngmiàn|hore; navrchu
-结果|jiéguǒ|výsledok; nakoniec
-消息|xiāoxi|správa
-要求|yāoqiú|požadovať; požiadavka
-理解|lǐjiě|rozumieť; pochopiť
-曾经|céngjīng|kedysi
-收到|shōudào|dostať
-照顾|zhàogù|starať sa
-人类|rénlèi|ľudstvo
-主意|zhǔyi|nápad
-保持|bǎochí|udržiavať
-安静|ānjìng|tichý
-成|chéng|stať sa; zmeniť sa
-换|huàn|vymeniť
-美元|měiyuán|dolár
-人民币|rénmínbì|jüan
-存在|cúnzài|existovať
-晚安|wǎn'ān|dobrú noc
-确实|quèshí|naozaj
-全部|quánbù|všetko
-靠|kào|spoliehať sa; pri
-呆|dāi|zostať
-起|qǐ|začať; vstať
-讨厌|tǎoyàn|nenávidieť; protivný
-俩|liǎ|dvaja
-突然|tūrán|zrazu
-多久|duō jiǔ|ako dlho
-老婆|lǎopo|manželka (hovorovo)
-不再|bú zài|už nie
-酒|jiǔ|alkohol; víno
-开玩笑|kāi wánxiào|žartovať
-放在|fàng zài|položiť na
-进入|jìnrù|vstúpiť
-父母|fùmǔ|rodičia
-总统|zǒngtǒng|prezident
-伤害|shānghài|ublížiť
-回答|huídá|odpovedať
-早|zǎo|skoro
-除了|chúle|okrem
-派|pài|poslať
-咱们|zánmen|my (aj s tebou)
-自由|zìyóu|sloboda; slobodný
-可爱|kě'ài|roztomilý
-抓住|zhuāzhù|chytiť
-路|lù|cesta
-条|tiáo|(počítacie slovo: dlhé veci)
-谈|tán|rozprávať sa
-简单|jiǎndān|jednoduchý
-能够|nénggòu|byť schopný
-昨晚|zuówǎn|včera večer
-跳|tiào|skákať
-秘密|mìmì|tajomstvo
-战争|zhànzhēng|vojna
-其中|qízhōng|medzi nimi
-内|nèi|vnútri; v rámci
-之间|zhījiān|medzi
-大概|dàgài|približne
-控制|kòngzhì|ovládať
-刚|gāng|práve
-小孩|xiǎohái|dieťa
-带来|dài lái|priniesť
-停止|tíngzhǐ|prestať
-因此|yīncǐ|preto
-花|huā|kvet; minúť
-证明|zhèngmíng|dokázať
-替|tì|namiesto; za
-解释|jiěshì|vysvetliť
-终于|zhōngyú|konečne
-耶|yē|juchú; jéj
-调查|diàochá|vyšetrovať
-为何|wèihé|prečo (knižne)
-留|liú|zostať; nechať
-步|bù|krok
-糟糕|zāogāo|hrozné; do čerta
-任务|rènwu|úloha
-武器|wǔqì|zbraň
-家里|jiā lǐ|doma
-头|tóu|hlava
-小子|xiǎozi|chlapec; chalan
-来到|láidào|prísť do
-解决|jiějué|vyriešiť
-家人|jiārén|rodina
-坐下|zuòxià|sadnúť si
-直接|zhíjiē|priamo
-办公室|bàngōngshì|kancelária
-放弃|fàngqì|vzdať sa
-鬼|guǐ|duch; čert
-加油|jiā yóu|do toho; drž sa
-方法|fāngfǎ|metóda; spôsob
-游戏|yóuxì|hra
-即使|jíshǐ|aj keby
-年轻|niánqīng|mladý
-大人|dàren|dospelý
-使用|shǐyòng|používať
-老板|lǎobǎn|šéf; majiteľ
-想想|xiǎngxiang|premyslieť
-目标|mùbiāo|cieľ
-变得|biàn de|stať sa (akým)
-可怕|kěpà|strašný
-拿到|nádào|získať; dostať
-考虑|kǎolǜ|zvážiť
-个人|gèrén|osobný; jednotlivec
-开枪|kāi qiāng|vystreliť
-想到|xiǎngdào|napadnúť
-等待|děngdài|čakať
-再说|zàishuō|okrem toho; neskôr uvidíme
-聪明|cōngming|múdry
-姑娘|gūniang|dievča
-地球|dìqiú|Zem
-感谢|gǎnxiè|ďakovať
-命令|mìnglìng|rozkaz
-阻止|zǔzhǐ|zabrániť
-消失|xiāoshī|zmiznúť
-心|xīn|srdce
-第|dì|(radové číslo)
-冷静|lěngjìng|pokojný
-似乎|sìhū|zdá sa
-联系|liánxì|kontaktovať
-家庭|jiātíng|rodina
-痛苦|tòngkǔ|bolesť; utrpenie
-城市|chéngshì|mesto
-力量|lìliang|sila
-对于|duìyú|pre; o
-未来|wèilái|budúcnosť
-男孩|nánhái|chlapec
-博士|bóshì|doktor (PhD)
-疯狂|fēngkuáng|šialený
-报告|bàogào|správa; hlásiť
-放下|fàngxià|položiť
-完美|wánměi|dokonalý
-答应|dāying|sľúbiť; súhlasiť
-证据|zhèngjù|dôkaz
-本来|běnlái|pôvodne
-负责|fùzé|byť zodpovedný
-检查|jiǎnchá|skontrolovať
-厉害|lìhai|skvelý; silný
-拥有|yōngyǒu|vlastniť
-正常|zhèngcháng|normálny
-并且|bìngqiě|a tiež
-否则|fǒuzé|inak
-以及|yǐjí|a tiež (knižne)
-香港|Xiānggǎng|Hongkong
-重新|chóngxīn|znova
-忘记|wàngjì|zabudnúť
-研究|yánjiū|výskum; skúmať
-附近|fùjìn|v okolí
-不然|bùrán|inak
-太棒了|tài bàng le|super
-棒|bàng|skvelý
-脸|liǎn|tvár
-学者|xuézhě|učenec
-有名|yǒumíng|známy
-加入|jiārù|pridať sa
-唱|chàng|spievať
-反正|fǎnzhèng|aj tak
-政府|zhèngfǔ|vláda
-身边|shēnbiān|po boku
-遇到|yùdào|stretnúť
-伟大|wěidà|veľkolepý
-接|jiē|vyzdvihnúť; zdvihnúť
-仍然|réngrán|stále
-开车|kāichē|šoférovať
-代表|dàibiǎo|zástupca; zastupovať
-陪|péi|sprevádzať
-若|ruò|ak (knižne)
-尸体|shītǐ|mŕtvola
-具|jù|(počítacie slovo: telo)
-比较|bǐjiào|pomerne; porovnať
-年|nián|rok
-紧张|jǐnzhāng|nervózny
-监狱|jiānyù|väzenie
-位置|wèizhi|miesto; poloha
-随便|suíbiàn|ako chceš; hocijako
-选|xuǎn|vybrať
-偷|tōu|ukradnúť
-安排|ānpái|zariadiť
-表演|biǎoyǎn|predstavenie
-除非|chúfēi|ibaže
-老兄|lǎoxiōng|starý brat; kamoš
-久|jiǔ|dlho
-支持|zhīchí|podporovať
-必要|bìyào|nutný
-人生|rénshēng|život
-正确|zhèngquè|správny
-跟着|gēnzhe|nasledovať
-交给|jiāo gěi|odovzdať
-叔叔|shūshu|strýko
-食物|shíwù|jedlo
-事实|shìshí|fakt
-简直|jiǎnzhí|priam
-离|lí|od; vzdialený
-场|chǎng|(počítacie slovo: zápas, film)
-美丽|měilì|krásny
-再次|zàicì|znova
-案子|ànzi|prípad
-哈|hā|ha
-可怜|kělián|úbohý
-教|jiāo|učiť (niekoho)
-首先|shǒuxiān|najprv
-另外|lìngwài|okrem toho
-提供|tígōng|poskytovať
-记住|jìzhù|zapamätať si
-听见|tīngjiàn|počuť
-信|xìn|list; veriť
-封|fēng|(počítacie slovo: list)
-国王|guówáng|kráľ
-面前|miànqián|pred (niekým)
-几乎|jīhū|takmer
-日子|rìzi|deň; život
-再也|zài yě|už nikdy (s negáciou)
-早就|zǎo jiù|už dávno
-逼|bī|nútiť
-有关|yǒuguān|súvisiaci
-放开|fàngkāi|pustiť
-信息|xìnxī|informácia; správa
-发|fā|poslať
-不得不|bùdébù|nemať na výber
-发誓|fāshì|prisahať
-钥匙|yàoshi|kľúč
-错误|cuòwù|chyba
-放松|fàngsōng|uvoľniť sa
-约会|yuēhuì|rande
-船|chuán|loď
-打扰|dǎrǎo|rušiť
-女|nǚ|žena; ženský
-男|nán|muž; mužský
-二|èr|dva
-到处|dàochù|všade
-攻击|gōngjī|útok; zaútočiť
-份|fèn|porcia; (počítacie slovo)
-建议|jiànyì|návrh; navrhnúť
-日本|Rìběn|Japonsko
-理由|lǐyóu|dôvod
-事实上|shìshí shang|v skutočnosti
-跳舞|tiàowǔ|tancovať
-生气|shēngqì|hnevať sa
-试试|shìshi|skúsiť
-信任|xìnrèn|dôverovať
-此|cǐ|tento (knižne)
-差不多|chàbuduō|približne; skoro rovnaký
-原谅|yuánliàng|odpustiť
-神|shén|boh
-经常|jīngcháng|často
-的确|díquè|skutočne
-之一|zhī yī|jeden z
-幸福|xìngfú|šťastie; šťastný
-哎|āi|hej; ach
-便|biàn|hneď; potom
-马|mǎ|kôň
-骑|qí|jazdiť (na bicykli, koni)
-算|suàn|počítať; považovať
-正是|zhèng shì|presne to
-不必|búbì|netreba
-担心|dānxīn|obávať sa
-最大|zuì dà|najväčší
-幸运|xìngyùn|šťastie (náhoda)
-丢|diū|stratiť
-而是|ér shì|ale (nie X, ale Y)
-住手|zhù shǒu|prestaň!
-动物|dòngwù|zviera
-道歉|dàoqiàn|ospravedlniť sa
-严重|yánzhòng|vážny
-人家|rénjia|iní ľudia
-坚持|jiānchí|vytrvať
-想象|xiǎngxiàng|predstaviť si
-按|àn|stlačiť
-礼物|lǐwù|darček
-每次|měi cì|zakaždým
-将军|jiāngjūn|generál
-剩下|shèngxià|zostať; zvyšok
-老爸|lǎobà|otec (hovorovo)
-系统|xìtǒng|systém
-全都|quán dōu|všetci; všetko
-组织|zǔzhī|organizácia
-敌人|dírén|nepriateľ
-看上去|kàn shàngqu|vyzerať
-老天|lǎotiān|nebesá
-认真|rènzhēn|vážne; poctivo
-关心|guānxīn|starať sa o
-骗|piàn|klamať; podviesť
-生意|shēngyi|obchod; biznis
-上去|shàngqu|ísť hore
-值得|zhíde|stáť za to
-搞定|gǎodìng|vybaviť
-寻找|xúnzhǎo|hľadať
-派对|pàiduì|párty
-许多|xǔduō|veľa
-下次|xià cì|nabudúce
-通知|tōngzhī|oznámiť
-救命|jiùmìng|pomoc!
-表现|biǎoxiàn|výkon; prejaviť
-利用|lìyòng|využiť
-受伤|shòushāng|zraniť sa
-后来|hòulái|potom; neskôr
-精神|jīngshen|energický; duch
-居然|jūrán|prekvapivo
-受到|shòudào|dostať; byť vystavený
-大学|dàxué|univerzita
-那时|nàshí|vtedy
-既然|jìrán|keďže
-有时|yǒushí|niekedy
-米|mǐ|ryža; meter
-总|zǒng|stále; vždy
-真相|zhēnxiàng|pravda
-恨|hèn|nenávidieť
-卡|kǎ|karta
-警官|jǐngguān|policajt (oslovenie)
-属于|shǔyú|patriť
-怪|guài|zvláštny; obviňovať
-名|míng|meno; (počítacie slovo: osoby)
-怀疑|huáiyí|podozrievať; pochybovať
-战斗|zhàndòu|boj; bojovať
-承认|chéngrèn|priznať
-法律|fǎlǜ|zákon
-记录|jìlù|záznam
-见面|jiànmiàn|stretnúť sa
-能力|nénglì|schopnosť
-足够|zúgòu|dostatočne
-瞧|qiáo|pozrieť sa
-同样|tóngyàng|rovnaký; rovnako
-拒绝|jùjué|odmietnuť
-他妈的|tāmāde|do riti (vulgárne)
-该死|gāisǐ|sakra; prekliaty
-混蛋|hùndàn|hajzel
-笨蛋|bèndàn|hlupák
-白痴|báichī|idiot
-屁股|pìgu|zadok
+你好|nǐ hǎo|ahoj|hello
+老师|lǎoshī|učiteľ|teacher
+好|hǎo|dobrý; dobre|good; well
+大家|dàjiā|všetci|everyone
+早上|zǎoshang|ráno|morning
+下午|xiàwǔ|popoludnie|afternoon
+欢迎|huānyíng|vitajte|welcome
+上课|shàng kè|začať hodinu|start class
+下课|xià kè|skončiť hodinu|end class
+打开|dǎkāi|otvoriť|open
+书|shū|kniha|book
+我|wǒ|ja|I; me
+说|shuō|hovoriť|speak; say
+你们|nǐmen|vy|you (plural)
+听|tīng|počúvať|listen
+看|kàn|pozerať; čítať|look; read
+黑板|hēibǎn|tabuľa|blackboard
+对|duì|správny|correct
+不|bù|nie|not; no
+很|hěn|veľmi|very
+请|qǐng|prosím; pozvať|please; invite
+跟|gēn|s; po (niekom)|with; after (someone)
+再|zài|znova|again
+一遍|yí biàn|raz (od začiatku)|once (through)
+你|nǐ|ty|you
+懂|dǒng|rozumieť|understand
+了|le|(zmena / hotovo)|(change / completion)
+对不起|duìbuqǐ|prepáč|sorry
+谢谢|xièxie|ďakujem|thank you
+这|zhè|toto|this
+是|shì|byť|to be
+什么|shénme|čo; aký|what
+这个|zhège|tento|this one
+中文|Zhōngwén|čínština|Chinese (language)
+怎么|zěnme|ako|how
+意思|yìsi|význam|meaning
+告诉|gàosu|povedať (komu)|tell
+再见|zàijiàn|dovidenia|goodbye
+斯洛伐克|Sīluòfákè|Slovensko|Slovakia
+人|rén|človek|person
+来自|láizì|pochádzať z|come from
+知道|zhīdào|vedieť|know
+饿|è|hladný|hungry
+吃|chī|jesť|eat
+吗|ma|(otázka áno/nie)|(yes/no question)
+请问|qǐngwèn|prepáčte, môžem sa spýtať|excuse me, may I ask
+贵姓|guìxìng|vaše ctené priezvisko|your honorable surname
+姓|xìng|mať priezvisko|be surnamed
+李|Lǐ|Li (priezvisko)|Li (surname)
+呢|ne|a ty? (otázka)|and you? (question)
+王|Wáng|Wang (priezvisko)|Wang (surname)
+小姐|xiǎojiě|slečna|Miss
+叫|jiào|volať sa|be called
+名字|míngzi|meno|name
+李友|Lǐ Yǒu|Li You (meno)|Li You (name)
+先生|xiānsheng|pán|Mr.
+王朋|Wáng Péng|Wang Peng (meno)|Wang Peng (name)
+学生|xuésheng|študent|student
+也|yě|tiež|also
+中国|Zhōngguó|Čína|China
+北京|Běijīng|Peking|Beijing
+美国|Měiguó|Amerika|America
+纽约|Niǔyuē|New York|New York
+高文中|Gāo Wénzhōng|Gao Wenzhong (meno)|Gao Wenzhong (name)
+那|nà|tamto|that
+的|de|(privlastnenie)|(possessive)
+照片|zhàopiàn|fotka|photo
+爸爸|bàba|otec|dad
+妈妈|māma|mama|mom
+女孩子|nǚ háizi|dievča|girl
+谁|shéi|kto|who
+她|tā|ona|she
+姐姐|jiějie|staršia sestra|older sister
+男孩子|nán háizi|chlapec|boy
+弟弟|dìdi|mladší brat|younger brother
+他|tā|on|he
+大哥|dàgē|najstarší brat|eldest brother
+儿子|érzi|syn|son
+有|yǒu|mať; je tu|have; there is
+女儿|nǚ'ér|dcéra|daughter
+没有|méiyǒu|nemať; nie je|not have; there isn't
+白英爱|Bái Yīng'ài|Bai Ying'ai (meno)|Bai Ying'ai (name)
+家|jiā|rodina; domov|family; home
+几|jǐ|koľko|how many
+口|kǒu|(počítadlo členov rodiny)|(measure word: family members)
+六|liù|šesť|six
+一|yī|jeden|one
+个|ge|(počítadlo)|(measure word)
+哥哥|gēge|starší brat|older brother
+两|liǎng|dva|two
+妹妹|mèimei|mladšia sestra|younger sister
+和|hé|a|and
+五|wǔ|päť|five
+大姐|dàjiě|najstaršia sestra|eldest sister
+二姐|èrjiě|druhá sestra|second sister
+做|zuò|robiť|do
+工作|gōngzuò|práca|work; job
+律师|lǜshī|právnik|lawyer
+英文|Yīngwén|angličtina|English (language)
+都|dōu|všetci; obaja|all; both
+大学生|dàxuéshēng|vysokoškolák|college student
+医生|yīshēng|lekár|doctor
+孩子|háizi|dieťa|child
+那个|nàge|tamten|that one
+三|sān|tri|three
+小高|Xiǎo Gāo|Malý Gao (meno)|Little Gao (name)
+他们|tāmen|oni|they
+四|sì|štyri|four
+爷爷|yéye|starý otec|grandfather
+奶奶|nǎinai|stará mama|grandmother
+九月|jiǔyuè|september|September
+十二|shí'èr|dvanásť|twelve
+号|hào|(deň v mesiaci)|(day of the month)
+星期几|xīngqījǐ|aký deň v týždni|which day of the week
+星期四|xīngqīsì|štvrtok|Thursday
+天|tiān|deň|day
+生日|shēngrì|narodeniny|birthday
+今年|jīnnián|tento rok|this year
+多|duō|veľa; koľko|many; how much
+大|dà|veľký; starý|big; old
+十八|shíbā|osemnásť|eighteen
+岁|suì|rok (veku)|year (of age)
+吃饭|chī fàn|jesť (jedlo)|eat (a meal)
+怎么样|zěnmeyàng|čo ty na to?|how about it?
+太|tài|príliš|too
+喜欢|xǐhuan|mať rád|like
+菜|cài|jedlo (kuchyňa)|food (cuisine)
+还是|háishi|alebo (v otázke)|or (in questions)
+英国|Yīngguó|Británia|Britain
+可是|kěshì|ale|but
+我们|wǒmen|my|we
+点|diǎn|hodina (čas)|o'clock
+七|qī|sedem|seven
+半|bàn|pol|half
+晚上|wǎnshang|večer|evening
+见|jiàn|vidieť (sa)|see; meet
+二月|èryuè|február|February
+钟|zhōng|hodiny (presne)|o'clock (exactly)
+十一|shíyī|jedenásť|eleven
+四十|sìshí|štyridsať|forty
+分|fēn|minúta|minute
+零|líng|nula|zero
+二十|èrshí|dvadsať|twenty
+八|bā|osem|eight
+五十|wǔshí|päťdesiat|fifty
+刻|kè|štvrťhodina|quarter of an hour
+九|jiǔ|deväť|nine
+十|shí|desať|ten
+明天|míngtiān|zajtra|tomorrow
+今天|jīntiān|dnes|today
+三月|sānyuè|marec|March
+二十一|èrshíyī|dvadsaťjeden|twenty-one
+星期三|xīngqīsān|streda|Wednesday
+月|yuè|mesiac|month
+高|gāo|vysoký; Gao|tall; Gao
+星期五|xīngqīwǔ|piatok|Friday
+星期六|xīngqīliù|sobota|Saturday
+祝|zhù|priať|wish
+快乐|kuàilè|šťastný|happy
+现在|xiànzài|teraz|now
+事儿|shìr|vec; niečo na práci|matter; something to do
+忙|máng|zaneprázdnený|busy
+晚饭|wǎnfàn|večera|dinner
+为什么|wèishénme|prečo|why
+因为|yīnwèi|pretože|because
+还|hái|ešte|still
+听不懂|tīng bu dǒng|nerozumieť (sluchom)|can't understand (by ear)
+慢|màn|pomalý|slow
+一点|yìdiǎn|trochu|a little
+会|huì|vedieť (naučené)|know how to
+客气|kèqi|zdvorilý; robiť si okolky|polite; stand on ceremony
+没|méi|ne- (minulosť)|not (past)
+关系|guānxi|vzťah; „to nič“|relationship; "no problem"
+不好意思|bù hǎoyìsi|prepáčte|sorry; excuse me
+可以|kěyǐ|môcť; dá sa|may; can
+等|děng|čakať|wait
+一下|yíxià|na chvíľu|for a moment
+要|yào|chcieť; dať si|want; have (order)
+帮|bāng|pomôcť|help
+写|xiě|písať|write
+问题|wèntí|problém; otázka|problem; question
+真的|zhēn de|naozaj|really
+用|yòng|použiť|use
+手机|shǒujī|mobil|cell phone
+翻译|fānyì|prekladať|translate
+位|wèi|(počítadlo ľudí, zdvorilé)|(polite measure word: people)
+这儿|zhèr|tu|here
+给|gěi|dať; pre|give; for
+菜单|càidān|jedálny lístok|menu
+好吃|hǎochī|chutný|tasty
+辣|là|pikantný|spicy
+肉|ròu|mäso|meat
+能|néng|môcť (byť schopný)|can (be able)
+碗|wǎn|miska|bowl
+米饭|mǐfàn|ryža (varená)|cooked rice
+面条|miàntiáo|rezance|noodles
+饺子|jiǎozi|knedličky|dumplings
+想|xiǎng|chcieť; myslieť|want; think
+烤鸭|kǎoyā|pečená kačica|roast duck
+喝|hē|piť|drink
+水|shuǐ|voda|water
+杯|bēi|šálka; pohár|cup; glass
+茶|chá|čaj|tea
+咖啡|kāfēi|káva|coffee
+瓶|píng|fľaša|bottle
+啤酒|píjiǔ|pivo|beer
+来|lái|prísť; dať si|come; have (order)
+渴|kě|smädný|thirsty
+吃饱|chī bǎo|najesť sa|be full (from eating)
+服务员|fúwùyuán|čašník|waiter
+买单|mǎi dān|zaplatiť účet|pay the bill
+打包|dǎbāo|zabaliť so sebou|pack to go
+干杯|gānbēi|na zdravie|cheers
+多少|duōshao|koľko|how many; how much
+钱|qián|peniaze|money
+一共|yígòng|spolu|altogether
+贵|guì|drahý|expensive
+便宜|piányi|lacný|cheap
+块|kuài|juan (hovorovo)|yuan (colloquial)
+一百|yìbǎi|sto|one hundred
+买|mǎi|kúpiť|buy
+看看|kànkan|pozrieť sa|take a look
+小|xiǎo|malý|small
+微信|Wēixìn|WeChat|WeChat
+支付宝|Zhīfùbǎo|Alipay|Alipay
+刷卡|shuā kǎ|platiť kartou|pay by card
+现金|xiànjīn|hotovosť|cash
+扫|sǎo|skenovať|scan
+付|fù|platiť|pay
+袋子|dàizi|taška|bag
+超市|chāoshì|supermarket|supermarket
+在|zài|byť (niekde); v; práve|be at; in; (in progress)
+哪儿|nǎr|kde|where
+商店|shāngdiàn|obchod|shop
+东西|dōngxi|veci|things
+件|jiàn|(počítadlo oblečenia)|(measure word: clothing)
+衣服|yīfu|oblečenie|clothes
+水果|shuǐguǒ|ovocie|fruit
+苹果|píngguǒ|jablko|apple
+斤|jīn|pol kila|half a kilo
+地铁站|dìtiězhàn|stanica metra|subway station
+洗手间|xǐshǒujiān|toaleta|restroom
+厕所|cèsuǒ|záchod|toilet
+去|qù|ísť (niekam)|go
+机场|jīchǎng|letisko|airport
+火车站|huǒchēzhàn|vlaková stanica|train station
+酒店|jiǔdiàn|hotel|hotel
+师傅|shīfu|majster; pán (vodič)|master; sir (driver)
+外滩|Wàitān|Bund (Šanghaj)|the Bund (Shanghai)
+到|dào|prísť; do|arrive; to
+停|tíng|zastaviť|stop
+往|wǎng|smerom|toward
+前|qián|vpredu|front
+走|zǒu|kráčať; odísť|walk; leave
+左|zuǒ|ľavý|left
+右|yòu|pravý|right
+远|yuǎn|ďaleko|far
+近|jìn|blízko|near
+走路|zǒulù|ísť pešo|walk; go on foot
+长|cháng|dlhý|long
+时间|shíjiān|čas|time
+迷路|mílù|stratiť sa|get lost
+张|zhāng|(počítadlo: lístky, fotky)|(measure word: tickets, photos)
+票|piào|lístok|ticket
+高铁|gāotiě|rýchlovlak|high-speed train
+开|kāi|odísť (vlak); otvoriť|depart; open
+车|chē|auto; spoj|car; ride
+下车|xià chē|vystúpiť|get off
+坐|zuò|sedieť; ísť (dopravou)|sit; travel by
+地铁|dìtiě|metro|subway
+飞机|fēijī|lietadlo|airplane
+上海|Shànghǎi|Šanghaj|Shanghai
+打车|dǎ chē|vziať si taxík|take a taxi
+吧|ba|(návrh: poďme)|(suggestion: let's)
+出租车|chūzūchē|taxík|taxi
+预订|yùdìng|rezervácia|reservation
+护照|hùzhào|pas|passport
+房间|fángjiān|izba|room
+住|zhù|bývať|stay; live
+Wi-Fi|wi-fi|Wi-Fi|Wi-Fi
+密码|mìmǎ|heslo|password
+早饭|zǎofàn|raňajky|breakfast
+楼|lóu|poschodie|floor
+空调|kōngtiáo|klimatizácia|air conditioning
+坏|huài|pokazený|broken
+热水|rèshuǐ|teplá voda|hot water
+退房|tuì fáng|odhlásiť sa z hotela|check out
+放|fàng|položiť; nechať|put; leave
+行李|xíngli|batožina|luggage
+电|diàn|elektrina; batéria|electricity; battery
+充电|chōng diàn|nabíjať|charge
+睡觉|shuìjiào|spať|sleep
+长城|Chángchéng|Veľký múr|the Great Wall
+漂亮|piàoliang|krásny|beautiful
+故宫|Gùgōng|Zakázané mesto|the Forbidden City
+门票|ménpiào|vstupenka|entrance ticket
+樱花|yīnghuā|sakura|cherry blossoms
+真|zhēn|naozaj|really
+拍照|pāizhào|fotiť|take photos
+拍|pāi|odfotiť|take (a photo)
+开门|kāi mén|otvárať|open (for business)
+关门|guān mén|zatvárať|close (for business)
+天气|tiānqì|počasie|weather
+冷|lěng|chladno|cold
+热|rè|teplo|hot
+下雨|xià yǔ|pršať|rain
+累|lèi|unavený|tired
+高兴|gāoxìng|rád; potešený|glad; pleased
+认识|rènshi|poznať (sa)|know (someone); meet
+哪|nǎ|ktorý|which
+国|guó|krajina|country
+旅游|lǚyóu|cestovať|travel
+第一|dì-yī|prvý|first
+次|cì|raz|time (occurrence)
+学|xué|učiť sa|study
+每天|měitiān|každý deň|every day
+星期一|xīngqīyī|pondelok|Monday
+课|kè|hodina (v škole)|class; lesson
+哪里|nǎlǐ|ale kdeže; kde|oh, not at all; where
+去过|qùguo|už byť niekde|have been to
+欧洲|Ōuzhōu|Európa|Europe
+加|jiā|pridať|add
+慢走|màn zǒu|opatrne (rozlúčka)|take care (farewell)
+帮帮|bāngbang|pomôcť|help (out)
+舒服|shūfu|pohodlný; cítiť sa dobre|comfortable; feel well
+头疼|tóu téng|bolí hlava|have a headache
+肚子|dùzi|brucho|belly
+疼|téng|bolieť|hurt
+医院|yīyuàn|nemocnica|hospital
+药店|yàodiàn|lekáreň|pharmacy
+不见|bú jiàn|stratiť sa|go missing
+钱包|qiánbāo|peňaženka|wallet
+警察|jǐngchá|polícia|police
+找不到|zhǎo bu dào|nevedieť nájsť|can't find
+找|zhǎo|hľadať|look for
+打|dǎ|(telefonovať)|(make a call)
+电话|diànhuà|telefón|phone
+比|bǐ|v porovnaní s|compared to
+昨天|zuótiān|včera|yesterday
+一起|yìqǐ|spolu|together
+所以|suǒyǐ|takže|so
+觉得|juéde|myslieť si|think; feel
+时候|shíhou|čas; kedy|time; when
+爱|ài|ľúbiť|love
+只|zhī|(počítadlo zvierat)|(measure word: animals)
+猫|māo|mačka|cat
+狗|gǒu|pes|dog
+电影|diànyǐng|film|movie
+电视|diànshì|televízia|TV
+电脑|diànnǎo|počítač|computer
+学校|xuéxiào|škola|school
+桌子|zhuōzi|stôl|table
+上|shàng|na|on
+本|běn|(počítadlo kníh)|(measure word: books)
+椅子|yǐzi|stolička|chair
+下面|xiàmiàn|pod|under
+朋友|péngyou|kamarát|friend
+前面|qiánmiàn|vpredu|in front
+回|huí|vrátiť sa|return
+明年|míngnián|budúci rok|next year
+看见|kànjiàn|uvidieť|see
+读|dú|čítať|read
+字|zì|znak|character
+少|shǎo|málo|few; little
+杯子|bēizi|pohár|cup; glass
+饭馆|fànguǎn|reštaurácia|restaurant
+分钟|fēnzhōng|minúta|minute
+学习|xuéxí|učiť sa|study
+汉语|Hànyǔ|čínština|Chinese (language)
+后面|hòumiàn|vzadu|behind
+上午|shàngwǔ|dopoludnie|morning
+中午|zhōngwǔ|obed (čas)|noon
+说话|shuōhuà|hovoriť|talk
+同学|tóngxué|spolužiak|classmate
+喂|wéi|haló|hello (on the phone)
+一些|yìxiē|nejaké|some
+您|nín|vy (zdvorilo)|you (polite)
+别|bié|neodchádzaj; ne-|don't
+从|cóng|z; od|from
+但是|dànshì|ale|but
+非常|fēicháng|veľmi|very; extremely
+就|jiù|práve; hneď|just; right away
+最|zuì|naj-|most
+已经|yǐjīng|už|already
+小时|xiǎoshí|hodina (trvanie)|hour
+休息|xiūxi|oddychovať|rest
+鱼|yú|ryba|fish
+牛奶|niúnǎi|mlieko|milk
+鸡蛋|jīdàn|vajce|egg
+新|xīn|nový|new
+红|hóng|červený|red
+开始|kāishǐ|začať|begin
+玩|wán|hrať sa; zabávať sa|play; have fun
+卖|mài|predávať|sell
+旁边|pángbiān|vedľa|next to
+左边|zuǒbian|vľavo|on the left
+右边|yòubian|vpravo|on the right
+希望|xīwàng|dúfať|hope
+身体|shēntǐ|telo; zdravie|body; health
+生病|shēngbìng|ochorieť|get sick
+进|jìn|vojsť|enter
+错|cuò|chybný; mýliť sa|wrong; mistaken
+起床|qǐchuáng|vstať z postele|get up
+操|cào|jebať (vulgárne)|fuck (vulgar)
+我操|wǒ cào|do riti!; čo to, do pr*ele?!|holy shit!; what the fuck?!
+啊|a|(častica: údiv, zdôraznenie)|(particle: surprise, emphasis)
+把|bǎ|(častica: predmet pred slovesom)|(particle: object before verb)
+让|ràng|nechať; dovoliť|let; allow
+但|dàn|ale|but
+就是|jiù shì|presne; práve to|exactly; that's it
+如果|rúguǒ|ak|if
+它|tā|ono (vec, zviera)|it
+得|de|(častica: spôsob, miera)|(particle: manner, degree)
+拿|ná|vziať; niesť|take; carry
+被|bèi|(trpný rod)|(passive)
+这里|zhèlǐ|tu|here
+这样|zhèyàng|takto; taký|like this; such
+事|shì|vec; záležitosť|matter; thing
+自己|zìjǐ|sám; vlastný|oneself; own
+着|zhe|(častica: trvajúci stav)|(particle: ongoing state)
+里|lǐ|vnútri|inside
+过|guo|(častica: už som to zažil)|(particle: past experience)
+只是|zhǐshì|iba; len|only; just
+哦|ó|aha; ó|oh
+需要|xūyào|potrebovať|need
+像|xiàng|podobať sa; ako|resemble; like
+这么|zhème|tak; takto|so; like this
+可能|kěnéng|možno; možný|maybe; possible
+又|yòu|opäť; znova|again
+快|kuài|rýchly; rýchlo|fast; quickly
+还有|hái yǒu|a ešte; ešte je|also; there is also
+死|sǐ|zomrieť; na smrť|die; to death
+应该|yīnggāi|mal by|should
+这些|zhèxiē|tieto|these
+看到|kàndào|uvidieť|see
+那么|nàme|tak; v tom prípade|so; in that case
+为|wèi|pre; za|for
+而|ér|a; ale (spojka)|and; but (conjunction)
+才|cái|až; len|only then; only
+嗯|ǹg|hm; áno|mm; yes
+一样|yíyàng|rovnaký; rovnako|the same
+呀|ya|(častica: údiv, oživenie)|(particle: surprise, liveliness)
+嘿|hēi|hej|hey
+当|dāng|byť ako; keď|serve as; when
+中|zhōng|v; stred|in; middle
+然后|ránhòu|potom|then
+先|xiān|najprv|first
+地方|dìfang|miesto|place
+一定|yídìng|určite|definitely
+将|jiāng|bude (knižne)|will (formal)
+啦|la|(častica: uvoľnené áno)|(particle: relaxed yes)
+事情|shìqing|vec; záležitosť|matter; thing
+重要|zhòngyào|dôležitý|important
+一直|yìzhí|stále; rovno|always; straight
+所有|suǒyǒu|všetok|all
+找到|zhǎodào|nájsť|find
+当然|dāngrán|samozrejme|of course
+们|men|(množné číslo osôb)|(plural for people)
+回来|huílai|vrátiť sa|come back
+更|gèng|ešte viac|even more
+没事|méi shì|to nič; v poriadku|it's nothing; it's okay
+那些|nàxiē|tamtie|those
+可|kě|ale; naozaj|but; really
+明白|míngbai|rozumieť; jasný|understand; clear
+的话|dehuà|ak (na konci vety)|if (at end of clause)
+下|xià|dole; ďalší; zísť|down; next; go down
+星期|xīngqī|týždeň|week
+离开|líkāi|odísť|leave
+一切|yíqiè|všetko|everything
+相信|xiāngxìn|veriť|believe
+想要|xiǎng yào|chcieť|want
+发生|fāshēng|stať sa|happen
+起来|qǐlai|vstať; (začiatok deja)|get up; (start of action)
+真是|zhēn shì|naozaj je|really is
+抱歉|bàoqiàn|ľutovať; prepáčte|be sorry; sorry
+晚|wǎn|neskoro; neskorý|late
+必须|bìxū|musieť|must
+认为|rènwéi|myslieť si|think; believe
+那里|nàlǐ|tam|there
+也许|yěxǔ|možno|maybe
+有人|yǒu rén|niekto|someone
+该|gāi|mal by; je rad na|should; be one's turn
+杀|shā|zabiť|kill
+准备|zhǔnbèi|pripraviť sa|prepare
+并|bìng|a (knižne); vôbec nie|and (formal); not at all
+出来|chūlai|vyjsť (von k hovoriacemu)|come out
+与|yǔ|s; a (knižne)|with; and (formal)
+时|shí|keď; čas|when; time
+不过|búguò|ale; avšak|but; however
+有点|yǒudiǎn|trochu (nepríjemne)|a bit (unpleasantly)
+为了|wèile|aby; kvôli|in order to; for
+带|dài|priniesť; vziať so sebou|bring; take along
+女人|nǚrén|žena|woman
+后|hòu|po; potom|after; then
+只有|zhǐyǒu|iba; len|only; just
+过来|guòlai|poď sem|come here
+得到|dédào|získať|get; obtain
+很多|hěn duō|veľa|a lot
+任何|rènhé|akýkoľvek|any
+问|wèn|pýtať sa|ask
+这种|zhè zhǒng|tento druh|this kind
+好喝|hǎohē|chutný (nápoj)|tasty (drink)
+感觉|gǎnjué|cítiť; pocit|feel; feeling
+以为|yǐwéi|myslieť si (mylne)|mistakenly think
+而且|érqiě|a navyše|and also
+生活|shēnghuó|život; žiť|life; live
+男人|nánrén|muž|man
+之前|zhīqián|pred; predtým|before; previously
+洗|xǐ|umyť|wash
+手|shǒu|ruka|hand
+发现|fāxiàn|zistiť; objaviť|discover; find out
+噢|ō|aha; ó|oh
+快点|kuài diǎn|rýchlejšie; ponáhľaj sa|hurry up
+嗨|hāi|ahoj|hi
+妈|mā|mama|mom
+不用|búyòng|netreba|no need
+谢|xiè|ďakovať|thank
+地|de|(častica: príslovka)|(particle: adverb)
+慢慢|mànmàn|pomaly|slowly
+向|xiàng|smerom k; k|toward; to
+没错|méi cuò|presne tak|that's right
+世界|shìjiè|svet|world
+记得|jìde|pamätať si|remember
+不错|búcuò|dobrý; nie zlý|pretty good; not bad
+肯定|kěndìng|určite|definitely
+最好|zuìhǎo|najlepšie; radšej|best; had better
+不行|bùxíng|nejde to; nemožno|won't do; not possible
+等等|děngdeng|počkaj|wait a moment
+嘛|ma|(častica: veď; samozrejmosť)|(particle: "obviously")
+出去|chūqu|ísť von|go out
+么|me|(častica; v 什么, 这么)|(particle; in 什么, 这么)
+亲爱|qīn'ài|drahý; milý|dear
+或|huò|alebo|or
+如何|rúhé|ako|how
+到底|dàodǐ|vlastne; napokon|after all; actually
+最后|zuìhòu|nakoniec; posledný|finally; last
+上帝|Shàngdì|Boh|God
+正在|zhèngzài|práve (robiť)|in the middle of (doing)
+那样|nàyàng|tak; taký|like that; such
+父亲|fùqin|otec|father
+跑|pǎo|bežať|run
+只要|zhǐyào|stačí, aby; pokiaľ|as long as
+干什么|gàn shénme|čo robiť; načo|what to do; what for
+好像|hǎoxiàng|zdá sa|seem
+继续|jìxù|pokračovať|continue
+出|chū|vyjsť; von|go out; out
+门|mén|dvere|door
+今晚|jīnwǎn|dnes večer|tonight
+回家|huí jiā|ísť domov|go home
+它们|tāmen|ony (veci, zvieratá)|they (things, animals)
+听到|tīngdào|počuť|hear
+干嘛|gànmá|prečo; čo robiť|why; what are you doing
+干|gàn|robiť|do
+要是|yàoshi|ak|if
+女孩|nǚhái|dievča|girl
+所|suǒ|(častica; ktorý)|(particle; which)
+马上|mǎshàng|hneď|right away
+过去|guòqu|minulosť; prejsť tam|the past; go over there
+以前|yǐqián|predtým|before; previously
+看起来|kàn qǐlai|vyzerá to|looks like
+完全|wánquán|úplne|completely
+怎样|zěnyàng|ako; aký|how; what kind
+回去|huíqu|vrátiť sa tam|go back
+以|yǐ|s; pomocou (knižne)|with; by means of (formal)
+身份|shēnfèn|identita; postavenie|identity; status
+却|què|ale; predsa|yet; however
+其他|qítā|iný; ostatný|other
+永远|yǒngyuǎn|navždy|forever
+家伙|jiāhuo|chlapík|guy
+之后|zhīhòu|potom; po|after; afterwards
+或者|huòzhě|alebo|or
+火车|huǒchē|vlak|train
+小心|xiǎoxīn|pozor; opatrne|careful; watch out
+行|xíng|dobre; ide to|okay; will do
+别人|biérén|iní ľudia|other people
+成为|chéngwéi|stať sa (kým)|become
+不到|bú dào|menej ako; nedosiahnuť|less than; not reach
+情况|qíngkuàng|situácia|situation
+送|sòng|darovať; odviezť|give (a gift); take (someone)
+伙计|huǒji|kamoš; chlape|buddy; dude
+见到|jiàndào|stretnúť; vidieť|meet; see
+总是|zǒngshì|vždy|always
+好好|hǎohǎo|poriadne|properly
+如此|rúcǐ|takto; tak|like this; so
+原来|yuánlái|pôvodne; a teda|originally; so it turns out
+了解|liǎojiě|poznať; rozumieť|know well; understand
+兄弟|xiōngdì|brat; kamoš|brother; buddy
+没什么|méi shénme|to nič|it's nothing
+结束|jiéshù|skončiť|end
+机会|jīhuì|príležitosť|opportunity
+已|yǐ|už (knižne)|already (formal)
+卖完|màiwán|vypredať|sold out
+安全|ānquán|bezpečný|safe
+拜托|bàituō|prosím ťa|please; I beg you
+决定|juédìng|rozhodnúť|decide
+穿|chuān|mať oblečené; obliecť si|wear; put on
+确定|quèdìng|istý; určiť|sure; determine
+里面|lǐmiàn|vnútri|inside
+呃|è|ehm|uh
+怎么办|zěnme bàn|čo teraz|what now
+还好|hái hǎo|ako-tak; našťastie|not bad; luckily
+无法|wúfǎ|nemôcť|unable
+站|zhàn|stáť; stanica|stand; station
+清楚|qīngchu|jasný; zreteľne|clear; clearly
+有些|yǒuxiē|niektorí; trochu|some; somewhat
+帮助|bāngzhù|pomoc; pomôcť|help
+长官|zhǎngguān|veliteľ; pane (vojak)|commander; sir (military)
+公司|gōngsī|firma|company
+打电话|dǎ diànhuà|telefonovať|make a phone call
+房子|fángzi|dom|house
+根本|gēnběn|vôbec|at all
+办法|bànfǎ|spôsob; riešenie|way; solution
+不管|bùguǎn|bez ohľadu na|no matter
+关于|guānyú|o; ohľadom|about
+搞|gǎo|robiť; spraviť|do; make
+计划|jìhuà|plán; plánovať|plan
+唯一|wéiyī|jediný|only; sole
+来说|láishuō|pre (koho)|for (someone)
+看着|kànzhe|pozerať sa na|look at
+宝贝|bǎobèi|zlatko|baby; darling
+哭|kū|plakať|cry
+每个|měi ge|každý|every
+怎么回事|zěnme huí shì|čo sa deje|what's going on
+其实|qíshí|v skutočnosti|actually
+人们|rénmen|ľudia|people
+真正|zhēnzhèng|skutočný|real; true
+甚至|shènzhì|dokonca|even
+那边|nàbiān|tam; tamtá strana|there; over there
+弄|nòng|spraviť; pokaziť|make; mess up
+喔|ō|aha; ó|oh
+进来|jìnlai|vojsť (sem)|come in
+夫人|fūrén|pani; manželka|madam; wife
+之|zhī|(knižná častica)|(literary particle)
+旅|lǚ|cesta; výlet|journey; trip
+有意思|yǒu yìsi|zaujímavý|interesting
+愿意|yuànyì|byť ochotný|be willing
+麻烦|máfan|problém; obťažovať|trouble; bother
+睡|shuì|spať|sleep
+哇|wā|wow|wow
+就要|jiù yào|čoskoro; už|about to
+打算|dǎsuàn|plánovať|plan to
+完|wán|dokončiť|finish
+故事|gùshi|príbeh|story
+种|zhǒng|druh|kind; type
+害怕|hàipà|báť sa|be afraid
+救|jiù|zachrániť|save
+由|yóu|od; (kým)|from; by
+那儿|nàr|tam|there
+枪|qiāng|zbraň; pištoľ|gun
+母亲|mǔqin|matka|mother
+另|lìng|iný; ďalší|another
+下来|xiàlai|zísť dole|come down
+听说|tīngshuō|počuť (že)|hear (that)
+不了|bù liǎo|nedokázať|can't (do it)
+注意|zhùyì|dávať pozor|pay attention
+改变|gǎibiàn|zmeniť|change
+请客|qǐng kè|pozvať; zaplatiť za iných|treat; pay for others
+没关系|méi guānxi|to nevadí|it doesn't matter
+接受|jiēshòu|prijať|accept
+妻子|qīzi|manželka|wife
+老|lǎo|starý|old
+失去|shīqù|stratiť|lose
+回到|huídào|vrátiť sa do|return to
+以后|yǐhòu|neskôr; v budúcnosti|later; in the future
+话|huà|reč; slová|speech; words
+是否|shìfǒu|či|whether
+疯|fēng|šialený|crazy
+生命|shēngmìng|život|life
+她们|tāmen|ony (ženy)|they (women)
+进去|jìnqu|vojsť (tam)|go in
+抓|zhuā|chytiť|catch; grab
+记|jì|pamätať; zapisovať|remember; write down
+女士|nǚshì|pani|Ms.; lady
+原因|yuányīn|dôvod|reason
+刚才|gāngcái|pred chvíľou|a moment ago
+保护|bǎohù|chrániť|protect
+选择|xuǎnzé|vybrať; voľba|choose; choice
+笑|xiào|smiať sa|laugh
+从来|cónglái|nikdy (s negáciou)|never (with negation)
+当时|dāngshí|vtedy|at that time
+出现|chūxiàn|objaviť sa|appear
+结婚|jiéhūn|oženiť sa; vydať sa|get married
+些|xiē|niekoľko|some; a few
+至少|zhìshǎo|aspoň|at least
+挺|tǐng|dosť; celkom|quite; rather
+成功|chénggōng|úspech; uspieť|success; succeed
+奇怪|qíguài|zvláštny|strange
+虽然|suīrán|hoci|although
+忘|wàng|zabudnúť|forget
+太好了|tài hǎo le|výborne|great
+身上|shēnshang|pri sebe; na tele|on you; on the body
+或许|huòxǔ|možno|perhaps
+讲|jiǎng|hovoriť; rozprávať|speak; tell
+保证|bǎozhèng|zaručiť|guarantee
+外面|wàimiàn|vonku|outside
+丈夫|zhàngfu|manžel|husband
+连|lián|dokonca aj|even
+国家|guójiā|krajina; štát|country; state
+整个|zhěnggè|celý|whole
+特别|tèbié|zvlášť; špeciálny|especially; special
+那种|nà zhǒng|taký druh|that kind
+不同|bùtóng|odlišný|different
+想法|xiǎngfǎ|nápad; názor|idea; opinion
+很快|hěn kuài|čoskoro; veľmi rýchlo|soon; very quickly
+变成|biànchéng|zmeniť sa na|turn into
+够|gòu|stačiť; dosť|be enough; enough
+难道|nándào|vari|could it be
+样子|yàngzi|vzhľad; podoba|appearance; look
+倒|dào|naliať|pour
+谈谈|tántan|porozprávať sa|have a talk
+危险|wēixiǎn|nebezpečný|dangerous
+开心|kāixīn|šťastný|happy
+才能|cáinéng|až potom môcť|only then can
+闭嘴|bì zuǐ|drž hubu|shut up
+正|zhèng|práve|just now; right now
+进行|jìnxíng|prebiehať; vykonávať|be underway; carry out
+刚刚|gānggāng|práve teraz|just now
+而已|éryǐ|len; nič viac|that's all
+完成|wánchéng|dokončiť|complete
+方式|fāngshì|spôsob|way; manner
+做到|zuòdào|dokázať|manage to do
+爸|bà|otec (hovorovo)|dad
+声音|shēngyīn|hlas; zvuk|voice; sound
+好听|hǎotīng|pekný (na počúvanie)|pleasant to hear
+音乐|yīnyuè|hudba|music
+看来|kànlái|zdá sa|it seems
+只能|zhǐ néng|môcť iba|can only
+太太|tàitai|manželka; pani|wife; Mrs.
+下去|xiàqu|zísť; pokračovať|go down; continue
+绝对|juéduì|absolútne|absolutely
+处理|chǔlǐ|vyriešiť; vybaviť|deal with; handle
+眼睛|yǎnjing|oči|eyes
+通过|tōngguò|prejsť; cez|pass; through
+考试|kǎoshì|skúška|exam
+行动|xíngdòng|akcia; konať|action; act
+啥|shá|čo (hovorovo)|what (colloquial)
+感到|gǎndào|cítiť|feel
+最近|zuìjìn|v poslednej dobe|recently
+各位|gèwèi|všetci (oslovenie)|everyone (address)
+这边|zhèbiān|sem; táto strana|here; this side
+待|dāi|zostať|stay
+掉|diào|spadnúť; stratiť|fall; lose
+猜|cāi|hádať|guess
+使|shǐ|spôsobiť|cause; make
+作为|zuòwéi|ako|as
+于|yú|v; o (knižne)|in; at (formal)
+生|shēng|narodiť sa|be born
+容易|róngyì|ľahký|easy
+直到|zhídào|až do|until
+求|qiú|prosiť|beg
+比赛|bǐsài|zápas; súťaž|match; competition
+拉|lā|ťahať|pull
+曾|céng|kedysi (knižne)|once (formal)
+有趣|yǒuqù|zaujímavý; zábavný|interesting; fun
+就算|jiùsuàn|aj keby|even if
+活着|huózhe|byť nažive|be alive
+努力|nǔlì|usilovne; snažiť sa|hard; try hard
+帮忙|bāngmáng|pomôcť|help
+留下|liúxià|zostať; nechať|stay; leave behind
+同意|tóngyì|súhlasiť|agree
+参加|cānjiā|zúčastniť sa|take part
+赢|yíng|vyhrať|win
+死亡|sǐwáng|smrť|death
+怕|pà|báť sa|be afraid
+每|měi|každý|every
+上面|shàngmiàn|hore; navrchu|above; on top
+结果|jiéguǒ|výsledok; nakoniec|result; in the end
+消息|xiāoxi|správa|news
+要求|yāoqiú|požadovať; požiadavka|demand; requirement
+理解|lǐjiě|rozumieť; pochopiť|understand; comprehend
+曾经|céngjīng|kedysi|once; formerly
+收到|shōudào|dostať|receive
+照顾|zhàogù|starať sa|take care of
+人类|rénlèi|ľudstvo|humanity
+主意|zhǔyi|nápad|idea
+保持|bǎochí|udržiavať|keep; maintain
+安静|ānjìng|tichý|quiet
+成|chéng|stať sa; zmeniť sa|become; turn into
+换|huàn|vymeniť|exchange; change
+美元|měiyuán|dolár|US dollar
+人民币|rénmínbì|jüan|renminbi; yuan
+存在|cúnzài|existovať|exist
+晚安|wǎn'ān|dobrú noc|good night
+确实|quèshí|naozaj|indeed
+全部|quánbù|všetko|all; whole
+靠|kào|spoliehať sa; pri|rely on; by
+呆|dāi|zostať|stay
+起|qǐ|začať; vstať|start; get up
+讨厌|tǎoyàn|nenávidieť; protivný|hate; annoying
+俩|liǎ|dvaja|the two
+突然|tūrán|zrazu|suddenly
+多久|duō jiǔ|ako dlho|how long
+老婆|lǎopo|manželka (hovorovo)|wife (colloquial)
+不再|bú zài|už nie|no longer
+酒|jiǔ|alkohol; víno|alcohol; wine
+开玩笑|kāi wánxiào|žartovať|joke
+放在|fàng zài|položiť na|put on
+进入|jìnrù|vstúpiť|enter
+父母|fùmǔ|rodičia|parents
+总统|zǒngtǒng|prezident|president
+伤害|shānghài|ublížiť|hurt
+回答|huídá|odpovedať|answer
+早|zǎo|skoro|early
+除了|chúle|okrem|except; besides
+派|pài|poslať|send
+咱们|zánmen|my (aj s tebou)|we (including you)
+自由|zìyóu|sloboda; slobodný|freedom; free
+可爱|kě'ài|roztomilý|cute
+抓住|zhuāzhù|chytiť|catch; hold on
+路|lù|cesta|road
+条|tiáo|(počítacie slovo: dlhé veci)|(measure word: long things)
+谈|tán|rozprávať sa|talk
+简单|jiǎndān|jednoduchý|simple
+能够|nénggòu|byť schopný|be able to
+昨晚|zuówǎn|včera večer|last night
+跳|tiào|skákať|jump
+秘密|mìmì|tajomstvo|secret
+战争|zhànzhēng|vojna|war
+其中|qízhōng|medzi nimi|among them
+内|nèi|vnútri; v rámci|within; inside
+之间|zhījiān|medzi|between
+大概|dàgài|približne|approximately
+控制|kòngzhì|ovládať|control
+刚|gāng|práve|just
+小孩|xiǎohái|dieťa|child
+带来|dài lái|priniesť|bring
+停止|tíngzhǐ|prestať|stop
+因此|yīncǐ|preto|therefore
+花|huā|kvet; minúť|flower; spend
+证明|zhèngmíng|dokázať|prove
+替|tì|namiesto; za|instead of; for
+解释|jiěshì|vysvetliť|explain
+终于|zhōngyú|konečne|finally
+耶|yē|juchú; jéj|yay
+调查|diàochá|vyšetrovať|investigate
+为何|wèihé|prečo (knižne)|why (formal)
+留|liú|zostať; nechať|stay; leave
+步|bù|krok|step
+糟糕|zāogāo|hrozné; do čerta|terrible; oh no
+任务|rènwu|úloha|task; mission
+武器|wǔqì|zbraň|weapon
+家里|jiā lǐ|doma|at home
+头|tóu|hlava|head
+小子|xiǎozi|chlapec; chalan|boy; kid
+来到|láidào|prísť do|come to
+解决|jiějué|vyriešiť|solve
+家人|jiārén|rodina|family members
+坐下|zuòxià|sadnúť si|sit down
+直接|zhíjiē|priamo|directly
+办公室|bàngōngshì|kancelária|office
+放弃|fàngqì|vzdať sa|give up
+鬼|guǐ|duch; čert|ghost; devil
+加油|jiā yóu|do toho; drž sa|come on; keep it up
+方法|fāngfǎ|metóda; spôsob|method; way
+游戏|yóuxì|hra|game
+即使|jíshǐ|aj keby|even if
+年轻|niánqīng|mladý|young
+大人|dàren|dospelý|adult
+使用|shǐyòng|používať|use
+老板|lǎobǎn|šéf; majiteľ|boss; owner
+想想|xiǎngxiang|premyslieť|think it over
+目标|mùbiāo|cieľ|goal
+变得|biàn de|stať sa (akým)|become (some way)
+可怕|kěpà|strašný|terrible; scary
+拿到|nádào|získať; dostať|get; obtain
+考虑|kǎolǜ|zvážiť|consider
+个人|gèrén|osobný; jednotlivec|personal; individual
+开枪|kāi qiāng|vystreliť|fire a gun
+想到|xiǎngdào|napadnúť|think of
+等待|děngdài|čakať|wait
+再说|zàishuō|okrem toho; neskôr uvidíme|besides; we'll see
+聪明|cōngming|múdry|smart
+姑娘|gūniang|dievča|girl
+地球|dìqiú|Zem|Earth
+感谢|gǎnxiè|ďakovať|thank
+命令|mìnglìng|rozkaz|order
+阻止|zǔzhǐ|zabrániť|stop; prevent
+消失|xiāoshī|zmiznúť|disappear
+心|xīn|srdce|heart
+第|dì|(radové číslo)|(ordinal prefix)
+冷静|lěngjìng|pokojný|calm
+似乎|sìhū|zdá sa|seem
+联系|liánxì|kontaktovať|contact
+家庭|jiātíng|rodina|family
+痛苦|tòngkǔ|bolesť; utrpenie|pain; suffering
+城市|chéngshì|mesto|city
+力量|lìliang|sila|strength
+对于|duìyú|pre; o|for; about
+未来|wèilái|budúcnosť|future
+男孩|nánhái|chlapec|boy
+博士|bóshì|doktor (PhD)|doctor (PhD)
+疯狂|fēngkuáng|šialený|crazy
+报告|bàogào|správa; hlásiť|report
+放下|fàngxià|položiť|put down
+完美|wánměi|dokonalý|perfect
+答应|dāying|sľúbiť; súhlasiť|promise; agree
+证据|zhèngjù|dôkaz|evidence
+本来|běnlái|pôvodne|originally
+负责|fùzé|byť zodpovedný|be responsible
+检查|jiǎnchá|skontrolovať|check
+厉害|lìhai|skvelý; silný|awesome; fierce
+拥有|yōngyǒu|vlastniť|own
+正常|zhèngcháng|normálny|normal
+并且|bìngqiě|a tiež|and also
+否则|fǒuzé|inak|otherwise
+以及|yǐjí|a tiež (knižne)|as well as (formal)
+香港|Xiānggǎng|Hongkong|Hong Kong
+重新|chóngxīn|znova|again; anew
+忘记|wàngjì|zabudnúť|forget
+研究|yánjiū|výskum; skúmať|research
+附近|fùjìn|v okolí|nearby
+不然|bùrán|inak|otherwise
+太棒了|tài bàng le|super|awesome
+棒|bàng|skvelý|great
+脸|liǎn|tvár|face
+学者|xuézhě|učenec|scholar
+有名|yǒumíng|známy|famous
+加入|jiārù|pridať sa|join
+唱|chàng|spievať|sing
+反正|fǎnzhèng|aj tak|anyway
+政府|zhèngfǔ|vláda|government
+身边|shēnbiān|po boku|by one's side
+遇到|yùdào|stretnúť|run into; meet
+伟大|wěidà|veľkolepý|great; grand
+接|jiē|vyzdvihnúť; zdvihnúť|pick up; answer
+仍然|réngrán|stále|still
+开车|kāichē|šoférovať|drive
+代表|dàibiǎo|zástupca; zastupovať|representative; represent
+陪|péi|sprevádzať|accompany
+若|ruò|ak (knižne)|if (formal)
+尸体|shītǐ|mŕtvola|corpse
+具|jù|(počítacie slovo: telo)|(measure word: bodies)
+比较|bǐjiào|pomerne; porovnať|relatively; compare
+年|nián|rok|year
+紧张|jǐnzhāng|nervózny|nervous
+监狱|jiānyù|väzenie|prison
+位置|wèizhi|miesto; poloha|place; position
+随便|suíbiàn|ako chceš; hocijako|whatever; casually
+选|xuǎn|vybrať|choose
+偷|tōu|ukradnúť|steal
+安排|ānpái|zariadiť|arrange
+表演|biǎoyǎn|predstavenie|performance
+除非|chúfēi|ibaže|unless
+老兄|lǎoxiōng|starý brat; kamoš|old buddy; dude
+久|jiǔ|dlho|long (time)
+支持|zhīchí|podporovať|support
+必要|bìyào|nutný|necessary
+人生|rénshēng|život|life
+正确|zhèngquè|správny|correct
+跟着|gēnzhe|nasledovať|follow
+交给|jiāo gěi|odovzdať|hand over to
+叔叔|shūshu|strýko|uncle
+食物|shíwù|jedlo|food
+事实|shìshí|fakt|fact
+简直|jiǎnzhí|priam|simply; practically
+离|lí|od; vzdialený|from; away from
+场|chǎng|(počítacie slovo: zápas, film)|(measure word: matches, films)
+美丽|měilì|krásny|beautiful
+再次|zàicì|znova|once again
+案子|ànzi|prípad|case
+哈|hā|ha|ha
+可怜|kělián|úbohý|pitiful
+教|jiāo|učiť (niekoho)|teach
+首先|shǒuxiān|najprv|first of all
+另外|lìngwài|okrem toho|in addition
+提供|tígōng|poskytovať|provide
+记住|jìzhù|zapamätať si|remember; memorize
+听见|tīngjiàn|počuť|hear
+信|xìn|list; veriť|letter; believe
+封|fēng|(počítacie slovo: list)|(measure word: letters)
+国王|guówáng|kráľ|king
+面前|miànqián|pred (niekým)|in front of (someone)
+几乎|jīhū|takmer|almost
+日子|rìzi|deň; život|day; life
+再也|zài yě|už nikdy (s negáciou)|never again (with negation)
+早就|zǎo jiù|už dávno|long ago
+逼|bī|nútiť|force
+有关|yǒuguān|súvisiaci|related
+放开|fàngkāi|pustiť|let go
+信息|xìnxī|informácia; správa|information; message
+发|fā|poslať|send
+不得不|bùdébù|nemať na výber|have no choice but to
+发誓|fāshì|prisahať|swear
+钥匙|yàoshi|kľúč|key
+错误|cuòwù|chyba|mistake
+放松|fàngsōng|uvoľniť sa|relax
+约会|yuēhuì|rande|date
+船|chuán|loď|boat
+打扰|dǎrǎo|rušiť|disturb
+女|nǚ|žena; ženský|woman; female
+男|nán|muž; mužský|man; male
+二|èr|dva|two
+到处|dàochù|všade|everywhere
+攻击|gōngjī|útok; zaútočiť|attack
+份|fèn|porcia; (počítacie slovo)|portion; (measure word)
+建议|jiànyì|návrh; navrhnúť|suggestion; suggest
+日本|Rìběn|Japonsko|Japan
+理由|lǐyóu|dôvod|reason
+事实上|shìshí shang|v skutočnosti|in fact
+跳舞|tiàowǔ|tancovať|dance
+生气|shēngqì|hnevať sa|be angry
+试试|shìshi|skúsiť|give it a try
+信任|xìnrèn|dôverovať|trust
+此|cǐ|tento (knižne)|this (formal)
+差不多|chàbuduō|približne; skoro rovnaký|about; almost the same
+原谅|yuánliàng|odpustiť|forgive
+神|shén|boh|god
+经常|jīngcháng|často|often
+的确|díquè|skutočne|indeed
+之一|zhī yī|jeden z|one of
+幸福|xìngfú|šťastie; šťastný|happiness; happy
+哎|āi|hej; ach|hey; ah
+便|biàn|hneď; potom|then; right away
+马|mǎ|kôň|horse
+骑|qí|jazdiť (na bicykli, koni)|ride (a bike, horse)
+算|suàn|počítať; považovať|calculate; consider
+正是|zhèng shì|presne to|exactly that
+不必|búbì|netreba|no need
+担心|dānxīn|obávať sa|worry
+最大|zuì dà|najväčší|biggest
+幸运|xìngyùn|šťastie (náhoda)|luck; lucky
+丢|diū|stratiť|lose
+而是|ér shì|ale (nie X, ale Y)|but rather
+住手|zhù shǒu|prestaň!|stop it!
+动物|dòngwù|zviera|animal
+道歉|dàoqiàn|ospravedlniť sa|apologize
+严重|yánzhòng|vážny|serious
+人家|rénjia|iní ľudia|other people
+坚持|jiānchí|vytrvať|persist
+想象|xiǎngxiàng|predstaviť si|imagine
+按|àn|stlačiť|press
+礼物|lǐwù|darček|gift
+每次|měi cì|zakaždým|every time
+将军|jiāngjūn|generál|general
+剩下|shèngxià|zostať; zvyšok|be left; the rest
+老爸|lǎobà|otec (hovorovo)|dad (colloquial)
+系统|xìtǒng|systém|system
+全都|quán dōu|všetci; všetko|all; everything
+组织|zǔzhī|organizácia|organization
+敌人|dírén|nepriateľ|enemy
+看上去|kàn shàngqu|vyzerať|look; appear
+老天|lǎotiān|nebesá|heavens
+认真|rènzhēn|vážne; poctivo|seriously; diligently
+关心|guānxīn|starať sa o|care about
+骗|piàn|klamať; podviesť|lie; deceive
+生意|shēngyi|obchod; biznis|business
+上去|shàngqu|ísť hore|go up
+值得|zhíde|stáť za to|be worth
+搞定|gǎodìng|vybaviť|get it done
+寻找|xúnzhǎo|hľadať|search for
+派对|pàiduì|párty|party
+许多|xǔduō|veľa|many
+下次|xià cì|nabudúce|next time
+通知|tōngzhī|oznámiť|notify
+救命|jiùmìng|pomoc!|help!
+表现|biǎoxiàn|výkon; prejaviť|performance; show
+利用|lìyòng|využiť|make use of
+受伤|shòushāng|zraniť sa|get hurt
+后来|hòulái|potom; neskôr|later; afterwards
+精神|jīngshen|energický; duch|energetic; spirit
+居然|jūrán|prekvapivo|surprisingly
+受到|shòudào|dostať; byť vystavený|receive; be subjected to
+大学|dàxué|univerzita|university
+那时|nàshí|vtedy|at that time
+既然|jìrán|keďže|since
+有时|yǒushí|niekedy|sometimes
+米|mǐ|ryža; meter|rice; meter
+总|zǒng|stále; vždy|always
+真相|zhēnxiàng|pravda|the truth
+恨|hèn|nenávidieť|hate
+卡|kǎ|karta|card
+警官|jǐngguān|policajt (oslovenie)|officer (address)
+属于|shǔyú|patriť|belong
+怪|guài|zvláštny; obviňovať|strange; blame
+名|míng|meno; (počítacie slovo: osoby)|name; (measure word: people)
+怀疑|huáiyí|podozrievať; pochybovať|suspect; doubt
+战斗|zhàndòu|boj; bojovať|battle; fight
+承认|chéngrèn|priznať|admit
+法律|fǎlǜ|zákon|law
+记录|jìlù|záznam|record
+见面|jiànmiàn|stretnúť sa|meet
+能力|nénglì|schopnosť|ability
+足够|zúgòu|dostatočne|sufficiently
+瞧|qiáo|pozrieť sa|look
+同样|tóngyàng|rovnaký; rovnako|same; likewise
+拒绝|jùjué|odmietnuť|refuse
+他妈的|tāmāde|do riti (vulgárne)|fucking; damn it (vulgar)
+该死|gāisǐ|sakra; prekliaty|damn; damned
+混蛋|hùndàn|hajzel|bastard
+笨蛋|bèndàn|hlupák|fool
+白痴|báichī|idiot|idiot
+屁股|pìgu|zadok|butt

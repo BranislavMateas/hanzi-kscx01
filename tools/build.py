@@ -8,8 +8,8 @@ def rows(f,n):
         p=l.split('|');assert len(p)==n,l
         out.append(p)
     return out
-lex={a:[b,c] for a,b,c in rows('lex.txt',3)}
-assert len(lex)==len(rows('lex.txt',3))
+lex={a:[b,c,d] for a,b,c,d in rows('lex.txt',4)}
+assert len(lex)==len(rows('lex.txt',4))
 groups=[];items=[];g=None;seen=set()
 TIME={'今天','明天','昨天','今年','明年','现在','星期一','星期四','星期五','晚上','早上','上午','中午','下午'}
 PRON={'我','你','他','她','我们','你们','他们'}
@@ -23,8 +23,8 @@ for l in open('sent.txt',encoding='utf8'):
     t=[x for x in raw if x not in P]
     for x in t:assert x in lex,'missing lex: '+x
     sid=hashlib.md5(zh.encode()).hexdigest()[:8]
-    it=dict(id=sid,g=g,zh=zh,py=p[1],sk=p[2],t=t,a=f's_{sid}.mp3')
-    if len(p)>3:it['p']=p[3]
+    it=dict(id=sid,g=g,zh=zh,py=p[1],sk=p[2],en=p[3],t=t,a=f's_{sid}.mp3')
+    if len(p)>4:it['p']=p[4]
     if len(t)>2 and ((t[0] in TIME and t[1] in PRON) or (t[0] in PRON and t[1] in TIME)) and '，' not in zh:
         it['alt']=''.join([t[1],t[0]]+t[2:])
     items.append(it)

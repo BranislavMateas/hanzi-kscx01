@@ -444,7 +444,7 @@ function charCard(c) {
     <dt>Pomôcka</dt><dd>${esc(c.n)}</dd>
   </dl>
   ${examples(c.c).length ? wordList(examples(c.c)) : ""}
-  ${charSents(c.c).length ? `<div class="ex">${charSents(c.c).map(s => `<button data-a="${s.a}"><span class="zh">${esc(s.zh)}</span><span class="e">${esc(s.sk)}</span></button>`).join("")}</div>` : ""}`;
+  ${charSents(c.c).length ? `<div class="ex">${charSents(c.c).map(s => `<button data-a="${s.a}"><span class="zh">${esc(s.zh)}</span><span class="e">${esc(s.sk)}${trEn(s)}</span></button>`).join("")}</div>` : ""}`;
 }
 const charSents = c => sents.filter(s => s.zh.includes(c)).sort((a, b) => a.zh.length - b.zh.length).slice(0, 3);
 function detail(c, back) {
@@ -493,7 +493,8 @@ function smartSession() {
 }
 
 // ---------- sentences: learn, browse, shadow ----------
-const tokRow = (s, kn) => `<div class="toks">${s.t.map(t => `<span class="tok ${kn && !kn.has(t) ? "new" : ""}"><b class="zh">${esc(t)}</b><i>${esc(lex[t][0])}</i><small>${esc(lex[t][1])}</small></span>`).join("")}</div>`;
+const trEn = s => `<span class="en">${esc(s.en)}</span>`;
+const tokRow = (s, kn) => `<div class="toks">${s.t.map(t => `<span class="tok ${kn && !kn.has(t) ? "new" : ""}"><b class="zh">${esc(t)}</b><i>${esc(lex[t][0])}</i><small>${esc(lex[t][1])}</small><small class="en">${esc(lex[t][2])}</small></span>`).join("")}</div>`;
 const sPlays = s => `<button class="play" data-a="${s.a}">🔊 prehrať</button> <button class="play" data-a="${s.a}" data-slow="1">🐢 pomaly</button>`;
 function learnSents(list, back = home) {
   let i = 0;
@@ -504,7 +505,7 @@ function learnSents(list, back = home) {
     <div class="panel pop">
       <div class="szh zh">${esc(s.zh)}</div>
       <div class="py spy">${esc(s.py)}</div>
-      <div class="mean">${esc(s.sk)}</div>
+      <div class="mean">${esc(s.sk)}${trEn(s)}</div>
       <div class="center">${sPlays(s)}</div>
       ${tokRow(s, kn)}
       <p class="hint">${fresh.length ? `🆕 Nové slová: ${fresh.map(esc).join(" · ")} · ` : ""}Povedz to nahlas aspoň dvakrát.${s.p ? ` · Učebnica ${esc(s.p)}` : ""}</p>
@@ -536,7 +537,7 @@ function groupView(g) {
     <button class="btn gold" id="exam" ${kn.length >= 5 ? "" : "disabled"}>📝 Skúška</button>
   </div>
   <p class="hint" style="margin-bottom:12px">${kn.length >= 5 ? `Skúška: 3 životy, ${Math.min(kn.length, 20)} viet z tých, čo už vieš.${left ? " Korunka až za celú sadu." : ""}` : "Skúška sa odomkne po 5 naučených vetách."}</p>
-  <div class="ex slist">${all.map(s => `<button data-a="${s.a}" class="${known("s:" + s.id) ? "kn" : ""}"><span class="st">${known("s:" + s.id) ? "✓" : "○"}</span><span class="zh">${esc(s.zh)}</span><span class="m"><span class="p">${esc(s.py)}</span><span class="e">${esc(s.sk)}${s.p ? " · " + esc(s.p) : ""}</span></span></button>`).join("")}</div>`);
+  <div class="ex slist">${all.map(s => `<button data-a="${s.a}" class="${known("s:" + s.id) ? "kn" : ""}"><span class="st">${known("s:" + s.id) ? "✓" : "○"}</span><span class="zh">${esc(s.zh)}</span><span class="m"><span class="p">${esc(s.py)}</span><span class="e">${esc(s.sk)}${s.p ? " · " + esc(s.p) : ""}${trEn(s)}</span></span></button>`).join("")}</div>`);
   wirePlays();
   back.onclick = home;
   if (left) learn.onclick = () => learnSents(nextSents(NEW_SENT_ROUND, g), () => groupView(g));
@@ -564,7 +565,7 @@ function shadow(list, back = home) {
     if (i >= list.length) { run = false; toast("🎙️", "Hotovo!", list.length + " viet nahlas"); gainXP(list.length * 2); return back(); }
     const s = list[i];
     $(`<div class="top"><button class="x" id="q">×</button><div class="bar"><i style="width:${i / list.length * 100}%"></i></div><span class="pill">${i + 1}/${list.length}</span></div>
-    <div class="panel pop"><div class="szh zh">${esc(s.zh)}</div><div class="py spy">${esc(s.py)}</div><div class="mean">${esc(s.sk)}</div>
+    <div class="panel pop"><div class="szh zh">${esc(s.zh)}</div><div class="py spy">${esc(s.py)}</div><div class="mean">${esc(s.sk)}${trEn(s)}</div>
     <p class="hint" id="sh">🔊 Počúvaj…</p></div>
     <div class="next"><button class="btn ghost" id="nx">Preskočiť →</button></div>`);
     q.onclick = stop;
@@ -596,7 +597,7 @@ function distractors(item, n = 3) {
 }
 const bigPlay = q => `<div class="center" style="margin:40px 0 10px"><button class="play" id="rep" style="font-size:22px;padding:14px 26px">🔊 ešte raz</button></div><p class="hint">${q}</p>
   <p class="center"><button class="play" id="nolisten">🙉 Teraz nemôžem počúvať</button></p>`;
-const sFb = s => `<span class="zh">${esc(s.zh)}</span><br><b style="color:var(--red)">${esc(s.py)}</b><br>${esc(s.sk)}<br><span class="fbp">${sPlays(s)}</span><br><small>${s.t.map(t => `${esc(t)} ${esc(lex[t][1])}`).join(" · ")}</small>`;
+const sFb = s => `<span class="zh">${esc(s.zh)}</span><br><b style="color:var(--red)">${esc(s.py)}</b><br>${esc(s.sk)}${trEn(s)}<br><span class="fbp">${sPlays(s)}</span><br><small>${s.t.map(t => `${esc(t)} ${esc(lex[t][1])} / ${esc(lex[t][2])}`).join(" · ")}</small>`;
 function sentDistractors(s, n = 3) {
   const pool = shuffle(sents.filter(x => x.id !== s.id && x.sk !== s.sk));
   const near = pool.filter(x => Math.abs(x.t.length - s.t.length) <= 2);
@@ -622,7 +623,7 @@ function renderSent(item) {
     for (let j = 0; j < idx; j++) if (s.t[j] === tok) seen++;
     for (let j = 0; j <= seen; j++) pos = s.zh.indexOf(tok, j ? pos + tok.length : 0);
     const shown = esc(s.zh.slice(0, pos)) + `<span class="blank">${"＿".repeat([...tok].length)}</span>` + esc(s.zh.slice(pos + tok.length));
-    return {...base, q: `<div class="prompt ssk">${esc(s.sk)}</div><div class="szh zh">${shown}</div><p class="hint">Doplň slovo</p>`,
+    return {...base, q: `<div class="prompt ssk">${esc(s.sk)}${trEn(s)}</div><div class="szh zh">${shown}</div><p class="hint">Doplň slovo</p>`,
       opts: shuffle([tok, ...others]).map(x => ({html: esc(x), ok: x === tok, zh: true}))};
   }
   if (t === "s-build" || t === "s-build-ear") {
@@ -630,13 +631,13 @@ function renderSent(item) {
     const extra = box >= 3 ? shuffle(Object.keys(lex).filter(x => !s.t.includes(x) && x !== "Wi-Fi")).slice(0, 2) : [];
     const ear = t === "s-build-ear";
     return {...base, opts: [], build: {tiles: shuffle([...s.t, ...extra]), need: s.t.length, ok: [s.t.join(""), s.alt].filter(Boolean)}, custom: true, autoplay: ear,
-      q: `${ear ? `<div class="center" style="margin:18px 0 6px"><button class="play" id="rep" style="font-size:20px;padding:12px 22px">🔊 ešte raz</button></div><p class="hint">Poskladaj, čo počuješ</p>` : `<div class="prompt ssk">${esc(s.sk)}</div><p class="hint">Poskladaj vetu po čínsky</p>`}
+      q: `${ear ? `<div class="center" style="margin:18px 0 6px"><button class="play" id="rep" style="font-size:20px;padding:12px 22px">🔊 ešte raz</button></div><p class="hint">Poskladaj, čo počuješ</p>` : `<div class="prompt ssk">${esc(s.sk)}${trEn(s)}</div><p class="hint">Poskladaj vetu po čínsky</p>`}
         <div class="slots zh" id="slots"></div><div class="tiles" id="tiles"></div>
         <p class="center" style="margin:12px 0 0"><button class="btn" id="chk" disabled>Skontrolovať</button></p>`};
   }
   // s-speak: say it out loud, then reveal and rate yourself
   return {...base, opts: [], speak: true, custom: true,
-    q: `<div class="prompt ssk">${esc(s.sk)}</div><p class="hint">🗣️ Povedz to nahlas po čínsky</p>
+    q: `<div class="prompt ssk">${esc(s.sk)}${trEn(s)}</div><p class="hint">🗣️ Povedz to nahlas po čínsky</p>
       <p class="center"><button class="btn" id="reveal">Ukáž odpoveď</button></p>`};
 }
 function render(item) {
