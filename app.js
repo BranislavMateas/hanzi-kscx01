@@ -6,7 +6,7 @@ const ST = Object.fromEntries(sents.map(s => [s.id, s]));
 const DAY = 864e5, INTERVALS = [0, 1, 2, 4, 8, 16, 32, 64];
 const NEW_PER_SESSION = 5, GOAL = 30;
 const SCHOOL_H = 10, PAST_APP_H = 2, IDLE_MS = 60e3; // hours in class; estimated app hours before the timer existed; idle cutoff
-const NEW_SENT_ROUND = 5, NEW_SENT_DAY = 15, TRIP = new Date(2027, 2, 28);
+const NEW_SENT_ROUND = 5, NEW_SENT_DAY = 15, MIX_WINDOW = 30, TRIP = new Date(2027, 2, 28);
 
 // ---------- state ----------
 const S = Object.assign({srs: {}, xp: 0, streak: 0, last: "", today: "", done: 0, best: 0, ach: {}, crowns: {},
@@ -93,16 +93,19 @@ function knownTokens() {
   return set;
 }
 const newTokens = (s, kn) => [...new Set(s.t)].filter(t => !kn.has(t));
-// next sentences, i+1 style: fewest unknown words first; mostly top-1000 words, mixed with trip and textbook phrases
+// next sentences, i+1 style: fewest unknown words first, ties broken at random; mostly top-1000 words, mixed with trip and textbook phrases
 function nextSents(n, g) {
   const kn = knownTokens(), out = [];
   let pool = sents.filter(s => !known("s:" + s.id) && (!g || s.g === g));
   const kind = Object.fromEntries(sGroups.map(x => [x.id, x.k]));
   for (let i = 0; i < n && pool.length; i++) {
     const want = ["freq", "trip", "freq", "book", "freq"][i % 5];
-    const sub = pool.some(s => kind[s.g] === want) ? pool.filter(s => kind[s.g] === want) : pool;
-    let best = sub[0], cost = 1e9;
-    for (const s of sub) { const c = newTokens(s, kn).length; if (c < cost) { cost = c; best = s; } }
+    // slang stays last; trip topics mix freely, top-1000 and textbook keep their rough order
+    const clean = pool.filter(s => s.g !== "x1"), base = clean.length ? clean : pool;
+    const match = base.filter(s => kind[s.g] === want);
+    const sub = match.length ? match : base;
+    const costs = sub.map(s => newTokens(s, kn).length), min = Math.min(...costs), first = costs.indexOf(min);
+    const best = pick(sub.filter((_, j) => costs[j] === min && (want === "trip" || j < first + MIX_WINDOW)));
     out.push(best); best.t.forEach(t => kn.add(t));
     pool = pool.filter(s => s !== best);
   }
@@ -518,7 +521,7 @@ function learnSents(list, back = home) {
     keyHandler = e => { if (e.key === " " || e.key === "Enter") { e.preventDefault(); nx.click(); } if (e.key === "p") play(s.a, 0, true); if (e.key === "s") play(s.a, 0, true, .65); if (e.key === "Escape") back(); };
   };
   const test = () => {
-    const first = list.map(s => ({k: "s:" + s.id, type: pick(["s-read", "s-ear"])}));
+    const first = shuffle(list).map(s => ({k: "s:" + s.id, type: pick(["s-read", "s-ear"])}));
     const second = shuffle(list).map(s => ({k: "s:" + s.id, type: s.t.length > 2 ? "s-build" : s.t.length > 1 ? "s-cloze" : "s-speak"}));
     const items = [...first, ...second];
     quiz(items, {defer: items.map(x => x.k), onCommit: n => { if (S.sDay !== dayStr()) { S.sDay = dayStr(); S.sNew = 0; } S.sNew = (S.sNew || 0) + n; save(); }});
@@ -675,7 +678,8 @@ const mult = combo => combo >= 20 ? 3 : combo >= 10 ? 2 : combo >= 5 ? 1.5 : 1;
 
 function quiz(items, opt = {}) {
   let i = 0, right = 0, wrong = 0, xp = 0, combo = 0, hearts = opt.hearts || 0;
-  const total = items.length, retry = new Set(), graded = new Set();
+  let total = items.length;
+  const retry = new Set(), graded = new Set();
   // learning quiz: collect results, persist only when the quiz is completed
   const defer = new Set(opt.defer || []), pend = {};
   const doGrade = (k, ok, step = 1) => {
@@ -743,7 +747,7 @@ function quiz(items, opt = {}) {
         nxw.innerHTML = `<div class="rate">${opts.map(([st, e, t], x) => `<button class="rbtn" data-st="${st}"><kbd>${x + 1}</kbd>${e} ${t}<small>${st < 0 ? "znova teraz" : fmtIval(ivalMs(item.k, st))}</small></button>`).join("")}</div>`;
         nxw.style.visibility = "visible";
         rateFn = st => { rateFn = null; doGrade(item.k, st >= 0, Math.max(st, 0));
-          if (st < 0 && !retry.has(item.k)) { retry.add(item.k); items.push({...item}); } if (st === 2) floatText("😎", nxw); next(); };
+          if (st < 0 && !retry.has(item.k)) { retry.add(item.k); items.push({...item}); } if (st === 2) { floatText("😎", nxw); for (let x = items.length - 1; x > i; x--) if (items[x].k === item.k) { items.splice(x, 1); total--; } } next(); };
         nxw.querySelectorAll(".rbtn").forEach(b => b.onclick = () => rateFn && rateFn(+b.dataset.st));
         return;
       }
