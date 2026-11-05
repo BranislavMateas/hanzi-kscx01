@@ -462,6 +462,7 @@ function learnFlow(list) {
   const show = () => {
     const c = list[i];
     $(`<div class="top"><button class="x" id="q">×</button><div class="bar"><i style="width:${i / list.length * 100}%"></i></div><span class="pill">nový ${i + 1}/${list.length}</span></div>
+    <p class="hint">Zdroj: ${esc(lessons[c.l])}</p>
     <div class="panel">${charCard(c)}</div>
     <div class="next"><button class="btn red" id="nx">${i + 1 < list.length ? "Ďalší znak →" : "Otestuj ma →"}</button></div>
     <p class="hint">medzerník = ďalej · P = prehrať</p>`);
@@ -496,6 +497,7 @@ function smartSession() {
 }
 
 // ---------- sentences: learn, browse, shadow ----------
+const sSource = s => { const g = sGroups.find(x => x.id === s.g); return `${g.i} ${esc(g.t)}${s.p ? ` · učebnica ${esc(s.p)}` : ""}`; };
 const trEn = s => `<span class="en">${esc(s.en)}</span>`;
 const tokRow = (s, kn) => `<div class="toks">${s.t.map(t => `<span class="tok ${kn && !kn.has(t) ? "new" : ""}"><b class="zh">${esc(t)}</b><i>${esc(lex[t][0])}</i><small>${esc(lex[t][1])}</small><small class="en">${esc(lex[t][2])}</small></span>`).join("")}</div>`;
 const sPlays = s => `<button class="play" data-a="${s.a}">🔊 prehrať</button> <button class="play" data-a="${s.a}" data-slow="1">🐢 pomaly</button>`;
@@ -505,13 +507,14 @@ function learnSents(list, back = home) {
   const show = () => {
     const s = list[i], fresh = newTokens(s, kn);
     $(`<div class="top"><button class="x" id="q">×</button><div class="bar"><i style="width:${i / list.length * 100}%"></i></div><span class="pill">nová veta ${i + 1}/${list.length}</span></div>
+    <p class="hint">Zdroj: ${sSource(s)}</p>
     <div class="panel pop">
       <div class="szh zh">${esc(s.zh)}</div>
       <div class="py spy">${esc(s.py)}</div>
       <div class="mean">${esc(s.sk)}${trEn(s)}</div>
       <div class="center">${sPlays(s)}</div>
       ${tokRow(s, kn)}
-      <p class="hint">${fresh.length ? `🆕 Nové slová: ${fresh.map(esc).join(" · ")} · ` : ""}Povedz to nahlas aspoň dvakrát.${s.p ? ` · Učebnica ${esc(s.p)}` : ""}</p>
+      <p class="hint">${fresh.length ? `🆕 Nové slová: ${fresh.map(esc).join(" · ")} · ` : ""}Povedz to nahlas aspoň dvakrát.</p>
     </div>
     <div class="next"><button class="btn red" id="nx">${i + 1 < list.length ? "Ďalšia veta →" : "Otestuj ma →"}</button></div>
     <p class="hint">medzerník = ďalej · P = prehrať · S = pomaly</p>`);
