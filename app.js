@@ -447,7 +447,7 @@ function charCard(c) {
     <dt>Pomôcka</dt><dd>${esc(c.n)}</dd>
   </dl>
   ${examples(c.c).length ? wordList(examples(c.c)) : ""}
-  ${charSents(c.c).length ? `<div class="ex">${charSents(c.c).map(s => `<button data-a="${s.a}"><span class="zh">${esc(s.zh)}</span><span class="e">${esc(s.sk)}${trEn(s)}</span></button>`).join("")}</div>` : ""}`;
+  ${charSents(c.c).length ? `<div class="ex">${charSents(c.c).map(s => `<button data-a="${s.a}"><span class="l"><span class="zh">${esc(s.zh)}</span><span class="p">${esc(s.py)}</span></span><span class="e">${esc(s.sk)}${trEn(s)}</span></button>`).join("")}</div>` : ""}`;
 }
 const charSents = c => sents.filter(s => s.zh.includes(c)).sort((a, b) => a.zh.length - b.zh.length).slice(0, 3);
 function detail(c, back) {
