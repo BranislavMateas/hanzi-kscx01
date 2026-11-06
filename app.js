@@ -40,7 +40,23 @@ function liveStreak() {
   if (S.last === dayStr(-2) && S.freeze > 0) return S.streak;
   return 0;
 }
-function answered(ok) {
+// answer log for later analysis: [unix secs, item key, exercise type, 1 = right / 0 = wrong / 2 = "neviem"], separate key so tab merging stays simple
+const LOG_KEY = "hanzi-kscx01-log", LOG_MAX = 30000;
+function logAnswer(k, type, res) {
+  try {
+    const L = JSON.parse(localStorage.getItem(LOG_KEY) || "[]");
+    L.push([Math.round(Date.now() / 1000), k, type, res]);
+    localStorage.setItem(LOG_KEY, JSON.stringify(L.slice(-LOG_MAX)));
+  } catch (e) {}
+}
+function exportProgress() {
+  let log = []; try { log = JSON.parse(localStorage.getItem(LOG_KEY) || "[]"); } catch (e) {}
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([JSON.stringify({exported: new Date().toISOString(), state: S, log})], {type: "application/json"}));
+  a.download = `hanzi-kscx01-${dayStr()}.json`; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+function answered(ok, k, type, idk) {
+  if (k) logAnswer(k, type, idk ? 2 : ok ? 1 : 0);
   rollDay(); S.done++;
   if (S.done === GOAL && S.last !== S.today) {
     if (S.last === dayStr(-1)) S.streak++;
@@ -357,7 +373,7 @@ function home() {
       <div class="pv">${cs.slice(0, 8).map(c => c.c).join("")}</div>
       <div class="bar"><i style="width:${k / cs.length * 100}%"></i></div></button>`;
   }).join("")}</div>
-  <p class="hint" style="margin-top:30px"><button id="reset" style="text-decoration:underline;color:var(--muted)">vymazať postup</button></p>`);
+  <p class="hint" style="margin-top:30px"><button id="export" style="text-decoration:underline;color:var(--muted)">📤 exportovať postup a log</button> · <button id="reset" style="text-decoration:underline;color:var(--muted)">vymazať postup</button></p>`);
   go.onclick = smartSession;
   mute.onclick = () => { S.mute = !S.mute; save(); home(); };
   nlt.onclick = () => { setNoListen(!noListen()); home(); };
@@ -376,7 +392,8 @@ function home() {
   const drawMode = blind => { const k = chars.filter(c => charKnown(c.c)); quiz(shuffle(k.length >= 5 ? k : chars.filter(c => c.l === 0)).slice(0, 10).map(c => ({k: "c:" + c.c, type: "draw", blind})), {free: !k.length}); };
   document.getElementById("m-draw").onclick = () => drawMode(false);
   document.getElementById("m-blind").onclick = () => drawMode(true);
-  reset.onclick = () => { if (confirm("Naozaj vymazať celý postup?")) { clearInterval(studyTimer); localStorage.removeItem("hanzi-kscx01"); location.reload(); } };
+  document.getElementById("export").onclick = exportProgress;
+  reset.onclick = () => { if (confirm("Naozaj vymazať celý postup?")) { clearInterval(studyTimer); localStorage.removeItem("hanzi-kscx01"); localStorage.removeItem(LOG_KEY); location.reload(); } };
   keyHandler = e => { if (e.key === "Enter" && !go.disabled) go.click(); };
   checkAch();
 }
@@ -726,7 +743,7 @@ function quiz(items, opt = {}) {
       btns.forEach((b, x) => { b.disabled = true; if (r.opts[x].ok) b.classList.add("ok"); });
       let rate = false;
       if (!opt.free || known(item.k)) if (!graded.has(item.k) || !ok) { graded.add(item.k); if (ok) rate = true; else doGrade(item.k, false); }
-      answered(ok);
+      answered(ok, item.k, item.type + (item.blind ? "-blind" : ""), idk);
       if (ok) {
         right++; combo++; S.maxCombo = Math.max(S.maxCombo, combo);
         const lucky = Math.random() < .08;
@@ -890,7 +907,7 @@ function speed() {
     const ans = j => {
       if (locked) return; locked = true;
       const b = op.children[j];
-      answered(o[j] === cur);
+      answered(o[j] === cur, "c:" + cur.c, "speed");
       if (o[j] === cur) { score++; combo++; t++; S.maxCombo = Math.max(S.maxCombo, combo); sfx.ok(combo); burstAt(b, 10); floatText("+1 s", tm); nextQ(); }
       else { combo = 0; t = Math.max(0, t - 3); sfx.bad(); card.classList.remove("shake"); void card.offsetWidth; card.classList.add("shake"); b.classList.add("bad"); op.children[o.indexOf(cur)].classList.add("ok"); floatText("−3 s", tm); setTimeout(nextQ, 600); }
       upd(); sc.textContent = score; cb.textContent = combo >= 3 ? "🔥×" + combo : "";
