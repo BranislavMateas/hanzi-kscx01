@@ -1099,3 +1099,5 @@ Wi-Fi|wi-fi|Wi-Fi|Wi-Fi
 父亲节|Fùqīnjié|Deň otcov|Father's Day
 感恩节|Gǎn'ēnjié|Deň vďakyvzdania|Thanksgiving
 春节|Chūnjié|čínsky Nový rok (Sviatok jari)|Spring Festival (Chinese New Year)
+快快|kuàikuài|rýchlo, rýchlo|quickly, quickly
+多大|duō dà|koľko (rokov); aký veľký|how old; how big
