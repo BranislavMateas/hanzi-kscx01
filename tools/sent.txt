@@ -117,7 +117,7 @@ G t2|L2 · Rodina|📘|book
 高文中 的 大哥 有 儿子 。|Gāo Wénzhōng de dàgē yǒu érzi.|Najstarší brat Gao Wenzhonga má syna.|Gao Wenzhong's eldest brother has a son.|s. 55
 这 是 我 爷爷 和 奶奶 。|Zhè shì wǒ yéye hé nǎinai.|Toto sú môj starý otec a stará mama.|These are my grandfather and grandmother.|s. 59
 
-G t3|L3 · Dátum a čas (po s. 83)|📕|book
+G t3|L3 · Dátum a čas (po s. 90)|📕|book
 白英爱 ， 九月 十二 号 是 星期几 ？|Bái Yīng'ài, jiǔyuè shí'èr hào shì xīngqījǐ?|Bai Ying'ai, aký deň je 12. septembra?|Bai Ying'ai, what day of the week is September 12th?|s. 66
 是 星期四 。|Shì xīngqīsì.|Štvrtok.|It's Thursday.|s. 66
 那 天 是 我 的 生日 。|Nà tiān shì wǒ de shēngrì.|V ten deň mám narodeniny.|That day is my birthday.|s. 66
@@ -183,6 +183,46 @@ G t3|L3 · Dátum a čas (po s. 83)|📕|book
 你 为什么 请 我 吃饭 ？|Nǐ wèishénme qǐng wǒ chī fàn?|Prečo ma pozývaš na jedlo?|Why are you treating me to a meal?|s. 83
 因为 明天 是 高文中 的 生日 。|Yīnwèi míngtiān shì Gāo Wénzhōng de shēngrì.|Lebo zajtra má Gao Wenzhong narodeniny.|Because tomorrow is Gao Wenzhong's birthday.|s. 83
 是 吗 ？ 好 。 还 请 谁 ？|Shì ma? Hǎo. Hái qǐng shéi?|Naozaj? Dobre. Koho ešte pozývaš?|Really? Okay. Who else are you inviting?|s. 83
+还 请 我 的 同学 李友 。|Hái qǐng wǒ de tóngxué Lǐ Yǒu.|Ešte pozývam svoju spolužiačku Li You.|I'm also inviting my classmate Li You.|s. 84
+那 太 好 了 ， 我 认识 李友 ， 她 也 是 我 的 朋友 。|Nà tài hǎo le, wǒ rènshi Lǐ Yǒu, tā yě shì wǒ de péngyou.|To je super, Li You poznám, aj ona je moja kamarátka.|That's great! I know Li You, she's my friend too.|s. 84
+明天 几 点 ？|Míngtiān jǐ diǎn?|Zajtra o koľkej?|What time tomorrow?|s. 84
+明天 晚上 七 点 半 。|Míngtiān wǎnshang qī diǎn bàn.|Zajtra večer o pol ôsmej.|Tomorrow evening at seven thirty.|s. 84
+好 ， 明天 七 点 半 见 。|Hǎo, míngtiān qī diǎn bàn jiàn.|Dobre, vidíme sa zajtra o pol ôsmej.|Okay, see you tomorrow at seven thirty.|s. 84
+你 今天 忙 不 忙 ？|Nǐ jīntiān máng bu máng?|Máš dnes veľa práce?|Are you busy today?|s. 86
+我 今天 很 忙 。|Wǒ jīntiān hěn máng.|Dnes mám veľa práce.|I'm busy today.|s. 86
+你 妈妈 喜欢 不 喜欢 吃 中国 菜 ？|Nǐ māma xǐhuan bu xǐhuan chī Zhōngguó cài?|Má tvoja mama rada čínske jedlo?|Does your mom like Chinese food?|s. 86
+我 妈妈 不 喜欢 吃 中国 菜 。|Wǒ māma bù xǐhuan chī Zhōngguó cài.|Moja mama nemá rada čínske jedlo.|My mom doesn't like Chinese food.|s. 86
+请问 ， 王 律师 今天 有 没有 事儿 ？|Qǐngwèn, Wáng lǜshī jīntiān yǒu méi yǒu shìr?|Prepáčte, má dnes advokát Wang niečo na programe?|Excuse me, does Lawyer Wang have anything on today?|s. 86
+王 律师 今天 没有 事儿 。|Wáng lǜshī jīntiān méi yǒu shìr.|Advokát Wang má dnes voľno.|Lawyer Wang is free today.|s. 86
+白英爱 请 高文中 和 王朋 ， 还 请 李友 。|Bái Yīng'ài qǐng Gāo Wénzhōng hé Wáng Péng, hái qǐng Lǐ Yǒu.|Bai Ying'ai pozýva Gao Wenzhonga a Wang Penga a ešte aj Li You.|Bai Ying'ai is inviting Gao Wenzhong and Wang Peng, and Li You too.|s. 87
+王朋 喜欢 吃 中国 菜 ， 还 喜欢 吃 美国 菜 。|Wáng Péng xǐhuan chī Zhōngguó cài, hái xǐhuan chī Měiguó cài.|Wang Peng má rád čínske jedlo a k tomu aj americké.|Wang Peng likes Chinese food, and American food too.|s. 87
+王朋 是 不 是 北京 人 ？|Wáng Péng shì bu shì Běijīng rén?|Je Wang Peng z Pekingu?|Is Wang Peng from Beijing?|s. 87
+今天 是 不 是 星期五 ？|Jīntiān shì bu shì xīngqīwǔ?|Je dnes piatok?|Is today Friday?|s. 87
+高 大哥 有 没有 女儿 ？|Gāo dàgē yǒu méi yǒu nǚ'ér?|Má Gaov najstarší brat dcéru?|Does Big Brother Gao have a daughter?|s. 87
+你 喜欢 不 喜欢 高文中 ？|Nǐ xǐhuan bu xǐhuan Gāo Wénzhōng?|Máš rád Gao Wenzhonga?|Do you like Gao Wenzhong?|s. 88
+王朋 认识 不 认识 白英爱 ？|Wáng Péng rènshi bu rènshi Bái Yīng'ài?|Pozná Wang Peng Bai Ying'ai?|Does Wang Peng know Bai Ying'ai?|s. 88
+李友 认识 谁 ？|Lǐ Yǒu rènshi shéi?|Koho pozná Li You?|Who does Li You know?|s. 88
+李友 认识 王朋 ， 还 认识 高文中 。|Lǐ Yǒu rènshi Wáng Péng, hái rènshi Gāo Wénzhōng.|Li You pozná Wang Penga a ešte aj Gao Wenzhonga.|Li You knows Wang Peng, and Gao Wenzhong too.|s. 88
+高文中 请 谁 吃饭 ？|Gāo Wénzhōng qǐng shéi chī fàn?|Koho pozýva Gao Wenzhong na jedlo?|Who is Gao Wenzhong treating to a meal?|s. 88
+高文中 请 王 医生 ， 还 请 白 律师 。|Gāo Wénzhōng qǐng Wáng yīshēng, hái qǐng Bái lǜshī.|Gao Wenzhong pozýva doktora Wanga a ešte aj advokáta Baia.|Gao Wenzhong is inviting Dr. Wang, and Lawyer Bai too.|s. 88
+王朋 喜欢 吃 什么 菜 ？|Wáng Péng xǐhuan chī shénme cài?|Aké jedlo má Wang Peng rád?|What food does Wang Peng like?|s. 88
+白英爱 有 谁 的 照片 ？|Bái Yīng'ài yǒu shéi de zhàopiàn?|Čie fotky má Bai Ying'ai?|Whose photos does Bai Ying'ai have?|s. 88
+白英爱 有 她 爸爸 的 照片 ， 还 有 她 妈妈 的 照片 。|Bái Yīng'ài yǒu tā bàba de zhàopiàn, hái yǒu tā māma de zhàopiàn.|Bai Ying'ai má fotku svojho otca a aj fotku svojej mamy.|Bai Ying'ai has a photo of her dad, and one of her mom too.|s. 88
+你 星期一 忙 不 忙 ？|Nǐ xīngqīyī máng bu máng?|Máš v pondelok veľa práce?|Are you busy on Monday?|s. 89
+我 星期一 很 忙 。|Wǒ xīngqīyī hěn máng.|V pondelok mám veľa práce.|I'm busy on Monday.|s. 89
+我 星期一 不 忙 。|Wǒ xīngqīyī bù máng.|V pondelok nemám veľa práce.|I'm not busy on Monday.|s. 89
+星期二 呢 ？ 你 忙 不 忙 ？|Xīngqī'èr ne? Nǐ máng bu máng?|A v utorok? Máš veľa práce?|How about Tuesday? Are you busy?|s. 89
+我 星期六 请 你 吃 晚饭 ， 怎么样 ？|Wǒ xīngqīliù qǐng nǐ chī wǎnfàn, zěnmeyàng?|V sobotu ťa pozývam na večeru, čo ty na to?|I'll treat you to dinner on Saturday, how about it?|s. 89
+星期六 我 很 忙 。|Xīngqīliù wǒ hěn máng.|V sobotu mám veľa práce.|I'm busy on Saturday.|s. 89
+星期天 ， 怎么样 ？|Xīngqītiān, zěnmeyàng?|Čo tak v nedeľu?|How about Sunday?|s. 89
+你 还 请 谁 ？|Nǐ hái qǐng shéi?|Koho ešte pozývaš?|Who else are you inviting?|s. 90
+我 还 请 王朋 。|Wǒ hái qǐng Wáng Péng.|Pozývam ešte Wang Penga.|I'm also inviting Wang Peng.|s. 90
+新年 快乐 ！|Xīnnián kuàilè!|Šťastný nový rok!|Happy New Year!|s. 90
+情人节 快乐 ！|Qíngrénjié kuàilè!|Všetko najlepšie k Valentínu!|Happy Valentine's Day!|s. 90
+母亲节 快乐 ！|Mǔqīnjié kuàilè!|Všetko najlepšie ku Dňu matiek!|Happy Mother's Day!|s. 90
+父亲节 快乐 ！|Fùqīnjié kuàilè!|Všetko najlepšie ku Dňu otcov!|Happy Father's Day!|s. 90
+今天 是 感恩节 。|Jīntiān shì Gǎn'ēnjié.|Dnes je Deň vďakyvzdania.|Today is Thanksgiving.|s. 90
+春节 快乐 ！|Chūnjié kuàilè!|Šťastný čínsky Nový rok!|Happy Spring Festival (Chinese New Year)!|s. 90
 
 G c1|Cesta: prežitie|🆘|trip
 我 听不懂 。|Wǒ tīng bu dǒng.|Nerozumiem (tomu, čo hovoríte).|I don't understand (what you're saying).

@@ -71,6 +71,13 @@ for ch in need:
     r=tab[ch];gg=first.get(ch,'t3')
     if gg not in lessons:gg='t3'
     data['chars'].append(dict(c=ch,py=r[1],m=r[2],p=r[3],n=r[4],l=base+lessons.index(gg),a=f'ch_{ord(ch):x}.mp3'))
+# chars already in the published ../data.js keep their lesson and position, so new sentences in early groups do not shift saved crowns
+try:prev=json.loads(re.sub(r'^const DATA=|;\s*$','',open('../data.js',encoding='utf8').read().strip()))
+except OSError:prev=None
+if prev:
+    cur={c['c']:c for c in data['chars']}
+    data['chars']=[dict(cur[c['c']],l=c['l']) for c in prev['chars'] if c['c'] in cur]+[c for c in data['chars'] if c['c'] not in {p['c'] for p in prev['chars']}]
+    if len(prev['lessons'])>len(data['lessons']):data['lessons']=prev['lessons']
 hz={w['zh'] for w in data['words']}
 wid=1800000000000
 for z,py,en in wds:

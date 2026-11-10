@@ -1090,3 +1090,12 @@ Wi-Fi|wi-fi|Wi-Fi|Wi-Fi
 笨蛋|bèndàn|hlupák|fool
 白痴|báichī|idiot|idiot
 屁股|pìgu|zadok|butt
+星期二|xīngqī'èr|utorok|Tuesday
+星期天|xīngqītiān|nedeľa|Sunday
+白|bái|biely; Bai (priezvisko)|white; Bai (surname)
+新年|xīnnián|Nový rok|New Year
+情人节|Qíngrénjié|Valentín|Valentine's Day
+母亲节|Mǔqīnjié|Deň matiek|Mother's Day
+父亲节|Fùqīnjié|Deň otcov|Father's Day
+感恩节|Gǎn'ēnjié|Deň vďakyvzdania|Thanksgiving
+春节|Chūnjié|čínsky Nový rok (Sviatok jari)|Spring Festival (Chinese New Year)
