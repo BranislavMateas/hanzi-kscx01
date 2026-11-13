@@ -5,7 +5,7 @@ const W = Object.fromEntries(words.map(w => [w.id, w]));
 const ST = Object.fromEntries(sents.map(s => [s.id, s]));
 const DAY = 864e5, INTERVALS = [0, 1, 2, 4, 8, 16, 32, 64];
 const NEW_PER_SESSION = 5, GOAL = 30;
-const SCHOOL_H = 10, PAST_APP_H = 2, IDLE_MS = 60e3; // hours in class; estimated app hours before the timer existed; idle cutoff
+const SCHOOL_H = 16, PAST_APP_H = 2, IDLE_MS = 60e3; // hours in class; estimated app hours before the timer existed; idle cutoff
 const NEW_SENT_ROUND = 5, NEW_SENT_DAY = 15, MIX_WINDOW = 30, TRIP = new Date(2027, 2, 28);
 
 // ---------- state ----------
